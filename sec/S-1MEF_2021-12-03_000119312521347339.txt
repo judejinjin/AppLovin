@@ -1,0 +1,202 @@
+As filed with the Securities and Exchange Commission on December 3, 2021.
+Registration No. 333- UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549 FORM S-1 REGISTRATION STATEMENT UNDER THE SECURITIES
+ACT OF 1933 AppLovin Corporation (Exact name of registrant as specified in
+its charter)
+                                                                            
+  Delaware                                   7370    45-3264542             
+  (State or other               -Primary Standard                           
+  jurisdiction of                      Industrial    -I.R.S. Employer       
+  incorporation or            Classification Code    Identification Number  
+  organization)                            Number                           
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (800) 839-9646 (Address,
+including zip code, and telephone number, including area code, of
+registrant’s principal executive offices) Adam Foroughi Co-Founder,Chief
+Executive Officer, and Chairperson Herald Chen President and Chief Financial
+Officer 1100 Page Mill Road Palo Alto, California 94304 (800) 839-9646
+(Name, address, including zip code, and telephone number, including area
+code, of agent for service) Copies to:
+                                                                            
+  Rezwan D. Pavri                                   Michael T. Esquivel     
+  Lisa L. Stimmell                                  Ran D. Ben-Tzur James   
+  Andrew T.                Victoria Valenzuela      D.                      
+  Hill Lang Liu            Lonnie Huang AppLovin    Evans Jennifer J.       
+  Wilson Sonsini           Corporation 1100 Page    Hitchcock               
+  Goodrich & Rosati,       Mill Road                Fenwick & West LLP      
+  P.C.                     Palo Alto, California    801 California Street   
+  650 Page Mill Road       94304                    Mountain View,          
+  Palo                     (800) 839-9646           California 94041        
+  Alto, California                                  (650) 988-8500          
+  94304 (650) 493-9300                                                      
+                                                                            
+Approximate date of commencement of proposed sale to the public: As soon as
+practicable after this registration statement becomes effective. If any of
+the securities being registered on this Form are to be offered on a delayed
+or continuous basis pursuant to Rule 415 under the Securities Act of 1933
+check the following box. ☐ If this Form is filed to register additional
+securities for an offering pursuant to Rule 462(b) under the Securities Act,
+please check the following box and list the Securities Act registration
+statement number of the earlier effective registration statement for the
+same offering. ☒ File No. 333-261377 If this Form is a post-effective
+amendment filed pursuant to Rule 462(c) under the Securities Act, check the
+following box and list the Securities Act registration statement number of
+the earlier effective registration statement for the same offering. ☐ If
+this Form is a post-effective amendment filed pursuant to Rule 462(d) under
+the Securities Act, check the following box and list the Securities Act
+registration statement number of the earlier effective registration
+statement for the same offering. ☐ Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, a non-
+acceleratedfiler, smaller reporting company, or an emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2of
+the Exchange Act.
+                                                                  
+  Large accelerated filer    ☐    Accelerated filer            ☐  
+  Non-accelerated filer      ☒    Smaller reporting company    ☐  
+                                  Emerging growth company      ☐  
+                                                                  
+If an emerging growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section
+7(a)(2)(B) of the Securities Act. ☐ CALCULATION OF REGISTRATION FEE
+                                                                            
+  Title of                         Proposed                                 
+  each Class      Shares to         Maximum        Maximum       Amount of  
+  of                     be       Aggregate      Aggregate    Registration  
+  Securities    Registered…        Offering       Offering          Fee(3)  
+  to be                               Price       Price(2)                  
+  Registered                   Per Share(2)                                 
+  Class A                                                                   
+  common                                                                    
+  stock, par                                                                
+  value           1,150,000          $90.35    $103,896,7…       $9,631.23  
+  $0.00003                                                                  
+  per                                                                       
+  share                                                                     
+                                                                            
+                                                                            
+       Represents only the additional number of shares of Class A common    
+       stock being registered, and includes                                 
+       150,000 additional shares of Class A common stock that the           
+  (1)  underwriters have the option to purchase. Does not include the       
+       securities that the registrant previously registered on the          
+       Registration Statement on Form                                       
+       S-1, as amended (File No. 333-261377).                               
+                                                                            
+                                                                            
+       Calculated pursuant to Rule 457(c) under the Securities Act of       
+       1933, as amended, or the Securities Act, for the                     
+  (2)  purpose of determining the registration fee based on the average of  
+       the high and low sales prices of the registrant’s Class A common     
+       stock as reported by the Nasdaq Global Select Market on November     
+       30, 2021.                                                            
+                                                                            
+                                                                            
+       The registrant previously registered 7,475,000 shares of Class A     
+       common stock on the Registration Statement                           
+       on Form S-1, as amended (File No. 333-261377), which was declared    
+       effective by the Securities and Exchange Commission on December 3,   
+  (3)  2021. In accordance with                                             
+       Rule 462(b) under the Securities Act, 1,150,000 additional shares    
+       of Class A common stock are hereby registered, which includes the    
+       additional shares that the underwriters have the option to           
+       purchase.                                                            
+                                                                            
+This Registration Statement shall become effective upon filing with the
+Securities and Exchange Commission in accordance with Rule 462(b) of the
+Securities Act.
+
+EXPLANATORY NOTE AND INCORPORATION OF
+
+CERTAIN INFORMATION BY REFERENCE
+
+AppLovin
+Corporation (the “Registrant”) is filing this Registration Statement with
+the Securities and Exchange Commission (the “Commission”) pursuant to Rule
+462(b) under the Securities Act of 1933, as amended. This Registration
+Statement
+relates to the public offering of securities contemplated by the
+Registration Statement on Form S-1, as amended (File No. 333-261377) (the
+“Prior Registration Statement”), which the Commission declared effective on
+December 3, 2021.
+
+The Registrant is filing this Registration Statement for the sole purpose of
+increasing by 1,150,000 shares the number of shares of its Class A common
+stock, par value $0.00003 per share, to be registered for sale, 150,000 of
+which may be sold by KKR Denali Holdings L.P. upon exercise of the
+underwriters’ option to purchase additional shares. The additional shares
+that are being registered
+for issuance and sale are in an amount and at a price that together
+represent no more than 20% of the maximum aggregate offering price set forth
+in the Calculation of Registration Fee table contained in the Prior
+Registration Statement. The
+information set forth in the Prior Registration Statement, and all exhibits
+to the Prior Registration Statement, are hereby incorporated by reference
+into this Registration Statement.
+
+The required opinions and consents are listed on the Exhibit Index attached
+hereto and filed herewith.
+
+EXHIBIT INDEX
+                                                                            
+  Exhibit    Description                                                    
+  Number                                                                    
+  5.1        Opinion of Wilson Sonsini Goodrich & Rosati, P.C.              
+  23.1       Consent of Deloitte & Touche LLP, Independent Registered       
+             Public Accounting Firm.                                        
+  23.2       Consent of Deloitte GmbH Wirtschaftsprüfungsgesellschaft,      
+             Independent Auditors.                                          
+  23.3       Consent of KPMG LLP, Independent Auditors.                     
+  23.4       Consent of Wilson Sonsini Goodrich & Rosati, P.C. (included    
+             in Exhibit 5.1).                                               
+             Power of Attorney (included on page II-10 of the Registration  
+  24.1#      Statement                                                      
+             on Form S-1 (File No. 333-261377) filed on November 26,        
+             2021).                                                         
+                                                                            
+                        
+  #  Previously filed.  
+                        
+SIGNATURES Pursuant to the requirements of the Securities Act of 1933, as
+amended, the Registrant has duly caused this Registration Statement on Form
+S-1to be signed on its behalf by the undersigned, thereunto duly authorized,
+in the City of Palo Alto, California, on the 3rd day of December, 2021.
+                                                         
+          APPLOVIN CORPORATION                           
+  By:                           /s/ Adam Foroughi        
+  Name:                         Adam Foroughi            
+  Title:                        Chief Executive Officer  
+                                                         
+Pursuant to the requirements of the Securities Act of 1933, as amended, this
+Registration Statement on Form S-1has been signed by the following persons
+in the capacities and on the dates indicated.
+                                                                            
+                         Title                                              
+                         Chief Executive Officer and                        
+  Signature              Chairperson                                        
+  /s/ Adam Foroughi      (Principal Executive Officer)                      
+  Adam Foroughi          Chief Financial Officer,         Date              
+  /s/ Herald Chen        President, and Director          December 3, 2021  
+  Herald Chen            (Principal Financial Officer)    December 3, 2021  
+ ────────────────────────────────────────────────────────────────────────── 
+  /s/ Elena Arutunian    Chief Accounting Officer                           
+  Elena Arutunian        (Principal                       December 3, 2021  
+                         Accounting Officer)                                
+  * Craig                Director                         December 3, 2021  
+  Billings                                                                  
+  * Margaret             Director                         December 3, 2021  
+  Georgiadis                                                                
+  * Alyssa               Director                         December 3, 2021  
+  Harvey Dawson                                                             
+  * Edward               Director                         December 3, 2021  
+  Oberwager                                                                 
+  * Asha                 Director                         December 3, 2021  
+  Sharma                                                                    
+  * Eduardo              Director                         December 3, 2021  
+  Vivas                                                                     
+                                                                            
+                                                 
+  *By:    /s/ Adam Foroughi    Attorney-in-Fact  
+          Adam Foroughi                          
+                                                 

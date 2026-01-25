@@ -1,0 +1,108 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported): May  
+16, 2023 AppLovin Corporation (Exact name of registrant as specified in its 
+charter)                                                                    
+                                                                            
+  Delaware                 001-40325                45-3264542              
+  (State or other          -Commission File         -IRS Employer           
+  jurisdiction of          Number                   Identification No.      
+  incorporation)                                                            
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-Kfiling is intended to simultaneously satisfy the filing         
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class         Trading Symbol    Name of each exchange on    
+                                                which registered            
+  Class A common stock,                         The Nasdaq Stock Market     
+  par value of                APP               LLC                         
+  $0.00003 per share                                                        
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR                    
+§240.12b-2).Emerging growth company ☐ If an emerging growth company,        
+indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐         
+                                                          
+  Item 1.01  Entry into a Material Definitive Agreement.  
+                                                          
+On May 17, 2023, AppLovin Corporation (“AppLovin”) entered into an agreement
+to repurchase 15,952,381 shares of its Class A common stock, par value      
+$0.00003 per share (the “Class A Common Stock”), beneficially owned by KKR  
+Denali Holdings L.P. (“KKR Denali”) in a private transaction at a price per 
+share equal to $21.00, for an aggregate purchase price of approximately $335
+million (the “Share Repurchase Agreement”). This represents an approximately
+8% discount to the closing price of $22.88 of the Class A Common Stock at   
+the close of trading on May 16, 2023. The repurchase of the shares of Class 
+A Common Stock pursuant to the Share Repurchase Agreement is expected to    
+close by May 18, 2023. The Share Repurchase Agreement contains customary    
+representations, warranties and covenants of the parties. A special         
+committee of the Board of Directors of AppLovin (the “Special Committee”),  
+comprised solely of independent directors not affiliated with KKR Denali,   
+approved the Share Repurchase Agreement. The foregoing summary is qualified 
+in its entirety by reference to the full text of the Share Repurchase       
+Agreement, which is attached hereto as Exhibit 10.1 and is incorporated by  
+reference.                                                                  
+                            
+  Item 8.01  Other Events.  
+                            
+As of May 16, 2023, approximately $204 million remained available under     
+AppLovin’s previously authorized $750 million share repurchase program. On  
+May 16, 2023, the Special Committee authorized an increase of $296 million  
+such that up to $500 million of Class A Common Stock may be repurchased.    
+Following the closing of the repurchase of the shares of Class A Common     
+Stock pursuant to the Share Repurchase Agreement of approximately $335      
+million, approximately $165 million will be available under the share       
+repurchase program. Repurchases may be made from time to time through open  
+market purchases or through privately negotiated transactions subject to    
+market conditions, applicable legal requirements and other relevant factors.
+Open market repurchases may be structured to occur in accordance with the   
+requirements of Rule 10b-18. AppLovinmay also, from time to time, enter into
+Rule 10b5-1 plansto facilitate repurchases of its shares under this         
+authorization. The repurchase program does not obligate AppLovin to acquire 
+any particular amount of its Class A common stock, and may be suspended at  
+any time at AppLovin’s discretion.                                          
+                                                 
+  Item 9.01  Financial Statements and Exhibits.  
+                                                 
+(d) Exhibits:                                                               
+                                                                            
+  Exhibit No.    Exhibit Description                                        
+  10.1           Share Repurchase Agreement, dated May 17, 2023.            
+ ────────────────────────────────────────────────────────────────────────── 
+  104            Cover Page Interactive Data File (embedded within the      
+                 Inline XBRL document).                                     
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                 
+                        APPLOVIN CORPORATION     
+  Date: May 17, 2023    /s/ Herald Chen          
+ ─────────────────────────────────────────────── 
+                        Herald Chen              
+                        Chief Financial Officer  
+                                                 

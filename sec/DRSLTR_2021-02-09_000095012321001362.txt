@@ -1,0 +1,187 @@
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83
+                                                       
+  Wilson Sonsini Goodrich & Rosati                     
+  Professional Corporation                             
+  650 Page Mill Road Palo Alto, California 94304-1050  
+  O: 650.493.9300                                      
+  F: 650.493.6811                                      
+                                                       
+February 9, 2021 Via EDGAR and Overnight Delivery U.S. Securities and
+Exchange Commission Division of Corporation Finance Office of Technology 100
+F Street, N.E. Washington, D.C. 20549
+                                                          
+  Attention:    Larry Spirgel                             
+                Alexandra Barone                          
+                Robert Littlepage                         
+                Claire DeLabar                            
+  Re:           Applovin Corporation                      
+                Amendment No. 1 to                        
+                Draft Registration Statement on Form S-1  
+                Submitted January 15, 2021                
+                CIK No. 0001751008                        
+                                                          
+Ladies and Gentlemen: On behalf of our client, Applovin Corporation (“
+AppLovin” or the “ Company”), we submit this letter in response to comments
+from the staff (the “ Staff”) of the Securities and Exchange Commission (the
+“ Commission”) contained in its letter dated January 27, 2021, relating to
+the above referenced Amendment No. 1 to Draft Registration Statement on Form
+S-1(the “ Registration Statement”). We are concurrently submitting via EDGAR
+this letter and a revised draft of the Registration Statement. For the
+Staff’s reference, we are providing to the Staff by overnight delivery
+copies of this letter as well as both a clean copy of the Registration
+Statement and a copy marked to show all changes from the version
+confidentially submitted on January 15, 2021. The Company has advised us
+that the registration statement will be publicly filed and all nonpublic
+draft submissions will be publicly available on the EDGAR system (i) at
+least 15 days prior to the Company conducting its road show or (ii) in the
+event the Company does not conduct a roadshow, at least 15 days prior to the
+requested effective date. Pursuant to 17 C.F.R. § 200.83 of the Commission’s
+Rules on Information and Requests, the Company is also requesting that
+confidential treatment be afforded to this letter and the revised draft of
+the Registration Statement being submitted. As instructed by the Commission,
+each page of the Draft Registration Statement has been marked with the
+following legend: “Confidential Treatment Requested by Applovin Corporation
+Pursuant to 17 C.F.R. Section 200.83.” AUSTIN BEIJING BOSTON BRUSSELS HONG
+KONG LONDON LOS ANGELES NEW YORK PALO ALTO SAN DIEGO SAN FRANCISCO SEATTLE
+SHANGHAI WASHINGTON, DC WILMINGTON, DE
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission February 9,
+2021 Page 2 In this letter, we have recited the comments from the Staff in
+italicized, bold type and have followed each comment with the Company’s
+response. Except for page references appearing in the headings and Staff
+comments below (which are references to the Registration Statement submitted
+on January 15, 2021), all page references herein correspond to the page of
+the revised draft of the Registration Statement. Management’s Discussion and
+Analysis and Results of Operations Our Business Model Results of Operations,
+page 80
+                                                                            
+      Please expand the discussion of Business Revenue to quantify the      
+      changes in revenues for each type of                                  
+      change, such as advertising revenue growth from additional Apps       
+  1.  developed, advertising revenue growth from existing Apps, if          
+      material. Also, please expand the discussion to explain the reason    
+      for a decline in Software revenue due to increased usage              
+      of advertising inventory by your growing Owned Studios and Partner    
+      Studios.                                                              
+                                                                            
+The Company respectfully advises the Staff that it has revised its
+disclosure on pages 82 and 83 to address the Staff’s comment.
+                                                                            
+      We note your response to comment 4 however we continue to believe     
+      that changes in revenues should be                                    
+      addressed on the basis of changes due to price versus changes in      
+      volume. While we understand that you may manage your business based   
+      on key metrics, this would impact your GAAP segment disclosures       
+      rather than addressing requirements of MD&A                           
+      disclosure. Please revise the MD&A discussion of both Business and    
+      Consumer revenues to address changes in revenues, by type of          
+      revenue, for example, in-app purchases or fees for removing           
+  2.  advertisements                                                        
+      for Consumer revenue, due to changes in price and volume of your      
+      revenue transactions. These revenue trends are important and are      
+      required disclosure regardless of whether the individual revenue      
+      transactions are for tangible, intangible or virtual                  
+      products or services. While we understand that you may not retain     
+      user-level data related to Consumer Revenue for historical periods,   
+      revenue transaction data utilized in recording revenue under GAAP is  
+      the basis for such price and volume                                   
+      changes.                                                              
+                                                                            
+The Company respectfully advises the Staff that it has revised its
+disclosure on page 83 to address the Staff’s comment. Contractual
+Obligations, page 86
+                                                                            
+      We note that the table does not include amounts related to            
+      agreements governing your acquisitions of your                        
+      Owned Studios and arrangements with Partner Studios to provide for    
+  3.  payment contingent upon future performance metrics. Please expand     
+      the disclosure to provide sufficient detail of all significant        
+      agreements for transactions not accounted for as                      
+      business combinations so that a reader may clearly understand how     
+      these various agreements will impact your future operations.          
+                                                                            
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission February 9,
+2021 Page 3 The Company respectfully advises the Staff that it has revised
+its disclosure on pages 87 and 88 to address the Staff’s comment. Financial
+Statements—Applovin Corporation Note 2—Basis of Presentation and Summary of
+Significant Accounting Policies Intangible Assets, page F-14
+                                                                            
+      Refer to your response to comment 12. Please supplementally confirm   
+      that revenue generated from durable                                   
+  4.  virtual goods continued to be immaterial in 2020 and 2021 or expand   
+      your accounting policy to include how estimates of user bases or      
+      user engagement impact the lives of virtual items when recognizing    
+      Consumer Revenue.                                                     
+                                                                            
+The Company respectfully advises the Staff that the revenue generated from
+durable virtual goods is expected to be material in 2020 and 2021 as a
+result of the acquisition of Machine Zone in May 2020. The Company will
+expand its accounting policy related to Consumer Revenue in its consolidated
+financial statements as of and for the year ended December 31, 2020 to
+include language substantially consistent with the following: Consumer
+Revenue IAPs include fees collected from users for the purchase of virtual
+goods to enhance their gameplay experience. The identified performance
+obligation is to provide users with the ability to acquire, use, and hold
+virtual items over the estimated period of time the virtual items are
+available to the user or until the virtual item is consumed. The Company
+categorizes its virtual goods as either consumable or durable. Consumable
+virtual goods represent goods that can be consumed by a specific player
+action in gameplay; accordingly, the Company recognizes revenue from the
+sale of consumable virtual goods as the goods are consumed and the Company’s
+performance obligation is satisfied. Durable virtual goods represent goods
+that are accessible to the user over an extended period of time;
+accordingly, the Company recognizes revenue from the sale of durable virtual
+goods ratably over the period of time the goods are available to the user
+and the Company’s performance obligation is satisfied, which is generally
+the estimated average user life (“EAUL”). Payment is required at the time of
+purchase and the purchase price is a fixed amount. Users make IAPs through
+the Company’s distribution partners. The transaction price is equal to the
+gross amount charged to users because the Company is the principal in the
+transaction. IAPs fees are non-refundable.Such payments are initially
+recorded to deferred revenue. The EAUL represents the Company’s best
+estimate of the expected life of paying users for the applicable game. The
+EAUL begins when a user makes a first purchase of durable virtual goods and
+ends when a user is determined to be inactive. The Company determines the
+EAUL on a game-by-gamebasis. For a newly launched game that has limited
+playing data, the Company determines its EAUL based on the EAUL of a game
+that has sufficiently similar characteristics. The Company determines the
+EAUL on a quarterly basis and applies such calculated EAUL to all bookings
+in the respective quarter.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission February 9,
+2021 Page 4 Determining the EAUL is subjective and requires management’s
+judgment. Future playing patterns may differ from historical playing
+patterns, and therefore the EAUL may change in the future. The EAULs are
+generally between six and nine months. Note 7. Acquisitions, page F-21
+                                                                            
+      Please expand the disclosure on pages F-23, F-44 and F-45 to include  
+  5.  a more detailed discussion of the future earn-out payments for each   
+      of the asset acquisitions.                                            
+                                                                            
+The Company respectfully advises the Staff that it has revised its
+disclosure on pages F-23, F-44and F-45to address the Staff’s comment. *****
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission February 9,
+2021 Page 5 Please direct any questions regarding the Company’s responses or
+the revised draft of the Registration Statement to me at (650) 565-3574or
+rpavri@wsgr.com.
+                                    
+  Sincerely,                        
+  WILSON SONSINI GOODRICH & ROSATI  
+  Professional Corporation          
+  /s/ Rezwan D. Pavri               
+  Rezwan D. Pavri                   
+                                    
+                                            
+  cc:  Adam Foroughi, Applovin Corporation  
+                                            
+Herald Chen, Applovin Corporation Victoria Valenzuela, Applovin Corporation
+Lonnie Huang, Applovin Corporation Andrew T. Hill, Wilson Sonsini Goodrich &
+Rosati, P.C. Lang Liu, Wilson Sonsini Goodrich & Rosati, P.C. Michael T.
+Esquivel, Fenwick & West LLP Ran D. Ben-Tzur, Fenwick & West LLP James D.
+Evans, Fenwick & West LLP Jennifer J. Hitchcock, Fenwick & West LLP

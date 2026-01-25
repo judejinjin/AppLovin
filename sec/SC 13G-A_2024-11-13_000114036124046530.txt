@@ -1,0 +1,1033 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C.
+20549 SCHEDULE 13G Under the Securities Exchange Act of 1934
+(Amendment No. 3)* AppLovin Corporation (Name of Issuer) Class A
+Common Stock, par value $0.00003 per share (Title of Class of
+Securities) 03831W108 (CUSIP Number) September 30, 2024 (Date of
+Event Which Requires Filing of this Statement) Check the
+appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+                    
+  ☐  Rule 13d-1(b)  
+                    
+                    
+  ☐  Rule 13d-1(c)  
+                    
+                    
+  ☒  Rule 13d-1(d)  
+                    
+                                                                   
+     The remainder of this cover page shall be filled out for a    
+     reporting person’s initial filing on this form with respect   
+  *  to the subject class of securities, and for any subsequent    
+     amendment containing information which would alter            
+     disclosures provided in a prior cover page.                   
+                                                                   
+The information required on the remainder of this cover page shall
+not be deemed to be “filed” for the purpose of Section 18 of the
+Securities Exchange Act of 1934 (“Act”) or otherwise subject to the
+liabilities of that section of the Act but shall be subject to all
+other provisions of the Act (however, see the Notes).
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                   KKR Denali                                      
+                Holdings L.P.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           PN                                      
+                                                                   
+2
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                   KKR Denali                                      
+              Holdings GP LLC                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           OO                                      
+                                                                   
+3
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                 KKR Americas                                      
+                Fund XII L.P.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+               Cayman Islands                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           PN                                      
+                                                                   
+4
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+               KKR Associates                                      
+                 Americas XII                                      
+                         L.P.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+               Cayman Islands                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           PN                                      
+                                                                   
+5
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+             KKR Americas XII                                      
+                      Limited                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+               Cayman Islands                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           OO                                      
+                                                                   
+6
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                    KKR Group                                      
+             Partnership L.P.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+               Cayman Islands                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           PN                                      
+                                                                   
+7
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                    KKR Group                                      
+               Holdings Corp.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           CO                                      
+                                                                   
+8
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                KKR Group Co.                                      
+                         Inc.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           CO                                      
+                                                                   
+9
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+               KKR & Co. Inc.                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           CO                                      
+                                                                   
+10
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+               KKR Management                                      
+                          LLP                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                     Delaware                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           PN                                      
+                                                                   
+11
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+              Henry R. Kravis                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                United States                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           IN                                      
+                                                                   
+12
+                            
+  CUSIP No. 03831W108  13G  
+                            
+                                                                   
+                                       NAMES OF                    
+  1                                   REPORTING                    
+                                        PERSONS                    
+                    George R.                                      
+                      Roberts                                      
+                                      CHECK THE                    
+  2                             APPROPRIATE BOX                    
+                               IF A MEMBER OF A                    
+                                          GROUP                    
+                         (a)☒                                      
+                         (b)☐                                      
+  3                                SEC USE ONLY                    
+                                 CITIZENSHIP OR                    
+  4                                    PLACE OF                    
+                                   ORGANIZATION                    
+                United States                                      
+             NUMBER OF SHARES                                      
+                 BENEFICIALLY                    SOLE VOTING       
+                OWNED BY EACH                 5  POWER             
+             REPORTING PERSON                                      
+                         WITH                                      
+  0                                                                
+  6             SHARED VOTING                                      
+                        POWER                                      
+  5,342,283                                                        
+  7          SOLE DISPOSITIVE                                      
+                        POWER                                      
+  0                                                                
+                       SHARED                                      
+  8               DISPOSITIVE                                      
+                        POWER                                      
+  5,342,283                                                        
+                               AGGREGATE AMOUNT                    
+  9                                BENEFICIALLY                    
+                                  OWNED BY EACH                    
+                               REPORTING PERSON                    
+                    5,342,283                                      
+                                   CHECK IF THE                    
+                               AGGREGATE AMOUNT                    
+  10                                 IN ROW (9)                    
+                               EXCLUDES CERTAIN                    
+                                    SHARES (SEE                    
+                                  INSTRUCTIONS)                    
+                            ☐                                      
+                               PERCENT OF CLASS                    
+  11                             REPRESENTED BY                    
+                                  AMOUNT IN ROW                    
+                                            (9)                    
+                         1.8%                                      
+                                        TYPE OF                    
+  12                           REPORTING PERSON                    
+                                           (SEE                    
+                                  INSTRUCTIONS)                    
+                           IN                                      
+                                                                   
+13 STATEMENT ON SCHEDULE 13G This is Amendment No. 3 to the
+Schedule 13G filed with the Securities and Exchange Commission on
+February 10, 2022, as previously amended on February 13, 2023 and
+February 12, 2024. Pursuant to Rule 13d-1(d) under the Securities
+Exchange Act of 1934, as amended (the “Act”), each of the persons
+listed below under Item 2 (each a “Reporting Person,” and
+collectively the “Reporting Persons”), have agreed to file one
+statement with respect to their beneficial ownership of Class A
+Common Stock, par value $0.00003 per share, of AppLovin Corporation
+(the “Issuer”). Item 1.
+                        
+  (a)  Name of Issuer:  
+                        
+AppLovin Corporation
+                                                         
+  (b)  Address of Issuer’s Principal Executive Offices:  
+                                                         
+1100 Page Mill Road Palo Alto, California 94304 Item 2.
+                               
+  (a)  Name of Person Filing:  
+                               
+                                                
+  (i)  KKR Denali Holdings L.P. (“KKR Denali”)  
+                                                
+                                                      
+  (ii)  KKR Denali Holdings GP LLC (‘KKR Denali GP”)  
+                                                      
+                                                           
+  (iii)  KKR Americas Fund XII L.P. (“KKR Americas Fund”)  
+                                                           
+                                                             
+  (iv)  KKR Associates Americas XII L.P. (“KKR Associates”)  
+                                                             
+                                                          
+  (v)  KKR Americas XII Limited (“KKR Americas Limited”)  
+                                                          
+                                                              
+  (vi)  KKR Group Partnership L.P. (“KKR Group Partnership”)  
+                                                              
+                                                          
+  (vii)  KKR Group Holdings Corp. (“KKR Group Holdings”)  
+                                                          
+                                                
+  (viii)  KKR Group Co. Inc. (“KKR Group Co.”)  
+                                                
+                                      
+  (ix)  KKR & Co. Inc. (“KKR & Co.”)  
+                                      
+                                              
+  (x)  KKR Management LLP (“KKR Management”)  
+                                              
+                         
+  (xi)  Henry R. Kravis  
+                         
+                            
+  (xii)  George R. Roberts  
+                            
+                                                                   
+  (b)  Address of Principal Business Office, or, if none,          
+       Residence:                                                  
+                                                                   
+The principal business office for all persons filing (other than
+Mr. Kravis and Mr. Roberts) is: 30 Hudson Yards New York, NY 10001
+14 The principal business office for Mr. Kravis is: c/o Kohlberg
+Kravis Roberts & Co. L.P. 30 Hudson Yards New York, New York 10001
+The principal business office for Mr. Roberts is: c/o Kohlberg
+Kravis Roberts & Co. L.P. 2800 Sand Hill Road, Suite 200 Menlo
+Park, CA 94025
+                     
+  (c)  Citizenship:  
+                     
+See Item 4 of each cover page.
+                                      
+  (d)  Title of Class of Securities:  
+                                      
+Class A Common Stock, par value $0.00003 per share (the “Class A
+Common Stock”)
+                      
+  (e)  CUSIP Number:  
+                      
+03831W108 Item 3. Not applicable.
+                       
+  Item 4.  Ownership.  
+                       
+                                   
+  (a)  Amount beneficially owned:  
+                                   
+As of September 30, 2024, KKR Denali beneficially held an aggregate
+of 5,342,283 shares of Class A Common Stock of the Issuer based on
+(i) 136,794 shares of Class A Common Stock of the Issuer directly
+held and (ii) 5,205,489 shares of Class B Common Stock, par value
+$0.00003 per share (the “Class B Common Stock”), of the Issuer
+directly held convertible at any time at the option of the holder
+into 5,205,489 shares of Class A Common Stock of the Issuer,
+representing approximately 1.8% of the outstanding shares of Class
+A Common Stock calculated pursuant to Rule 13d-3 of the Act, as
+amended (“Rule 13d-3”). Calculations of the Class A Common Stock
+beneficially owned are based on 298,557,111 shares of Class A
+Common Stock of the Issuer outstanding as of September 30, 2024, as
+reported in the Quarterly Report on Form 10-Q filed by the Issuer
+with the Securities and Exchange Commission on November 6, 2024
+(the “Form 10-Q”) plus the 5,205,489 shares of Class B Common Stock
+convertible at any time at the option of KKR Denali into 5,205,489
+shares of Class A Common Stock, which shares will also convert
+automatically upon certain events specified in the Issuer’s amended
+and restated certificate of incorporation. Class A Common Stock has
+one vote per share, Class B Common Stock has 20 votes per share,
+and Class C common stock has no voting rights. The common stock
+held by the Reporting Persons represents 1.6% of the total common
+stock of the Issuer outstanding, based on 298,557,111 shares of
+Class A Common Stock and 36,924,030 shares of Class B Common Stock
+of the Issuer outstanding as of September 30, 2024, as reported in
+the Form 10-Q. Each of KKR Denali GP (as the general partner of KKR
+Denali); KKR Americas Fund (as the sole member of KKR Denali GP);
+KKR Associates (as the general partner of KKR Americas Fund); KKR
+Americas Limited (as the general partner of KKR Associates); KKR
+Group Partnership (as 15 the sole shareholder of KKR Americas
+Limited); KKR Group Holdings (as the general partner of KKR Group
+Partnership); KKR Group Co. (as the sole shareholder of KKR Group
+Holdings); KKR & Co. (as the sole shareholder of KKR Group Co.),
+and KKR Management (as the Series I preferred stockholder of KKR &
+Co.) may also be deemed to be the beneficial owner of the
+securities held by KKR Denali. KKR Denali GP, KKR Americas Fund,
+KKR Associates, KKR Americas Limited, KKR Group Partnership, KKR
+Group Holdings, KKR Group Co., KKR & Co. and KKR Management
+disclaim beneficial ownership of such securities. As the founding
+partners of KKR Management, Messrs. Henry R. Kravis and George R.
+Roberts may be deemed to be the beneficial owner of the securities
+reported herein, but disclaim beneficial ownership of such
+securities. Adam Foroughi, co-founder, Chief Executive Officer, and
+the Chairperson of the board of directors of the Issuer, Herald
+Chen, the former President and Chief Financial Officer, and a
+member of the board of directors of the Issuer, and KKR Denali
+(collectively with certain affiliates, the “Voting Agreement
+Parties”) are parties to a Voting Agreement (the “Voting
+Agreement”), which contains certain provisions relating to voting
+of securities of the Issuer by the parties thereto. Pursuant to the
+Voting Agreement, two of Mr. Foroughi, Mr. Chen, and KKR Denali
+(one of which must be Mr. Foroughi) have the authority to direct
+the vote of all shares of Class B Common Stock as well as any other
+shares of the Company’s capital stock held by the Voting Agreement
+Parties and their respective permitted entities and permitted
+transferees on all matters to be voted upon by stockholders. By
+virtue of the Voting Agreement and the obligations and rights
+thereunder, the Reporting Persons acknowledge and agree that they
+are acting as a “group” within the meaning of Section 13(d) of the
+Act with the other Voting Agreement Parties and/or certain of their
+affiliates. The Reporting Persons expressly disclaim beneficial
+ownership over any shares of Class A Common Stock or Class B Common
+Stock that they may be deemed to beneficially own solely by reason
+of the Voting Agreement. Messrs. Foroughi and Chen are separately
+making Schedule 13G filings reporting their beneficial ownership of
+shares of Class A Common Stock.
+                          
+  (b)  Percent of class:  
+                          
+See Item 4(a) above.
+                                                     
+  (c)  Number of shares as to which the person has:  
+                                                     
+                                                 
+  (i)  Sole power to vote or to direct the vote  
+                                                 
+See Item 5 of each cover page.
+                                                    
+  (ii)  Shared power to vote or to direct the vote  
+                                                    
+See Item 6 of each cover page.
+                                                                
+  (iii)  Sole power to dispose or to direct the disposition of  
+                                                                
+See Item 7 of each cover page.
+                                                                 
+  (iv)  Shared power to dispose or to direct the disposition of  
+                                                                 
+See Item 8 of each cover page.
+                                                          
+  Item 5.  Ownership of Five Percent or Less of a Class.  
+                                                          
+16 If this statement is being filed to report the fact that as of
+the date hereof the reporting person has ceased to be the
+beneficial owner of more than five percent of the class of
+securities, check the following: ☐
+                                                                   
+  Item 6.  Ownership of More than Five Percent on Behalf of        
+           Another Person.                                         
+                                                                   
+See Item 4 above. To the best knowledge of the Reporting Persons,
+no one other than the Reporting Persons and the partners, members,
+affiliates and shareholders of the Reporting Persons has the right
+to receive or the power to direct the receipt of dividends from, or
+the proceeds from the sale of, shares of common stock.
+                                                                   
+           Identification and Classification of the Subsidiary     
+  Item 7.  Which Acquired the Security Being Reported on By the    
+           Parent Holding Company or Control Person.               
+                                                                   
+Not applicable.
+                                                                   
+  Item 8.  Identification and Classification of Members of the     
+           Group.                                                  
+                                                                   
+See Item 4 above.
+                                            
+  Item 9.  Notice of Dissolution of Group.  
+                                            
+Not applicable.
+                             
+  Item 10.  Certifications.  
+                             
+Not applicable. 17 SIGNATURES After reasonable inquiry and to the
+best of the knowledge and belief of the undersigned, the
+undersigned certify that the information set forth in this
+statement is true, complete and correct.
+                                                                   
+  Dated: November 13, 2024                                         
+ ───────────────────────────────────────────────────────────────── 
+                                    KKR DENALI HOLDINGS L.P.       
+                                    By: KKR Denali Holdings GP     
+                                    LLC, its general partner       
+                            By:     /s/ Christopher Lee            
+                            Name:   Christopher Lee                
+                            Title:  Assistant Secretary            
+                                    KKR DENALI HOLDINGS GP LLC     
+                            By:     /s/ Christopher Lee            
+                            Name:   Christopher Lee                
+                            Title:  Assistant Secretary            
+                                    KKR AMERICAS FUND XII L.P.     
+                                    By: KKR Associates Americas    
+                                    XII L.P., its general partner  
+                                    By: KKR Americas XII Limited,  
+                                    its general partner            
+                            By:     /s/ Christopher Lee            
+                            Name:   Christopher Lee                
+                            Title:  Assistant Secretary            
+                                    KKR ASSOCIATES AMERICAS XII    
+                                    L.P.                           
+                                    By: KKR Americas XII Limited,  
+                                    its general partner            
+                            By:     /s/ Christopher Lee            
+                            Name:   Christopher Lee                
+                            Title:  Assistant Secretary            
+                                                                   
+                                    
+          KKR AMERICAS XII LIMITED  
+  By:     /s/ Christopher Lee       
+  Name:   Christopher Lee           
+  Title:  Assistant Secretary       
+                                    
+                                                             
+          KKR GROUP PARTNERSHIP L.P.                         
+          By: KKR Group Holdings Corp., its general partner  
+  By:     /s/ Christopher Lee                                
+  Name:   Christopher Lee                                    
+  Title:  Secretary                                          
+          KKR GROUP HOLDINGS CORP.                           
+  By:     /s/ Christopher Lee                                
+  Name:   Christopher Lee                                    
+  Title:  Secretary                                          
+          KKR GROUP CO. INC.                                 
+  By:     /s/ Christopher Lee                                
+  Name:   Christopher Lee                                    
+  Title:  Secretary                                          
+                                                             
+                               
+          KKR & CO. INC.       
+  By:     /s/ Christopher Lee  
+  Name:   Christopher Lee      
+  Title:  Secretary            
+          KKR MANAGEMENT LLP   
+  By:     /s/ Christopher Lee  
+  Name:   Christopher Lee      
+  Title:  Assistant Secretary  
+                               
+                            
+       HENRY R. KRAVIS      
+  By:  /s/ Christopher Lee  
+                            
+                               
+  Name:   Christopher Lee      
+  Title:  Attorney-in-fact     
+          GEORGE R. ROBERTS    
+  By:     /s/ Christopher Lee  
+  Name:   Christopher Lee      
+  Title:  Attorney-in-fact     
+                               

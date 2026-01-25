@@ -1,0 +1,153 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported): June 
+8, 2022 AppLovin Corporation (Exact name of registrant as specified in its  
+charter)                                                                    
+                                                                     
+  Delaware                        001-40325      45-3264542          
+  (State or other jurisdiction    -Commission    -IRS Employer       
+  of incorporation)               File Number    Identification No.  
+                                                                     
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-Kfiling is intended to simultaneously satisfy the filing         
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class               Trading    Name of each exchange        
+                                    Symbol     on which registered          
+  Class A common stock, par                                                 
+  value of                          APP        The Nasdaq Stock Market LLC  
+  $0.00003 per share                                                        
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR                    
+§240.12b-2).Emerging growth company ☐ If an emerging growth company,        
+indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐         
+                                                                  
+  Item 5.07  Submission of Matters to a Vote of Security Holders  
+                                                                  
+On June 8, 2022, AppLovin Corporation (the “Company”) held its annual       
+meeting of stockholders (the “Meeting”). The stockholders of the Company    
+voted on the following five proposals at the Meeting, each of which is more 
+fully described in the Company’s definitive proxy statement filed with the  
+Securities and Exchange Commission on April 27, 2022:                       
+                                                                            
+      To elect eight directors to serve until the 2023 annual meeting of    
+  1.  stockholders and until their successors are duly elected and          
+      qualified;                                                            
+                                                                            
+                                                                            
+      To ratify the appointment of Deloitte & Touche LLP as the Company’s   
+      independent registered public accounting firm for the Company’s       
+  2.  fiscal year ending December 31, 2022;                                 
+ ────────────────────────────────────────────────────────────────────────── 
+                                                                            
+                                                                            
+  3.  To approve, on an advisory basis, the compensation of the Company’s   
+      named executive officers;                                             
+                                                                            
+                                                                            
+      To recommend, on an advisory basis, the frequency of future           
+  4.  stockholder advisory votes on the compensation of the Company’s       
+      named executive officers; and                                         
+                                                                            
+                                                                            
+      To approve the amendment of the Company’s 2021 Partner Studio         
+  5.  Incentive Plan to increase the number of shares of Class A common     
+      stock authorized for issuance thereunder.                             
+                                                                            
+1. Election of Directors                                                    
+                                                                            
+  Nominee                   For       Against      Abstain          Broker  
+                                                                 Non-Votes  
+  Adam            1,765,849,398     7,096,509        7,042      14,840,019  
+  Foroughi                                                                  
+  Herald Chen     1,765,726,973     7,218,918        7,058      14,840,019  
+  Craig           1,752,574,939    20,345,211       32,799      14,840,019  
+  Billings                                                                  
+  Margaret        1,748,956,458    21,583,795    2,412,696      14,840,019  
+  Georgiadis                                                                
+  Alyssa                                                                    
+  Harvey          1,770,375,983       162,154    2,414,812      14,840,019  
+  Dawson                                                                    
+  Edward          1,748,401,665    22,118,156    2,433,128      14,840,019  
+  Oberwager                                                                 
+  Asha Sharma     1,770,138,770       384,660    2,429,519      14,840,019  
+  Eduardo         1,763,405,596     9,501,275       46,078      14,840,019  
+  Vivas                                                                     
+                                                                            
+Based on the votes set forth above, each director nominee was duly elected  
+to serve until the 2023 annual meeting of stockholders and until his or her 
+successor is duly elected and qualified. 2. Ratification of Appointment of  
+Independent Registered Public Accounting Firm                               
+                                         
+  For              Against      Abstain  
+  1,784,935,650    468,769    2,388,549  
+                                         
+Based on the votes set forth above, the stockholders ratified the           
+appointment of Deloitte & Touche LLP as the Company’s independent registered
+public accounting firm for the fiscal year ending December 31, 2022. 3.     
+Advisory Vote on Compensation of Named Executive Officers                   
+                                                             
+  For                Against    Abstain    Broker Non-Votes  
+  1,768,625,561    4,280,603     46,785          14,840,019  
+                                                             
+Based on the votes set forth above, the stockholders approved, on an        
+advisory basis, the compensation of the Company’s named executive officers. 
+4. Advisory Vote on Frequency of Future Stockholder Advisory Votes on       
+Compensation of Named Executive Officers                                    
+                                                                        
+  1 Year           2 Years    3 Years      Abstain    Broker Non-Votes  
+  1,770,282,706     12,190    106,765    2,551,288          14,840,019  
+                                                                        
+Based on the votes set forth above, the stockholders advised that they were 
+in favor of every one year as the frequency of holding a non-bindingadvisory
+vote on named executive officer compensation. Based on the results of the   
+vote, and consistent with the recommendation of the Company’s Board of      
+Directors (the “Board”), the Board has determined to hold a non-            
+bindingadvisory vote regarding named executive officer compensation every   
+one year until the next required non-bindingadvisory vote on the frequency  
+of holding future votes regarding named executive officer compensation. 5.  
+Approval of the Amendment of the Company’s 2021 Partner Studio Incentive    
+Plan to Increase the Number of Shares of Class A Common Stock Authorized for
+Issuance Thereunder                                                         
+                                                              
+  For                 Against    Abstain    Broker Non-Votes  
+  1,742,550,326    30,327,341     75,282          14,840,019  
+                                                              
+Based on the votes set forth above, the stockholders approved the amendment 
+of the Company’s 2021 Partner Studio Incentive Plan to increase the number  
+of shares of Class A common stock authorized for issuance thereunder.       
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                                    
+                         APPLOVIN CORPORATION                       
+  Date: June 10, 2022    /s/ Victoria Valenzuela                    
+ ────────────────────────────────────────────────────────────────── 
+                         Victoria Valenzuela                        
+                         Chief Legal Officer & Corporate Secretary  
+                                                                    

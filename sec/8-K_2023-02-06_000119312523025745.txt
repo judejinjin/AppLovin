@@ -1,0 +1,123 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported):      
+February 3, 2023 AppLovin Corporation (Exact name of registrant as specified
+in its charter)                                                             
+                                                                     
+  Delaware                        001-40325      45-3264542          
+  (State or other jurisdiction    -Commission    -IRS Employer       
+  of incorporation)               File Number    Identification No.  
+                                                                     
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-K filing is intended to simultaneously satisfy the filing        
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class               Trading    Name of each exchange        
+                                    Symbol     on which registered          
+  Class A common stock, par                                                 
+  value of                          APP        The Nasdaq Stock Market LLC  
+  $0.00003 per share                                                        
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).      
+Emerging growth company ☐ If an emerging growth company, indicate by check  
+mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards        
+provided pursuant to Section 13(a) of the Exchange Act. ☐                   
+                                                                            
+  Item 5.03  Amendments to Articles of Incorporation or Bylaws; Change in   
+             Fiscal Year.                                                   
+                                                                            
+On February 3, 2023, the Board of Directors (the “Board”) of AppLovin       
+Corporation (the “Company”) approved the Company’s Amended and Restated     
+Bylaws (the “Amended Bylaws”), effective February 3, 2023. The Amended      
+Bylaws incorporate certain amendments to align the Amended Bylaws with      
+changes to the Delaware General Corporation Law and the laws of the state of
+Delaware, including:                                                        
+                                                                            
+  •    provisions relating to delivery of notices and communications        
+       regarding adjourned stockholder meetings;                            
+                                                                            
+                                                                            
+  •    the definition of “public announcement” for purposes of the Amended  
+       Bylaws;                                                              
+                                                                            
+                                                                 
+  •    requirements for action by written consent of the Board;  
+                                                                 
+                                                                            
+  •    provisions regarding the purchase and maintenance of insurance on    
+       behalf of directors, officers, employees or agents; and              
+                                                                            
+                                              
+  •    provisions regarding indemnification.  
+                                              
+The Amended Bylaws also incorporate certain other amendments, including:    
+                                                                            
+       enhancing procedural mechanics and disclosure requirements in        
+       connection with stockholder nominations of directors and             
+       submissions of proposals regarding other business at the Company’s   
+       annual meeting of stockholders (except for proposals properly made   
+  •    in accordance with Rule 14a-8 under the Securities Exchange Act of   
+       1934), including by requiring additional background information and  
+       disclosures regarding proposing stockholders, proposed nominees and  
+       business, and other persons related to a stockholder’s solicitation  
+       of proxies;                                                          
+                                                                            
+                                                                            
+       changing certain provisions relating to stockholder nominees for     
+  •    election as a director to address the universal proxy rules adopted  
+       by the Securities and Exchange Commission;                           
+                                                                            
+                                                                 
+  •    clarifying the Company’s exclusive forum provisions; and  
+                                                                 
+                                                                            
+  •    making certain other clarifying, conforming and ministerial          
+       changes.                                                             
+                                                                            
+The foregoing description of the Amended Bylaws is qualified in its entirety
+by reference to the full text of the Amended Bylaws filed as Exhibit 3.1 to 
+this Current Report on Form 8-K,which is incorporated by reference into this
+Item 5.03.                                                                  
+                                                 
+  Item 9.01  Financial Statements and Exhibits.  
+                                                 
+(d) Exhibits:                                                               
+                                                                            
+  Exhibit No.    Exhibit Description                                        
+  3.1            Amended and Restated Bylaws of AppLovin Corporation.       
+  104            Cover Page Interactive Data File (embedded within the      
+                 Inline XBRL document).                                     
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                     
+                            APPLOVIN CORPORATION     
+  Date: February 6, 2023    /s/ Herald Chen          
+ ─────────────────────────────────────────────────── 
+                            Herald Chen              
+                            Chief Financial Officer  
+                                                     

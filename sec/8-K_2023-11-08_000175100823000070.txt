@@ -1,0 +1,292 @@
+                                                            
+                       UNITED STATES                        
+                                                            
+                                                            
+             SECURITIES AND EXCHANGE COMMISSION             
+                                                            
+                                                            
+                   Washington, D.C. 20549                   
+                                                            
+                                                            
+                          FORM 8-K                          
+                                                            
+                                                            
+                       CURRENT REPORT                       
+                                                            
+                                                            
+              Pursuant to Section 13 or 15(d)               
+                                                            
+                                                            
+           of The Securities Exchange Act of 1934           
+                                                            
+ Date of Report (Date of earliest event reported): November 
+                          3, 2023                           
+                                                            
+                    AppLovin Corporation                    
+                                                            
+   (Exact name of registrant as specified in its charter)   
+                                                            
+  Delaware               001-40325      45-3264542          
+  (State or other        -Commission    -IRS Employer       
+  jurisdiction           File Number    Identification No.  
+  of incorporation)                                         
+                                                            
+                                                            
+                    1100 Page Mill Road                     
+                                                            
+                                                            
+                Palo Alto, California 94304                 
+                                                            
+(Address of principal executive offices, including zip code)
+                                                            
+                      ( 800) 839-9646                       
+                                                            
+    (Registrant’s telephone number, including area code)    
+                                                            
+                       Not Applicable                       
+                                                            
+   (Former name or former address, if changed since last    
+                          report)                           
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR
+
+240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                                            
+                         Trading      Name of each          
+  Title of each class    Symbol(s)    exchange              
+                                      on which registered   
+  Class A common                                            
+  stock, par value       APP          The Nasdaq Stock      
+  $0.00003                            Market LLC            
+  per share                                                 
+                                                            
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act
+of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR §240.12b-2). Emerging growth
+company ☐
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition
+period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of
+the Exchange Act. ☐
+Item 2.02 Results of Operations and Financial Condition
+On November 8, 2023, AppLovin Corporation (“AppLovin” or the
+“Company”) issued a press release announcing its financial
+results for the quarter ended September 30, 2023 and issued
+a letter to its shareholders. A copy of the press release
+and shareholder letter are attached as Exhibits 99.1 and
+99.2 to this current report on Form 8-K and are incorporated
+by reference herein.
+
+The information in this Item 2.02 of this current report on
+Form 8-K and the related exhibits attached hereto shall not
+be deemed “filed” for purposes of Section 18 of the
+Securities Exchange Act of 1934, as amended (the “Exchange
+Act”) or otherwise subject to the liabilities of that
+section, nor shall it be deemed incorporated by reference in
+any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, regardless of any general incorporation
+language in such filing.
+Item 5.02. Departure of Directors or Certain Officers;
+Election of Directors; Appointment of Certain
+
+Officers; Compensatory Arrangements of Certain Officers.
+On November 3, 2023, Herald Chen, the Company's President
+and Chief Financial Officer, informed the Company that he
+will resign from his management roles, effective as of
+December 31, 2023. Mr. Chen will continue to serve on the
+Company's Board and will serve as an advisor to the
+Company’s Chief Executive Officer from January 1, 2024.
+
+On November 3, 2023, the Company’s board of directors (the
+“Board”) appointed Matthew Stumpf, the Company’s current
+Vice President of Finance and FP&A, to serve as Chief
+Financial Officer, effective as of January 1, 2024.
+Effective as of January 1, 2024, Mr. Stumpf will be deemed
+the Company’s principal financial officer and Dmitriy
+Dorosh, the Company’s current Vice President, Controller,
+will be deemed the Company’s principal accounting officer.
+
+Mr. Stumpf, 39, has served as the Company’s Vice President
+of Finance and FP&A since July 2022. Mr. Stumpf previously
+served as the Company's Senior Director, FP&A from February
+2020 through June 2022. Prior to joining the Company, Mr.
+Stumpf worked at PricewaterhouseCoopers, an audit and
+assurance, consulting and tax services firm, from 2006 to
+2020 in roles of increasing responsibility, including most
+recently as Transaction Services - Financial Due Diligence
+Director. He holds a B.A. in Business Management Economics
+from the University of California, Santa Cruz.
+
+Mr. Dorosh, 38, has served as the Company’s Vice President,
+Controller since September 2022. Mr. Dorosh previously
+served as the Company’s Senior Director, Assistant
+Controller from January 2022 through August 2022 and
+Director of Technical Accounting and SEC Reporting from
+November 2019 through December 2021. Prior to joining the
+Company, Mr. Dorosh worked at Facebook, Inc., a social media
+company, in Technical Accounting from October 2017 through
+October 2019, and at WageWorks, Inc., a benefits management
+services platform, as Director of Technical Accounting and
+Policy from May 2017 through October 2017. Mr. Dorosh began
+his career at PricewaterhouseCoopers, an audit and
+assurance, consulting and tax services firm, from 2007 to
+2017, serving in roles of increasing responsibility,
+including most recently as a Transactions Services Director.
+He holds a B.A. in Finance and Accounting from Fresno
+Pacific University.
+
+Stumpf Offer Letter
+
+On November 6, 2023, the Company entered into an offer
+letter with Mr. Stumpf (the “Stumpf Offer Letter”), which
+provides for compensation arrangements effective upon him
+assuming the role of Chief Financial Officer. The Stumpf
+Offer Letter is on the Company’s form of confirmatory
+employment letter, a copy of which was filed as Exhibit 10.7
+to the Company’s Registration Statement on Form S-1 (File
+No. 333-253800), filed with the Securities and Exchange
+Commission (the “SEC”) on March 2, 2021 (the “Form Offer
+Letter”), does not have a specific term and provides that
+Mr. Stumpf’s employment as Chief Financial Officer will be
+at-will. Under the Stumpf Offer Letter, the Company will pay
+Mr. Stumpf an annual base salary of $400,000, which will be
+subject to review and adjustment from time to time by the
+Board or its Compensation Committee (the “Committee”). Mr.
+Stumpf will continue to be eligible to participate in the
+benefit programs generally available to employees of the
+Company, including retirement and health and welfare plans.
+
+Pursuant to the terms of the Stumpf Offer Letter, the
+Company has granted Mr. Stumpf an award of $5,000,000
+restricted stock units (“RSUs”), which will vest quarterly
+over a one-year period with the first vesting date on
+February 20, 2024, subject to Mr. Stumpf’s continuous role
+as a service provider to the Company through the applicable
+vesting date. The Stumpf Offer Letter also provides that Mr.
+Stumpf will be eligible to participate in the Company’s
+Executive Change in Control and Severance Plan, a copy of
+which was filed as Exhibit 10.8 to the Company’s
+Registration Statement on Form S-1 (File No. 333-253800),
+filed with the SEC on March 22, 2021 (the “Severance Plan”).
+The Company will also enter into its standard form of
+indemnification agreement with Mr. Stumpf, a copy of which
+was filed as Exhibit 10.1 to the Company’s Registration
+Statement on Form S-1 (File No. 333-253800), filed with the
+SEC on March 2, 2021 (the “Form Indemnification Agreement”).
+
+Effective upon his appointment as Chief Financial Officer of
+the Company, Mr. Stumpf will be designated as an “officer”
+as such term is used within the meaning of Section 16 of the
+Securities Exchange Act of 1934, as amended.
+
+There are no arrangements or understandings between Mr.
+Stumpf and any other persons pursuant to which Mr. Stumpf
+was selected as Chief Financial Officer. There are no family
+relationships between Mr. Stumpf and any director or
+executive officer of the Company, and he has no direct or
+indirect material interest in any transaction required to be
+disclosed pursuant to Item 404(a) of Regulation S-K.
+
+Dorosh Offer Letter
+
+On November 7, 2023, the Company entered into an offer
+letter with Mr. Dorosh (the “Dorosh Offer Letter”), which
+provides for compensation arrangements effective upon his
+designation as principal accounting officer. The Dorosh
+Offer Letter is on the Form Offer Letter, does not have a
+specific term and provides that Mr. Dorosh’s employment as
+Vice President, Controller, will continue be at-will. Under
+the Dorosh Offer Letter, the Company will pay Mr. Dorosh an
+annual base salary of $400,000, which will be subject to
+review and adjustment from time to time by the Board or the
+Committee. Mr. Dorosh will continue to be eligible to
+participate in the benefit programs generally available to
+employees of the Company, including retirement and health
+and welfare plans.
+
+Pursuant to the terms of the Dorosh Offer Letter, the
+Company has granted Mr. Dorosh an award of $1,250,000 RSUs,
+which will vest quarterly over a one-year period with the
+first vesting date on February 20, 2024, subject to Mr.
+Dorosh’s continuous role as a service provider to the
+Company through the applicable vesting date. The Dorosh
+Offer Letter also provides that Mr. Dorosh will be eligible
+to participate in the Severance Plan. The Company will also
+enter into its Form Indemnification Agreement with Mr.
+Dorosh.
+
+Effective upon designation as principal accounting officer
+of the Company, Mr. Dorosh will be designated as an
+“officer” as such term is used within the meaning of Section
+16 of the Securities Exchange Act of 1934, as amended.
+
+There are no arrangements or understandings between Mr.
+Dorosh and any other persons pursuant to which Mr. Dorosh
+was designated as the principal accounting officer. There
+are no family relationships between Mr. Dorosh and any
+director or executive officer of the Company, and he has no
+direct or indirect material interest in any transaction
+required to be disclosed pursuant to Item 404(a) of
+Regulation S-K.
+
+Chen Advisory Services
+
+Following Mr. Chen’s departure as an employee on December
+31, 2023, he is expected to continue to serve as an
+
+advisor to the Company’s CEO for a one-year period, in
+exchange for which he will receive an award of $2,400,000
+RSUs, which will vest quarterly over a one-year period with
+the first vesting date on February 20, 2024, subject to Mr.
+Chen’s continuous role as a service provider to the Company
+through the applicable vesting date. Upon cessation of his
+advisory services, Mr. Chen will receive the standard
+compensation available to the Company’s non-employee
+directors for any ongoing director service he provides to
+the Company.
+                                                            
+  Item 9.01 Financial Statements and Exhibits               
+                                                            
+(d) Exhibits:
+                                                            
+                 Exhibit Description                        
+  Exhibit No.    Press Release, dated November 8, 2023.     
+  99.1           Letter to Shareholders, dated November 8,  
+  99.2           2023.                                      
+ ────────────────────────────────────────────────────────── 
+                 Cover Page Interactive Data File           
+  104            (embedded within the Inline XBRL           
+                 document).                                 
+                                                            
+                                                            
+                         SIGNATURE                          
+                                                            
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned hereunto duly
+authorized.
+                                                     
+                            APPLOVIN CORPORATION     
+  Date: November 8, 2023    /s/ Herald Chen          
+ ─────────────────────────────────────────────────── 
+                            Herald Chen              
+                            Chief Financial Officer  
+                                                     

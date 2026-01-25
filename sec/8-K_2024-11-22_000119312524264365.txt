@@ -1,0 +1,130 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C.  
+20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of   
+The Securities Exchange Act of 1934 Date of Report (Date of        
+earliest event reported): November 20, 2024 AppLovin Corporation   
+(Exact name of registrant as specified in its charter)             
+                                                                   
+  Delaware              001-40325              45-3264542          
+  (State or other       -Commission File       -IRS Employer       
+  jurisdiction of       Number                 Identification No.  
+  incorporation)                                                   
+                                                                   
+1100 Page Mill Road Palo Alto, California 94304 (Address of        
+principal executive offices, including zip code) (800) 839-9646    
+(Registrant’s telephone number, including area code) Not Applicable
+(Former name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-Kfiling is intended to     
+simultaneously satisfy the filing obligation of the registrant     
+under any of the following provisions:                             
+                                                                   
+  ☐  Written communications pursuant to Rule 425 under the         
+     Securities Act (17 CFR 230.425)                               
+                                                                   
+                                                                   
+  ☐  Soliciting material pursuant to Rule 14a-12 under the         
+     Exchange Act (17 CFR 240.14a-12)                              
+                                                                   
+                                                                   
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b)     
+     under the Exchange Act (17 CFR 240.14d-2(b))                  
+                                                                   
+                                                                   
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c)     
+     under the Exchange Act (17 CFR 240.13e-4(c))                  
+                                                                   
+Securities registered pursuant to Section 12(b) of the Act:        
+                                                                   
+  Title of each                              Name of each          
+  class                 Trading Symbol(s)    exchange on which     
+                                             registered            
+  Class A common                                                   
+  stock, par value      APP                  The Nasdaq Stock      
+  $0.00003                                   Market LLC            
+  per share                                                        
+                                                                   
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17   
+CFR §230.405) or Rule 12b-2of the Securities Exchange Act of 1934  
+(17 CFR §240.12b-2).Emerging growth company ☐ If an emerging growth
+company, indicate by check mark if the registrant has elected not  
+to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐                                       
+                                                                   
+  Item 1.01Entry into a Material Definitive Agreement.On November  
+  20, 2024, AppLovin Corporation(the “Company”) entered into an    
+  underwriting agreement (the “Underwriting Agreement”) with the   
+  several underwriters party thereto (collectively, the            
+  “Underwriters”), in connection with the offer and sale (the      
+  “Offering”) of $3.55 billion aggregate principal amount of       
+  senior notes consisting of $1,000 million aggregate principal    
+  amount of 5.125% Senior Notes due 2029 (the “2029 Notes”),       
+  $1,000 million aggregate principal amount of 5.375% Senior       
+  Notes due 2031 (the “2031 Notes”), $1,000 million aggregate      
+  principal amount of 5.500% Senior Notes due 2034 (the “2034      
+  Notes”) and $550 million aggregate principal amount of 5.950%    
+  Senior Notes due 2054 (the “2054 Notes” and, collectively with   
+  the 2029 Notes, the 2031 Notes and the 2034 Notes, the           
+  “Notes”). The Company intends to use the net proceeds of the     
+  Offering to repay in full its senior secured term loan facility  
+  due 2028 and its senior secured term loan facility due 2030      
+  and, to the extent of any remaining net proceeds, for general    
+  corporate purposes.The Underwriting Agreement contains           
+  customary representations, warranties and covenants of the       
+  Company, as well as certain customary indemnification            
+  provisions with respect to the Company and the Underwriters      
+  relating to certain losses or damages arising out of or in       
+  connection with the consummation of the Offering. The Offering   
+  is expected to close on December 5, 2024, subject to customary   
+  closing conditions in accordance with the terms of the           
+  Underwriting Agreement.The foregoing description of the          
+  Underwriting Agreement does not purport to be complete and is    
+  qualified in its entirety by reference to the full text of the   
+  Underwriting Agreement, which is attached hereto as Exhibit      
+  1.1, and which is incorporated herein by reference.This Current  
+  Report on Form8-Kshall not constitute an offer to sell, a        
+  solicitation to buy or an offer to purchase or sell any          
+  securities. No offer, solicitation, purchase or sale will be     
+  made in any jurisdiction in which such offer, solicitation or    
+  sale would be unlawful. Any offer, or solicitation to buy, if    
+  at all, will be made only by means of a prospectus supplement    
+  and accompanying base prospectus. This Current Report on         
+  Form8-Kdoes not constitute a notice of repayment of outstanding  
+  indebtedness.Forward Looking StatementsThis Current Report on    
+  Form8-Kcontains forward-looking statements within the meaning    
+  of Section 27A of the Securities Act of 1933, as amended, and    
+  Section 21E of the Securities Exchange Act of 1934, as amended.  
+  Forward-looking statements in this Current Report on             
+  Form8-Kinclude, but are not limited to, statements regarding     
+  the timing of the closing of the Offering and the anticipated    
+  use of proceeds of the Offering. These forward-looking           
+  statements are subject to risks and uncertainties, including     
+  risks and uncertainties associated with negotiating with third   
+  parties, as well as the risks described in the Company’s Annual  
+  Report on Form10-Kfor the fiscal year ending December 31, 2023,  
+  our Quarterly Reports on Form10-Qfor the periods ended March     
+  31, 2024, June 30, 2024 and September 30, 2024. The              
+  forward-looking statements in this Current Report on Form8-Kare  
+  based on information available to the Company as of the date     
+  hereof, and the Company disclaims any obligation to update any   
+  forward-looking statements, except as required by law.           
+                                                                   
+                                                                   
+  Item 9.01Financial Statements and Exhibits(d)                    
+  Exhibits:ExhibitNo.Exhibit Description1.1Underwriting            
+  Agreement, dated November 20, 2024, by and among AppLovin        
+  Corporation, J.P. Morgan Securities LLC, BofA Securities, Inc.   
+  and Morgan Stanley & Co. LLC, as representatives of the several  
+  underwriters named therein.104Cover Page Interactive Data File   
+  (embedded within the Inline XBRL document).                      
+                                                                   
+SIGNATURE Pursuant to the requirements of the Securities Exchange  
+Act of 1934, the registrant has duly caused this report to be      
+signed on its behalf by the undersigned hereunto duly authorized.  
+                                                      
+                             APPLOVIN CORPORATION     
+  Date: November 22, 2024    /s/ Matthew A. Stumpf    
+ ──────────────────────────────────────────────────── 
+                             Matthew A. Stumpf        
+                             Chief Financial Officer  
+                                                      

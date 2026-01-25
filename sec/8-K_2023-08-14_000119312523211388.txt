@@ -1,0 +1,111 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported):      
+August 14, 2023 AppLovin Corporation (Exact name of registrant as specified 
+in its charter)                                                             
+                                                                            
+  Delaware                 001-40325                45-3264542              
+  (State or other          -Commission File         -IRS Employer           
+  jurisdiction of          Number                   Identification No.      
+  incorporation)                                                            
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-Kfiling is intended to simultaneously satisfy the filing         
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class         Trading Symbol    Name of each exchange on    
+                                                which registered            
+  Class A common stock,                         The Nasdaq Stock Market     
+  par value of                APP               LLC                         
+  $0.00003 per share                                                        
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR                    
+§240.12b-2).Emerging growth company ☐ If an emerging growth company,        
+indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐         
+                            
+  Item 8.01  Other Events.  
+                            
+AppLovin Corporation (the “Company”) is party to that certain Credit        
+Agreement, dated as of August 15, 2018, by and among the Company, as        
+borrower, Bank of America, N.A., as administrative agent and collateral     
+agent, and the other parties thereto, as amended by Amendment No. 1 to the  
+Credit Agreement, dated as of April 23, 2019, Amendment No. 2 to the Credit 
+Agreement, dated as of April 27, 2020, Amendment No. 3 to the Credit        
+Agreement, dated as of May 6, 2020, Amendment No. 4 to the Credit Agreement,
+dated as of October 27, 2020, Amendment No. 5 to the Credit Agreement, dated
+as of February 12, 2021, Amendment No. 6 to the Credit Agreement, dated as  
+of October 25, 2021, Amendment No. 7 to the Credit Agreement, dated January 
+3, 2023, and Amendment No. 8 to the Credit Agreement, dated as of June 12,  
+2023 (the “Credit Agreement”). The Company is in the process of negotiating 
+an amendment to the Credit Agreement to amend the Initial Term Loans (as    
+defined in the Credit Agreement) outstanding thereunder (the “Amendment”)   
+and, in connection with the Amendment, expects to use approximately $249    
+million of its available cash to voluntarily prepay Initial Term Loans (the 
+“Prepayment”). The following table summarizes the applicable terms under the
+Credit Agreement as currently in effect and, assuming successful completion 
+of negotiations between the Company and the relevant parties to the Credit  
+Agreement, after giving effect to the Amendment and Prepayment:             
+                                                                            
+                                                    Following Amendment     
+                           Current Terms            and Prepayment          
+                           $1.749 billion           $1.500 billion          
+  Outstanding Principal    August 15, 2025 (or      August 15, 2030 (or if  
+  Amount of Initial        if not a business        not a business day,     
+  Term Loans               day, the immediately     the immediately         
+  Initial Term Loan        preceding business       preceding business      
+  Maturity Date            day)                     day)                    
+ ────────────────────────────────────────────────────────────────────────── 
+                                                                            
+In addition, the Company is negotiating to reduce the interest rate         
+applicable to the Initial Term Loans. The Amendment and Prepayment remain   
+subject to ongoing negotiations, and the Company may not enter into the     
+Amendment or execute the Prepayment on the forgoing terms or at all. Forward
+Looking Statements This Current Report on Form 8-Kcontains forward-looking  
+statements within the meaning of Section 27A of the Securities Act of 1933, 
+as amended, and Section 21E of the Securities Exchange Act of 1934, as      
+amended. Forward-looking statements in this Current Report on Form          
+8-Kinclude statements regarding the Amendment and the Prepayment and the    
+Company’s negotiations with respect thereto. These forward-looking          
+statements are subject to risks and uncertainties, including risks and      
+uncertainties associated with negotiating with third parties, as well as the
+risks described in the Company’s Quarterly Report on Form 10-Qfor the       
+quarter ending June 30, 2023 filed with the Securities and Exchange         
+Commission. The forward-looking statements in this Current Report on Form   
+8-Kare based on information available to the Company as of the date hereof, 
+and the Company disclaims any obligation to update any forward-looking      
+statements, except as required by law.                                      
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                    
+                           APPLOVIN CORPORATION     
+  Date: August 14, 2023    /s/ Herald Chen          
+ ────────────────────────────────────────────────── 
+                           Herald Chen              
+                           Chief Financial Officer  
+                                                    

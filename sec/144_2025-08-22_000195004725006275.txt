@@ -1,0 +1,296 @@
+                                                                   
+                              NOTICE OF PROPOSED SALE OF           
+  Form 144 Filer Information  SECURITIESPURSUANT TO RULE 144       
+                              UNDER THE SECURITIES ACT OF 1933     
+  FORM 144                                                         
+                                                                   
+144: Filer Information
+                                              
+  Filer CIK                       0001848395  
+  Filer CCC                         XXXXXXXX  
+  Is this a LIVE or TEST Filing?        LIVE  
+                                        TEST  
+  Submission Contact Information              
+  Name                                        
+  Phone                                       
+  E-Mail Address                              
+                                              
+144: Issuer Information
+                                                                   
+  Name of Issuer                  APPLOVIN CORPORATION             
+  SEC File Number                 001-40325                        
+  Address of Issuer               1100 Page Mill RoadPalo          
+                                  AltoCALIFORNIA94304              
+  Phone                           (800) 839-9646                   
+  Name of Person for Whose                                         
+  Account the                     ARASH ADAM FOROUGHI              
+  Securities are To Be Sold                                        
+                                  See the definition of "person"   
+                                  in paragraph (a) of Rule 144.    
+                                  Information is to be given not   
+                                  only as to the person for whose  
+                                  account                          
+                                  the securities are to be sold    
+                                  but also as to all other         
+                                  persons included in that         
+                                  definition. In addition,         
+                                  information shall be given       
+                                  as to sales by all persons       
+                                  whose sales are required by      
+                                  paragraph (e) of Rule 144 to be  
+                                  aggregated with sales            
+                                  for the account of the person    
+                                  filing this notice.              
+  Relationship to Issuer          Officer                          
+  Relationship to Issuer          Director                         
+                                                                   
+144: Securities Information
+                                                                   
+  Title              Number             Number                     
+  of the                 of                 of                     
+  Class   Name and   Shares  Aggrega…   Shares  Approxi…  Name     
+  of      Address        or    Market       or  Date of   the      
+  Secur…  of the      Other     Value    Other  Sale      Securi…  
+  To Be   Broker      Units              Units            Exchan…  
+  Sold                To Be            Outsta…                     
+                       Sold                                        
+          Morgan                                                   
+          Stanley                                                  
+          Smith                                                    
+          Barney                                                   
+          LLC                                                      
+          Executi…                                                 
+          Financi…                                                 
+  Common  Service…    30000  1312274…  307636…  08/22/2…  NASDAQ   
+          New York                                                 
+          Plaza8th                                                 
+          FloorNew                                                 
+          York                                                     
+          �                                                        
+          NY                                                       
+          �                                                        
+          10004                                                    
+                                                                   
+Furnish the following information with respect to the acquisition
+of the securities to be sold and with respect to the payment of all
+or any part of the purchase price or other consideration therefor:
+144: Securities To Be Sold
+                                                                   
+                      Name                                         
+  Tit…  Date   Natu…  of     Is      Date   Amount  Date   Nature  
+  of    you    of     Pers…  this a  Donor      of  of     of      
+  the   Acqu…  Acqu…  from   Gift?   Acqu…  Secur…  Paym…  Payme…  
+  Cla…         Tran…  Whom                  Acqui…         *       
+                      Acqu…                                        
+               Perf…                                       Not     
+  Com…  08/2…  Stock  Issu…                  30000  08/2…  Appli…  
+               Units                                               
+                                                                   
+*If the securities were purchased and full payment therefor was not
+made in cash at the time of purchase, explain in the table or in a
+note thereto the nature of the consideration given. If the
+consideration consisted of any note or other obligation, or if
+payment was made in installments describe the arrangement and state
+when the note or other obligation was discharged in full or the
+last installment paid.
+
+Furnish the following information as to all securities of the
+issuer sold during the past 3 months by the person for whose
+account the securities are to be sold. 144: Securities Sold During
+The Past 3 Months
+                                                                   
+  Name and    Title of     Date of         Amount of        Gross  
+  Address of  Securities   Sale           Securities     Proceeds  
+  Seller      Sold                              Sold               
+  THE OD                                                           
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025             31     13045.13  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  THE JAF                                                          
+  CHILDRENS                                                        
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road   Common       08/21/2025             32     13462.54  
+  Palo Alto                                                        
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  THE WHK                                                          
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025             32     13472.49  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  ARASH ADAM                                                       
+  FOROUGHI                                                         
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025          90000  37893654.00  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  OHF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025            774    326725.05  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  KMF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025            775    327017.14  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  WNF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025            776    327410.81  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  HDF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025            776    327146.10  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  DLF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/21/2025            775    326605.98  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  THE OD                                                           
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025            450    182946.06  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  THE JAF                                                          
+  CHILDRENS                                                        
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road   Common       08/20/2025            451    183266.65  
+  Palo Alto                                                        
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  OHF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025          10429   4216103.67  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  KMF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025          10428   4215680.63  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  WNF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025          10429   4215932.64  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  HDF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025          10429   4215519.65  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  DLF 2020                                                         
+  LLC                                                              
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025          10429   4216346.67  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  THE WHK                                                          
+  TRUST                                                            
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       08/20/2025            449    182512.62  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+  ARASH ADAM                                                       
+  FOROUGHI                                                         
+  1100 Page                                                        
+  Mill Road                                                        
+  Palo Alto   Common       05/21/2025         100000  36751590.00  
+  �                                                                
+  CA                                                               
+  �                                                                
+  94304                                                            
+                                                                   
+144: Remarks and Signature
+                                                                   
+  Remarks                                                          
+  Date of Notice  08/22/2025                                       
+                  ATTENTION:                                       
+                  The person for whose account the securities to   
+                  which this notice relates are to be sold hereby  
+                  represents by signing                            
+                  this notice that he does not know any material   
+                  adverse information in regard to the current     
+                  and prospective                                  
+                  operations of the Issuer of the securities to    
+                  be sold which has not been publicly disclosed.   
+                  If such person has                               
+                  adopted a written trading plan or given trading  
+                  instructions to satisfy Rule 10b5-1 under the    
+                  Exchange Act, by                                 
+                  signing the form and indicating the date that    
+                  the plan was adopted or the instruction given,   
+                  that person makes                                
+                  such representation as of the plan adoption or   
+                  instruction date.                                
+  Signature       /s/ Arash Adam Foroughi                          
+                  ATTENTION: Intentional misstatements or          
+                  omission of facts constitute Federal Criminal    
+                  Violations (See 18 U.S.C. 1001)                  
+                                                                   

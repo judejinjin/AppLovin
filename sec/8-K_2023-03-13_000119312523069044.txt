@@ -1,0 +1,189 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported): March
+13, 2023 AppLovin Corporation (Exact Name of Registrant as Specified in     
+Charter)                                                                    
+                                                                            
+  Delaware                 001-40325                45-3264542              
+  (State or Other          -Commission File         -I.R.S. Employer        
+  Jurisdiction of          Number                   Identification No.      
+  Incorporation)                                                            
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-Kfiling is intended to simultaneously satisfy the filing         
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12(b) under the Exchange Act  
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class            Trading      Name of each exchange on      
+                                 Symbol(s)    which registered              
+  Class A common stock, par                                                 
+  value $0.00003                 APP          The Nasdaq Stock Market LLC   
+  per share                                                                 
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this      
+chapter) or Rule 12b-2of the Securities Exchange Act of 1934 (§240.12b-2of  
+this chapter). Emerging growth company ☐ If an emerging growth company,     
+indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐         
+                                                                            
+  Item 5.02Departure of Directors or Certain Officers; Election of          
+  Directors; Appointment of Certain Officers; Compensatory Arrangements of  
+  Certain Officers.On March 13, 2023 (the “Grant Date”), the Board of       
+  Directors (the “Board’) of AppLovin Corporation (the “Company”), upon     
+  the recommendation of the Compensation Committee of the Board (the        
+  “Compensation Committee”), approved the grant of awards of                
+  performance-based restricted stock units (“PSUs”) under the Company’s     
+  2021 Equity Incentive Plan (the “2021 Plan”) to Adam Foroughi, the        
+  Company’s Chief Executive Officer and Chairperson, and Vasily Shikin,     
+  the Company’s Chief Technology Officer; and delegated authority to Mr.    
+  Foroughi to grant certain other PSUs to non-executive employees in        
+  consultation with the chair of the Compensation Committee (the            
+  recipients of such PSUs, the “Additional Participants”).The PSUs will     
+  cover a total of 17,255,000 shares of the Company’s Class A common        
+  stock. Of this total, 40% of the PSUs will be granted to each of Mr.      
+  Foroughi and Mr. Shikin, and the remaining 20% of the PSUs will be        
+  granted to the Additional Participants. The PSUs will vest upon the       
+  achievement of certain stock price goals, as described below.In           
+  addition, the Board, upon the recommendation of the Compensation          
+  Committee, approved the grant of awards of restricted stock units         
+  covering 520,472 shares of the Company’s Class A common stock under the   
+  2021 Plan to each of Mr. Foroughi and Mr. Shikin. These awards vest in    
+  full on February 20, 2024, subject to the recipient’s continued role as   
+  a service provider to us through such date.The Compensation Committee,    
+  in consultation with its independent compensation consultant, Semler      
+  Brossy, considered many factors when it determined it was in the best     
+  interest of the Company and its stockholders to establish a long-term     
+  incentive program tied to the Company’s stock price and the structure of  
+  this recommended program. These factors included the percentage           
+  ownership in the Company and value of such ownership of Mr. Foroughi,     
+  Mr. Shikin, and the potential Additional Participants, and the amount of  
+  their ownership interests unvested at the time of grant, market data for  
+  similarly situated executives at comparable companies with an emphasis    
+  on the ownership percentage and equity value of founder chief executive   
+  officers and chief technology officers, the past and expected future      
+  contributions to the Company of Mr. Foroughi, Mr. Shikin, and the         
+  potential Additional Participants, and the Board’s desire to provide      
+  meaningful incentives for Mr. Foroughi, Mr. Shikin and the potential      
+  Additional Participants to continue serve in their respective positions   
+  and to continue to drive the growth of the business.The Board intends     
+  for these PSUs to be the exclusive performance-based equity awards that   
+  Mr. Foroughi and Mr. Shikin receive for the next four years, unless       
+  there are unexpected changes in Company’s business or other unforeseen    
+  factors that the Board or Compensation Committee determine would make it  
+  in the best interest of the Company and its stockholders to grant         
+  additional equity award(s) to them. Mr. Foroughi and Mr. Shikin will      
+  continue to be eligible for time-based equity awards during this          
+  period.The Board believed it was important for the PSUs to vest only if   
+  the Company achieves certain stock price goals, which if achieved, would  
+  allow the Company’s other stockholders to benefit from the increases in   
+  the Company’s stock price. To further encourage Mr. Foroughi, Mr.         
+  Shikin, and any Additional Participants to focus on the long-term         
+  success of the Company’s business, Mr. Foroughi will be required to hold  
+  a minimum of 6,902,000 shares of the Company’s Class A and Class B        
+  common stock (equal to 100% of the PSUs awarded to him) for a period of   
+  five years from the Grant Date, regardless of whether or not any PSUs     
+  are actually earned. Mr. Shikin and any Additional Participants must      
+  hold anyafter-taxshares that are issued pursuant to the PSUs for at       
+  least one year following the date that such shares are issued; provided,  
+  however, that this holding period requirement will end upon a change in   
+  control and, in the case of Mr. Shikin, will automatically cease upon     
+  termination of service for reasons other than a termination by the        
+  Company for “cause” or resignation without “good reason,” as such terms   
+  are defined in the Company’s Executive Change in Control and Severance    
+  Plan.The PSUs are eligible to vest based on the Company’s stock price     
+  performance over a performance period beginning on the first trading day  
+  following the Grant Date and ending on the fifth anniversary of the       
+  Grant Date. Each individual’s award of PSUs is divided into five equal    
+  tranches that are eligible to vest based on the achievement of stock      
+  price goals (each, a “Company Stock Price Target”), measured based on     
+  the minimum closing price of the Company’s Class A common stock over a    
+  consecutive 30 trading day period during the performance period as set    
+  forth below. This measurement period was designed to reward Mr.           
+  Foroughi, Mr. Shikin, and any Additional Participants only if the         
+  Company achieved sustained growth in the Company’s stock price.           
+                                                                            
+                                                                            
+  The threshold Company Stock Price target (the “Threshold Price”) will be  
+  $36.00 per share, with each tranche increasing by $10.75, making the      
+  four additional Company Stock Price Targets $46.75, $57.50, $68.25 and    
+  $79.00, each intending to represent incremental increases of              
+  approximately $4 billion in the Company’s market capitalization compared  
+  to the Threshold Price.The following table presents how many PSUs would   
+  be eligible to vest per Company Stock Price Target achieved for each of   
+  Mr. Foroughi, Mr. Shikin and the Additional Participants (in              
+  aggregate):PSUs Eligible to VestCompany Stock Price TargetAdam            
+  ForoughiVasily ShikinAdditional Participants(in aggregate)$               
+  36.001,380,4001,380,400690,200$ 46.751,380,4001,380,400690,200$           
+  57.501,380,4001,380,400690,200$ 68.251,380,4001,380,400690,200$           
+  79.001,380,4001,380,400690,200Total6,902,0006,902,0003,451,000If the      
+  closing price of the Company’s Class A common stock fails to reach the    
+  Threshold Price over a consecutive 30 trading day period during the       
+  performance period, or if an individual terminates service to the         
+  Company during a period where the closing price of the Company’s Class A  
+  common stock is above the Threshold Price but has not yet fulfilled the   
+  consecutive 30 trading day period, no portion of the PSUs shall vest.     
+  The Company Stock Price Targets and number of shares of the Company’s     
+  Class A common stock underlying the PSUs will be adjusted to reflect any  
+  stock splits, stock dividends, combinations, reorganizations,             
+  reclassifications, or similar event under the 2021 Plan.In the event of   
+  a change in control of the Company following the Grant Date but before    
+  the end of the performance period, the PSUs may be eligible to vest in    
+  additional amounts if the per share transaction price in the change in    
+  control is above the Threshold Price but below an additional Company      
+  Stock Price Target(s) that has not previously been achieved, in which     
+  case the additional amount of PSUs will vest immediately prior to the     
+  closing of the change in control.In the event of termination of           
+  employment for “cause” or resignation without “good reason” (each as      
+  defined their PSU agreement), any portion of a participant’s PSUs for     
+  which a Company Stock Price Target has not been achieved will             
+  immediately terminate and be forfeited to the Company. For each of Mr.    
+  Foroughi and Mr. Shikin, in the event of termination without “cause”,     
+  resignation for “good reason”, or termination upon death or disability,   
+  any unvested PSUs will remain outstanding and eligible to vest if a       
+  Company Stock Price Target is achieved within twelve months of the date   
+  of separation.Each vested PSU will be settled in a share of the           
+  Company’s Class A common stock on the next company quarterly vesting      
+  date occurring on or after the date on which the PSU vests. To the        
+  extent required by law or the rules of the stock exchange upon which the  
+  Company’s Class A common stock is listed, the Company’s clawback policy   
+  will apply to all awards.The foregoing summary is qualified in its        
+  entirety by reference to the full text of the form of PSU Agreement       
+  which is attached hereto as Exhibit 10.1 and is incorporated by           
+  reference.Item 9.01Financial Statements and Exhibits.(d)                  
+  ExhibitsExhibit 10.1Form of Performance-Based Restricted Stock Unit       
+  AgreementExhibit 104Cover Page Interactive Data File (embedded within     
+  Inline XBRL document)                                                     
+                                                                            
+SIGNATURES Pursuant to the requirements of the Securities Exchange Act of   
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                                            
+  Date: March 13,                                                           
+  2023                           APPLOVIN CORPORATION                       
+ ────────────────────────────────────────────────────────────────────────── 
+                         By:                           /s/ Herald Chen      
+                         Name:                         Herald Chen          
+                         Title:                        Chief Financial      
+                                                       Officer              
+                                                                            

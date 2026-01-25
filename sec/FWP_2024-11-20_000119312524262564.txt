@@ -1,0 +1,388 @@
+Issuer Free Writing Prospectus Filed under Rule 433 Registration
+Statement No. 333-272328 APPLOVIN CORPORATION PRICING TERM SHEET
+November 20, 2024 5.125% Notes due 2029 5.375% Notes due 2031
+5.500% Notes due 2034 5.950% Notes due 2054 Unless otherwise
+indicated, terms used but not defined herein have the meanings
+assigned to such terms in the preliminary prospectus supplement
+dated November 20, 2024 (the “Preliminary Prospectus Supplement”).
+                                                                   
+                       AppLovin                                    
+                       Corpora…                                    
+                       Ba1                                         
+                       (positi…                                    
+                       Moody’s                                     
+                       / BBB-                                      
+                       (positi…                                    
+  Issuer:              S&P /                                       
+  Expect…              BBB-                                        
+  Ratings              (stable)                                    
+  of the               Fitch                                       
+  Notes:*              November                                    
+  Trade                20, 2024                                    
+  Date:                December                                    
+  Settle…              5, 2024                                     
+  Date:**              (T+10)                                      
+ ───────────────────────────────────────────────────────────────── 
+                       J.P.                                        
+                       Morgan                                      
+                       Securit…                                    
+                       LLC BofA                                    
+                       Securit…                                    
+                       Inc.                                        
+                       Morgan                                      
+  Joint                Stanley                                     
+  Book-R…              & Co.                                       
+  Manage…              LLC                                         
+                       Citigro…                                    
+                       Global                                      
+                       Markets                                     
+                       Inc.                                        
+                       Goldman                                     
+                       Sachs &                                     
+                       Co. LLC                                     
+                       BNP                                         
+                       Paribas                                     
+                       Securit…                                    
+                       Corp.                                       
+                       MUFG                                        
+  Co-Man…              Bank                                        
+                       Ltd.                                        
+                       Scotia                                      
+                       Capital                                     
+                       (USA)                                       
+                       Inc.                                        
+               5.125%              5.375%      5.500%      5.950%  
+  Title:        Notes               Notes       Notes       Notes  
+             due 2029            due 2031    due 2034    due 2054  
+  Size:      $1,000,…            $1,000,…    $1,000,…    $550,00…  
+  Maturi…    December            December    December    December  
+  Date:       1, 2029             1, 2031     1, 2034     1, 2054  
+               June 1              June 1      June 1      June 1  
+                  and                 and         and         and  
+  Intere…    December            December    December    December  
+  Payment          1,                  1,          1,          1,  
+  Dates:     commenc…            commenc…    commenc…    commenc…  
+              June 1,             June 1,     June 1,     June 1,  
+                 2025                2025        2025        2025  
+  Day          30/360                                              
+  Count:                                                           
+  Coupon:      5.125%              5.375%      5.500%      5.950%  
+                  UST                 UST         UST         UST  
+  Benchm…      4.125%              4.125%      4.250%      4.250%  
+  Treasu…         due                 due         due         due  
+              October             October    November      August  
+             31, 2029            31, 2031    15, 2034    15, 2054  
+  Treasu…      4.284%              4.347%      4.416%      4.611%  
+  Yield:                                                           
+                                                                   
+1
+                                                                   
+  Spread                                                           
+  to         T+85.0              T+105.0     T+112.5     T+137.5   
+  Benchm…    bps                 bps         bps         bps       
+  Treasu…                                                          
+  Yield                                                            
+  to         5.134%              5.397%      5.541%      5.986%    
+  Maturi…                                                          
+  Price                                                            
+  to         99.962%             99.874%     99.689%     99.502%   
+  Public:                                                          
+  Underw…    60.0 bps            62.5 bps    65.0 bps    87.5 bps  
+  Discou…                                                          
+                       Prior to                                    
+                       the                                         
+                       applica…                                    
+                       Par Call                                    
+                       Date                                        
+                       with                                        
+                       respect                                     
+                       to a                                        
+                       series                                      
+                       of                                          
+                       notes,                                      
+                       we may                                      
+                       redeem                                      
+                       the                                         
+                       notes of                                    
+                       such                                        
+                       series                                      
+                       at our                                      
+                       option,                                     
+                       in whole                                    
+                       or in                                       
+                       part, at                                    
+                       any time                                    
+                       and from                                    
+                       time to                                     
+                       time, at                                    
+                       a                                           
+                       redempt…                                    
+                       price                                       
+                       equal to                                    
+                       the                                         
+                       greater                                     
+                       of (i)                                      
+                       (a) the                                     
+                       sum of                                      
+                       the                                         
+                       present                                     
+                       values                                      
+                       of the                                      
+                       remaini…                                    
+                       schedul…                                    
+                       payments                                    
+                       of                                          
+                       princip…                                    
+                       and                                         
+                       interest                                    
+                       thereon                                     
+                       discoun…                                    
+                       to the                                      
+                       redempt…                                    
+                       date                                        
+                       (assumi…                                    
+                       such                                        
+                       notes                                       
+                       matured                                     
+                       on the                                      
+                       applica…                                    
+                       Par Call                                    
+                       Date) on                                    
+                       a                                           
+                       semi-an…                                    
+                       basis                                       
+  Make-W…              (assumi…                                    
+  Call:                a                                           
+                       360-day                                     
+                       year                                        
+                       consist…                                    
+                       of                                          
+                       twelve                                      
+                       30-day                                      
+                       months)                                     
+                       at the                                      
+                       Treasury                                    
+                       Rate                                        
+                       plus 15                                     
+                       basis                                       
+                       points                                      
+                       in the                                      
+                       case of                                     
+                       the 2029                                    
+                       notes,                                      
+                       20 basis                                    
+                       points                                      
+                       in the                                      
+                       case of                                     
+                       the                                         
+                       2031                                        
+                       notes,                                      
+                       20 basis                                    
+                       points                                      
+                       in the                                      
+                       case of                                     
+                       the 2034                                    
+                       notes                                       
+                       and 25                                      
+                       basis                                       
+                       points                                      
+                       in the                                      
+                       case of                                     
+                       the 2054                                    
+                       notes                                       
+                       less (b)                                    
+                       interest                                    
+                       accrued                                     
+                       to the                                      
+                       date of                                     
+                       redempt…                                    
+                       and (2)                                     
+                       100% of                                     
+                       the                                         
+                       princip…                                    
+                       amount                                      
+                       of the                                      
+                       notes to                                    
+                       be                                          
+                       redeeme…                                    
+                       plus, in                                    
+                       either                                      
+                       case,                                       
+                       accrued                                     
+                       and                                         
+                       unpaid                                      
+                       interest                                    
+                       thereon                                     
+                       to the                                      
+                       redempt…                                    
+                       date.                                       
+                       On or                                       
+                       after                                       
+                       the                                         
+                       applica…                                    
+                       Par Call                                    
+                       Date for                                    
+                       a series                                    
+                       of                                          
+                       notes,                                      
+                       we may                                      
+                       redeem                                      
+                       the                                         
+                       notes of                                    
+                       such                                        
+                       series,                                     
+                       in whole                                    
+                       or in                                       
+                       part,                                       
+                       at any                                      
+                       time and                                    
+                       from                                        
+                       time to                                     
+                       time, at                                    
+                       a                                           
+                       redempt…                                    
+                       price                                       
+                       equal to                                    
+                       100% of                                     
+                       the                                         
+                       princip…                                    
+                       amount                                      
+                       of such                                     
+                       notes                                       
+                       being                                       
+                       redeeme…                                    
+                       plus                                        
+                       accrued                                     
+                       and                                         
+                       unpaid                                      
+                       interest                                    
+                       thereon                                     
+                       to the                                      
+                       redempt…                                    
+                       date.                                       
+                       “Par                                        
+                       Call                                        
+                       Date”                                       
+  Par                  means                                       
+  Call:                November                                    
+                       1, 2029,                                    
+                       the date                                    
+                       that is                                     
+                       one                                         
+                       month                                       
+                       prior                                       
+                       to the                                      
+                       maturity                                    
+                       of the                                      
+                       2029                                        
+                       notes,                                      
+                       October                                     
+                       1, 2031,                                    
+                       the date                                    
+                       that is                                     
+                       two                                         
+                       months                                      
+                       prior to                                    
+                       the                                         
+                       maturity                                    
+                       of the                                      
+                       2031                                        
+                       notes,                                      
+                       Septemb…                                    
+                       1, 2034,                                    
+                       the date                                    
+                       that is                                     
+                       three                                       
+                       months                                      
+                       prior to                                    
+                       the                                         
+                       maturity                                    
+                       of the                                      
+                       2034                                        
+                       notes                                       
+                       and June                                    
+                       1, 2054,                                    
+                       the                                         
+                       date                                        
+                       that is                                     
+                       six                                         
+                       months                                      
+                       prior to                                    
+                       the                                         
+                       maturity                                    
+                       of the                                      
+                       2054                                        
+                       notes.                                      
+                       We                                          
+                       intend                                      
+                       to use                                      
+                       the net                                     
+                       proceeds                                    
+                       from                                        
+                       this                                        
+                       offering                                    
+                       to repay                                    
+                       in full                                     
+                       each of                                     
+  Use of               our Term                                    
+  Procee…              Loan                                        
+                       Facilit…                                    
+                       and, to                                     
+                       the                                         
+                       extent                                      
+                       of any                                      
+                       remaini…                                    
+                       net                                         
+                       proceed…                                    
+                       for                                         
+                       general                                     
+                       corpora…                                    
+                       purpose…                                    
+  CUSIP:     03831WA…            03831WA…    03831WA…    03831WA…  
+  ISIN:      US03831…            US03831…    US03831…    US03831…  
+                                                                   
+                                                                   
+     Note: A securities rating is not a recommendation to buy,     
+  *  sell or hold securities and may be subject to                 
+     revision or withdrawal at any time.                           
+                                                                   
+                                                                   
+      Note: We expect to deliver the notes against payment         
+      therefor on the tenth business day following the Trade       
+      Date (such settlement being referred to as “T+10”). Under    
+      Rule 15c6-1 of the Exchange Act, trades in the secondary     
+      market generally are required to settle in one business      
+      day, unless the parties to a                                 
+  **  trade expressly agree otherwise. Accordingly, purchasers     
+      who wish to trade the notes on any date prior to one         
+      business day before delivery will be required, by virtue of  
+      the fact that the notes initially will settle in T+10, to    
+      specify alternative                                          
+      settlement arrangements to prevent a failed settlement and   
+      should consult their own advisors.                           
+                                                                   
+The issuer has filed a preliminary prospectus supplement and
+registration statement (including a prospectus) with the SEC for
+the offering to which this communication relates. Before you
+invest, you should read the preliminary prospectus supplement, the
+prospectus in that registration statement, and other documents the
+issuer has filed with the SEC and that are incorporated by
+reference into the preliminary prospectus supplement for more
+complete information about the issuer and this offering. You may
+get these documents for free by visiting EDGAR on the SEC website
+at www.sec.gov. Alternatively, the issuer, any underwriter or any
+dealer participating in the offering will arrange to send you the
+prospectus if you request it by calling J.P. Morgan Securities LLC
+toll-free at 1-212-834-4533;BofA Securities, Inc. toll-free at
+1-800-294-1322;or Morgan Stanley & Co. LLC toll-free at
+1-866-718-1649.This pricing term sheet supplements the preliminary
+prospectus supplement of AppLovin Corporation, dated November 20,
+2024, relating to its prospectus, dated June 1, 2023. 2
+
+Any disclaimers or other notices that may appear below are not
+applicable to this communication and should be disregarded. Such
+disclaimers or other notices were automatically generated as a
+result of this communication being sent via Bloomberg or another
+email system.
+
+3

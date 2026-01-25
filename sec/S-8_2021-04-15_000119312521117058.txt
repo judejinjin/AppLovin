@@ -1,0 +1,1857 @@
+As filed with the Securities and Exchange Commission on April 15, 2021
+Registration No. 333- UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES
+ACT OF 1933 APPLOVIN CORPORATION (Exact name of registrant as specified in
+its charter)
+                                                         
+  Delaware                           45-3264542          
+  (State or other jurisdiction of    -I.R.S. Employer    
+  incorporation or organization)     Identification No.  
+                                                         
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal
+executive offices, including zip code) 2011 Equity Incentive Plan (Full
+title of the plan) Adam Foroughi Co-Founder,Chief Executive Officer, and
+Chairperson Herald Chen President and Chief Financial Officer 1100 Page Mill
+Road Palo Alto, California 94304 (800) 839-9646 (Name, address and telephone
+number, including area code, of agent for service) Copies to:
+                                                                            
+  Rezwan D. Pavri                                                           
+  Lisa L. Stimmell Andrew T. Hill      Victoria Valenzuela                  
+  Lang Liu Wilson Sonsini Goodrich     Lonnie Huang Applovin Corporation    
+  &                                    1100 Page Mill Road Palo Alto,       
+  Rosati, P.C. 650 Page Mill Road      California                           
+  Palo                                 94304 (800) 839-9646                 
+  Alto, California 94304 (650)                                              
+  493-9300                                                                  
+                                                                            
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-acceleratedfiler, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated
+filer,” “accelerated filer,” “smaller reporting company” and “emerging
+growth company” in Rule 12b-2of the Exchange Act.
+                                                                  
+  Large accelerated filer    ☐    Accelerated filer            ☐  
+  Non-accelerated filer      ☒    Smaller reporting company    ☐  
+                                  Emerging growth company      ☐  
+                                                                  
+If an emerging growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section
+7(a)(2)(B) of the Securities Act. ☐ CALCULATION OF REGISTRATION FEE
+                                                                            
+                                   Proposed        Proposed                 
+  Title of            Amount        Maximum         Maximum      Amount of  
+  Securities           to be       Offering       Aggregate    Registrati…  
+  to be         Registered(…          Price        Offering            Fee  
+  Registered                            per           Price                 
+                                   Share(2)                                 
+  Class A                                                                   
+  common                                                                    
+  stock, par                                                                
+  value                                                                     
+  $0.00003                                                                  
+  per share,                                                                
+  issued                                                                    
+  pursuant                                                                  
+  to stock                                                                  
+  options          5,548,138         $80.00    $443,851,040        $48,425  
+  and                                                                       
+  restricted                                                                
+  stock                                                                     
+  awards                                                                    
+  granted                                                                   
+  under the                                                                 
+  2011                                                                      
+  Equity                                                                    
+  Incentive                                                                 
+  Plan(3)                                                                   
+                                                                            
+                                                                            
+       Pursuant to Rule 416 promulgated under the Securities Act of 1933,   
+       as amended (the “Securities Act”), this                              
+       Registration Statement shall also cover any additional shares of     
+       the registrant’s Class A common stock that become issuable under     
+  (1)  the plan set forth herein by reason of any stock dividend, stock     
+       split, recapitalization or other similar                             
+       transaction effected without receipt of consideration that           
+       increases the number of outstanding shares of the registrant’s       
+       Class A common stock.                                                
+                                                                            
+                                                                            
+       Estimated solely for purposes of calculating the registration fee    
+       pursuant to Rule 457(h) of the Securities Act on the                 
+  (2)  basis of $80.00 per share, which is the initial public offering      
+       price per share of Class A common stock as set forth in the          
+       registrant’s registration statement on Form S-1 (File No.            
+       333-253800), as amended, declared effective on April 14, 2021.       
+                                                                            
+                                                                            
+       Represents 5,548,138 shares of Class A common stock under the        
+       Applovin Corporation 2011 Equity Incentive Plan                      
+  (3)  (the “2011 Plan”) issued to certain current and former employees,    
+       consultants, and advisors of the registrant upon exercise of stock   
+       option awards or pursuant to restricted stock awards.                
+                                                                            
+EXPLANATORY NOTE
+
+This registration statement contains a “reoffer prospectus” prepared in
+accordance with Part I of Form
+S-3 (in accordance with Instruction C of the General Instructions to Form
+S-8). This reoffer prospectus may be used for reoffers and resales on a
+continuous or delayed
+basis of certain of those shares of Class A common stock (the “Shares”) of
+Applovin Corporation (“us”, “we” or the “registrant”) referred to above that
+constitute “control securities” or
+“restricted securities,” within the meaning of the Securities Act, by
+certain stockholders that are current and former employees, consultants, and
+advisors of the registrant (the “Selling Stockholders”) for their own
+accounts. As
+specified in General Instruction C of Form S-8, the amount of securities to
+be reoffered or resold under the reoffer prospectus by each Selling
+Stockholder and any other person with whom he or she is acting in
+concert for the purpose of selling the registrant’s securities, may not
+exceed, during any three-month period, the amount specified in Rule 144(e)
+under the Securities Act.
+
+REOFFER PROSPECTUS
+                                                                            
+   APPLOVIN CORPORATION                                                     
+                                                                            
+5,548,138 Shares of Class A Common Stock
+
+This prospectus relates to 5,548,138 shares of Class A common stock, par
+value $0.00003 per share (the “Shares”), of Applovin
+Corporation, which may be offered from time to time by certain stockholders
+that are our current or former employees, consultants, and advisors of the
+registrant (the “Selling Stockholders”) for their own accounts. We will not
+receive any
+of the proceeds from the sale of Shares by the Selling Stockholders made
+hereunder. The Shares were acquired by the Selling Stockholders pursuant to
+our 2011 Equity Incentive Plan (the “Plan”).
+
+The Selling Stockholders may sell the securities described in this
+prospectus in a number of different ways and at varying prices, including
+sales in
+the open market, sales in negotiated transactions and sales by a combination
+of these methods. The Selling Stockholders may sell any, all or none of the
+Shares and we do not know when or in what amount the Selling Stockholders
+may sell their
+Shares hereunder following the effective date of this registration
+statement. The price at which any of the Shares may be sold, and the
+commissions, if any, paid in connection with any such sale, are unknown and
+may vary from transaction to
+transaction. The Shares may be sold at the market price of the Class A
+common stock at the time of a sale, at prices relating to the market price
+over a period of time, or at prices negotiated with the buyers of shares.
+The Shares may be sold
+through underwriters or dealers which the Selling Stockholders may select.
+If underwriters or dealers are used to sell the Shares, we will name them
+and describe their compensation in a prospectus supplement. We provide more
+information about how
+the Selling Stockholders may sell their Shares in the section titled “Plan
+of Distribution.” The Selling Stockholders will bear all sales commissions
+and similar expenses. Any other expenses incurred by us in connection with
+the
+registration and offering that are not borne by the Selling Stockholders
+will be borne by us.
+
+Our Class A common stock has been approved for
+listing on the Nasdaq Global Select Market under the symbol “APP.” The
+initial public offering price of our Class A common stock pursuant to our
+Registration Statement on Form S-1, as
+amended, declared effective on April 14, 2021, was $80.00 per share.
+
+The amount of securities to be offered or resold under this reoffer
+prospectus by each Selling Stockholder or other person with whom he or she
+is acting in concert for the purpose of selling our securities, may not
+exceed, during any three month period, the amount specified in Rule 144(e)
+under the Securities Act.
+
+Investing in our securities involves a high degree of risk. Before buying
+any securities, you should carefully read the discussion of the risks of
+investing in our securities in “ Risk Factors” beginning on page 2 of this
+prospectus.
+
+The Securities and
+Exchange Commission (the “SEC”) may take the view that, under certain
+circumstances, the Selling Stockholders and any broker-dealers or agents
+that participate with the Selling Stockholders in the distribution of the
+Shares may be deemed
+to be “underwriters” within the meaning of the Securities Act. Commissions,
+discounts or concessions received by any such broker-dealer or agent may be
+deemed to be underwriting commissions under the Securities Act. See the
+section titled
+“Plan of Distribution.”
+
+Neither the Securities and Exchange Commission nor any state securities
+commission has approved or disapproved of these securities or determined if
+this prospectus is truthful or complete. Any representation to the contrary
+is a criminal offense.
+
+The date of this prospectus is April 15, 2021
+
+TABLE OF CONTENTS
+                                                             
+                                                       Page  
+  THE COMPANY                                             1  
+  RISK FACTORS                                            2  
+  SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS       9  
+  USE OF PROCEEDS                                        11  
+  SELLING STOCKHOLDERS                                   12  
+  PLAN OF DISTRIBUTION                                   14  
+  LEGAL MATTERS                                          16  
+  EXPERTS                                                16  
+  INFORMATION INCORPORATED BY REFERENCE                  16  
+  WHERE YOU CAN FIND MORE INFORMATION                    17  
+  PART I INFORMATION REQUIRED IN THE SECTION 10(A)      I-1  
+  PROSPECTUS                                                 
+  PART II INFORMATION REQUIRED IN REGISTRATION         II-1  
+  STATEMENT                                                  
+  EXHIBIT INDEX                                        II-3  
+  SIGNATURES                                                 
+                                                             
+You should rely only on the information contained in this prospectus or in
+any accompanying prospectus supplement by us or on our behalf. We have not
+authorized any other person to provide you with different information. If
+anyone provides you with different or inconsistent information, you should
+not rely on it. We are not making an offer to sell these securities in any
+jurisdiction where the offer or sale is not permitted. You should assume the
+information appearing in this prospectus is accurate only as of the date on
+the front cover of this prospectus, regardless of the time of delivery of
+this prospectus or of any sale of the Shares. Our business, financial
+condition, results of operations and prospects may have changed since that
+date. “AppLovin,” our logo, and our other registered or common law
+trademarks, service marks, or trade names appearing in this prospectus are
+the property of Applovin Corporation. Other trademarks and trade names
+referred to in this prospectus are the property of their respective owners.
+Unless the context otherwise requires, the terms “AppLovin,” “the company,”
+“we,” “us,” and “our” in this prospectus refer to Applovin Corporation and
+its consolidated subsidiaries. i
+
+THE COMPANY
+
+Applovin Corporation
+
+Our mission is to grow the mobile app
+ecosystem by enabling the success of mobile app developers.
+
+Our software solutions provide advanced tools for mobile app developers to
+grow their
+businesses by automating and optimizing the marketing and monetization of
+their apps. Since inception, our platform has driven over six billion mobile
+app installs for mobile app developers. Our software, coupled with our deep
+industry knowledge and
+expertise, has allowed us to rapidly scale a successful and diversified
+portfolio of owned mobile apps. We have also accelerated our market
+penetration through an active acquisition and partnership strategy. Our
+scaled and integrated business model
+sits at the nexus of the mobile app ecosystem, which creates a durable
+competitive advantage that has fueled our clients’ success and our strong
+growth.
+
+AppLovin is critical to the success of mobile app developers, in particular
+mobile game developers, solving key marketing and monetization challenges.
+Through our technologies and scaled distribution, developers are able to
+manage, optimize, and analyze their marketing investments, and improve the
+monetization of their apps. The key elements of our solutions are delivered
+through the AppLovin
+Platform, which is comprised of AppLovin Core Technologies and AppLovin
+Software. In 2018, given an opportunity to scale our own apps using our
+Software, insights, and expertise in the mobile app ecosystem, we launched
+our first party content
+strategy, AppLovin Apps. Today, our Apps consist of a globally diversified
+portfolio of over 200 free-to-play mobile games across five genres, run by
+twelve studios,
+including studios that we own, and others that we partner with.
+
+The combination of our Platform and Apps forms a strategic flywheel that
+drives
+growth across our business and furthers our competitive advantages. As more
+developers use our Platform’s Software to market and monetize their mobile
+apps, we gain access to more users and more user engagement further
+strengthening our scaled
+distribution. As our distribution grows, we gain better insights for the
+recommendation engine in our Core Technologies, which then further enhances
+our Software. This continuously improving flywheel helps developers,
+including our own, to create
+and sustain successful businesses, growing both our own business and the
+mobile app ecosystem.
+
+Corporate Information
+
+We were incorporated under the laws of the state of Delaware in July 2011.
+Our principal executive offices are located at 1100 Page Mill Road, Palo
+Alto,
+California 94304, and our telephone number is (800) 839-9646.
+
+Our website address is www.applovin.com.
+Information contained on, or that can be accessed through, our website does
+not constitute part of this prospectus and inclusions of our website address
+in this prospectus are inactive textual references only. You should not
+consider information
+contained on our website to be part of this prospectus or in deciding
+whether to purchase shares of our Class A common stock.
+
+1
+
+RISK FACTORS
+
+An investment in shares of our Class A common stock is highly speculative
+and involves a high degree of risk. We face a variety of risks that may
+affect our operations or financial results and many of those risks are
+driven by factors that we cannot control or predict. Before investing in our
+Class A common stock, you should carefully consider the risks below and set
+forth under the
+caption “Risk Factors” in our Registration Statement on Form S-1, as amended
+(File No. 333-253800),
+filed with the Securities and Exchange Commission on April 7, 2021, which
+are incorporated by reference herein, and subsequent reports filed with the
+SEC, together with the financial and other information contained or
+incorporated by
+reference in this prospectus. If any of these risks actually occurs, our
+business, prospects, financial condition and results of operations could be
+materially adversely affected. In that case, the trading price of our Class
+A common stock
+would likely decline and you may lose all or a part of your investment. Only
+those investors who can bear the risk of loss of their entire investment
+should invest in our Class A common stock.
+
+Risks Related to Ownership of Our Class A Common Stock and Governance
+
+The multi-class structure of our common stock and the voting agreement (the
+“Voting Agreement”) among Adam Foroughi, our co-founder,Chief Executive
+Officer, and the Chairperson of our board of directors, Herald Chen, our
+President and Chief Financial Officer, and a member of our board of
+directors, and KKR Denali Holdings L.P. (“KKR Denali”) (collectively with
+certain affiliates, the “Class B Stockholders”) will have the effect of
+concentrating voting power with the Class B Stockholders, which will limit
+your ability to influence the outcome of matters submitted to our
+stockholders for approval, including the election of our board of directors,
+the adoption of amendments to our certificate of incorporation and bylaws,
+and the approval of any merger, consolidation, sale of all or substantially
+all of our assets, or other major corporate transaction.
+
+Following our initial public offering, we will have three classes of
+common stock. Our Class A common stock, which is the stock being offering by
+means of this prospectus, has one vote per share, our Class B common stock
+has 20 votes per share, and our Class C common stock has no voting rights,
+except
+as otherwise required by law. Upon the closing of our initial public
+offering, the Class B Stockholders will together hold all of the issued and
+outstanding shares of our Class B common stock. Accordingly, upon the
+closing of our initial
+public offering, the Class B Stockholders will collectively hold
+approximately 93.4% of the voting power of our outstanding capital stock in
+the aggregate. The Class B Stockholders have entered into the Voting
+Agreement whereby all
+Class B common stock held by the Class B Stockholders and their respective
+permitted entities and permitted transferees will be voted as determined by
+two of Mr. Foroughi, Mr. Chen, and KKR Denali (one of which must be
+Mr. Foroughi). As a result, the Class B Stockholders, in particular, Mr.
+Foroughi, Mr. Chen, and KKR Denali, will be able to determine or
+significantly influence any action requiring the approval of our
+stockholders, including
+the election of our board of directors, the adoption of amendments to our
+certificate of incorporation and bylaws, and the approval of any merger,
+consolidation, sale of all or substantially all of our assets, or other
+major corporate transaction.
+The Class B Stockholders may have interests that differ from yours and may
+vote in a way with which you disagree, and which may be adverse to your
+interests. This concentrated control may have the effect of delaying,
+preventing, or deterring a
+change in control of our company, could deprive our stockholders of an
+opportunity to receive a premium for their capital stock as part of a sale
+of our company, and might ultimately affect the market price of our Class A
+common stock.
+
+Future transfers by the holders of Class B common stock will generally
+result in those shares automatically converting into shares of Class A
+common stock, subject to limited exceptions, such as certain transfers
+effected for estate planning, transfers among KKR affiliates, or other
+transfers among the Class B Stockholders. In addition, each share of Class B
+common stock will
+convert automatically into one share of Class A common stock upon certain
+events specified in our amended and restated certificate of incorporation,
+with the date of such final conversion of all outstanding shares of Class B
+common stock
+referred to as the final conversion date.
+
+In addition, because our Class C common stock carries no voting rights
+(except as otherwise required
+by law), if we issue Class C common stock in the future, the holders of
+Class B common stock may be able to elect all of our directors and to
+determine the outcome of most matters submitted to a vote of our
+stockholders for a longer period
+of time than would be the case if we issued Class A common stock rather than
+Class C common stock in such transactions.
+
+2
+
+Following the completion of our initial public offering, we will be
+considered a “controlled company” within the meaning of the Nasdaq corporate
+governance requirements, and, as a result, we will qualify for, and intend
+to rely on, exemptions from certain corporate governance requirements. As a
+result of our multi-class common stock structure and the Voting Agreement
+among the Class B Stockholders, the Class B Stockholders will collectively
+hold greater than a majority of the voting power of our outstanding capital
+stock following the completion of our initial public offering and the Class
+B Stockholders will have the authority to vote the shares of all Class B
+common stock, subject to the terms of the Voting Agreement, at their
+discretion on all matters to be voted upon by stockholders. Therefore, we
+will be considered a “controlled company” as that term is set forth in the
+Nasdaq corporate governance requirements. Under these corporate governance
+requirements, a company in which over 50% of the voting power for the
+election of directors is held by an individual, a group, or another company
+is a “controlled company” and may elect not to comply with certain corporate
+governance requirements, including:
+                                                                            
+  •    the requirement that a majority of its board of directors consist    
+       of independent directors;                                            
+                                                                            
+                                                                            
+       the requirement that we have a nominating/corporate governance       
+  •    committee that is comprised entirely of independent                  
+       directors with a written charter addressing the committee’s purpose  
+       and responsibilities;                                                
+                                                                            
+                                                                            
+       the requirement that we have a compensation committee that is        
+  •    comprised entirely of independent directors with a written           
+       charter addressing the committee’s purpose and responsibilities;     
+       and                                                                  
+                                                                            
+                                                                            
+       the requirement for an annual performance evaluation of the          
+  •    nominating and corporate governance and compensation                 
+       committees.                                                          
+                                                                            
+For at least a period following our initial public offering, we intend to
+utilize certain of these exemptions. As a result, we will not have a
+majority of independent directors and our compensation committee will not
+consist entirely of independent directors. Accordingly, you will not have
+the same protections afforded to stockholders of companies that are subject
+to all of the corporate governance requirements. In the event that we cease
+to be a “controlled company” and our Class A common stock continues to be
+listed on Nasdaq, we will be required to comply with these provisions within
+the applicable transaction periods. We cannot predict the effect our multi-
+class structure may have on the market price of our Class A common stock. We
+cannot predict whether our multi-class structure will result in a lower or
+more volatile market price of our Class A common stock, in adverse
+publicity, or other adverse consequences. For example, certain index
+providers have announced restrictions on including companies with multi-
+class share structures in certain of their indices. In July 2017, FTSE
+Russell announced that it plans to require new constituents of its indices
+to have greater than 5% of the company’s voting rights in the hands of
+public stockholders, and S&P Dow Jones announced that it will no longer
+admit companies with multi-class share structures to certain of its indices.
+Affected indices include the Russell 2000 and the S&P 500, S&P MidCap 400,
+and S&P SmallCap 600, which together make up the S&P Composite 1500. Also in
+2017, MSCI, a leading stock index provider, opened public consultations on
+their treatment of no-voteand multi-class structures and temporarily barred
+new multi-class listings from certain of its indices and in October 2018,
+MSCI announced its decision to include equity securities “with unequal
+voting structures” in its indices and to launch a new index that
+specifically includes voting rights in its eligibility criteria. Under such
+announced policies, the multi-class structure of our common stock would make
+us ineligible for inclusion in certain indices and, as a result, mutual
+funds, exchange-traded funds, and other investment vehicles that attempt to
+track those indices would not invest in our Class A common stock. These
+policies are relatively new and it is unclear what effect, if any, they will
+have on the valuations of publicly-traded companies excluded from such
+indices, but it is possible that they may depress valuations, as compared to
+similar companies that are included. Given the sustained flow of investment
+funds into passive strategies that seek to track certain indices, exclusion
+from certain stock indices would likely preclude investment by many of these
+funds and could make our Class A common stock less attractive to other
+investors. As a result, the market price of our Class A common stock could
+be adversely affected. 3
+
+Prior to our initial public offering, there was no prior public trading
+market for our Class A common stock, and an active trading market may not
+develop or be sustained following our initial public offering. We have been
+approved to list our Class A common stock on the Nasdaq Global Select Market
+under the symbol “APP”. However, prior to our initial public offering, there
+was no prior public trading market for our Class A common stock. We cannot
+assure you that an active trading market for our Class A common stock will
+develop on such exchange or elsewhere or, if developed, that any market will
+be sustained. The initial public offering price of our Class A common stock
+was determined through negotiation between us, the selling stockholder of
+our initial public offering, and the underwriters of our initial public
+offering. This price will not necessarily reflect the price at which
+investors in the market will be willing to buy and sell shares of our Class
+A common stock following our initial public offering. The market price of
+our Class A common stock could be volatile, and you could lose all or part
+of your investment. The market price of our Class A common stock following
+our initial public offering may fluctuate substantially and be higher or
+lower than the initial public offering price, depending on a number of
+factors, including those described in this “Risk Factors” section, many of
+which are beyond our control and may not be related to our operating
+performance. These fluctuations could cause you to lose all or part of your
+investment in our Class A common stock. Factors that could cause
+fluctuations in the market price of our Class A common stock include the
+following:
+                                                                            
+       price and volume fluctuations in the overall stock market from time  
+  •    to time, including fluctuations due to general                       
+       economic uncertainty or negative market sentiment, in particular     
+       related to the COVID-19 pandemic;                                    
+                                                                            
+                                                                           
+  •    volatility in the market and trading volumes of technology stocks;  
+                                                                           
+                                                                            
+       changes in operating performance and stock market valuations of      
+  •    other technology companies generally, or those in our                
+       industry in particular;                                              
+                                                                            
+                                                                            
+  •    sales of shares of our Class A common stock by us or our             
+       stockholders, as well as the anticipation of lock-up releases;       
+                                                                            
+                                                                            
+  •    rumors and market speculation involving us or other companies in     
+       our industry;                                                        
+                                                                            
+                                                                            
+       failure of securities analysts to maintain coverage of us, changes   
+  •    in financial estimates by securities analysts who                    
+       follow our company, or our failure to meet these estimates or the    
+       expectations of investors;                                           
+                                                                            
+                                                                            
+  •    actual or perceived significant data breaches involving our          
+       Platform or Apps;                                                    
+                                                                            
+                                                                            
+       the financial or non-financial metric projections we may provide to  
+  •    the public,                                                          
+       any changes in those projections or our failure to meet those        
+       projections;                                                         
+                                                                            
+                                                                            
+       third-party data published about us or other mobile gaming           
+  •    companies, whether or not such data accurately reflects              
+       actual levels of usage;                                              
+                                                                            
+                                                                            
+  •    announcements by us or our competitors of new products or services;  
+                                                                            
+                                                                            
+  •    the public’s reaction to our press releases, other public            
+       announcements, and filings with the SEC;                             
+                                                                            
+                                                                            
+  •    fluctuations in the trading volume of shares of our Class A common   
+       stock or the size of our public float;                               
+                                                                            
+                                                                            
+  •    short selling of our Class A common stock or related derivative      
+       securities;                                                          
+                                                                            
+                                                                            
+  •    actual or anticipated changes or fluctuations in our results of      
+       operations;                                                          
+                                                                            
+                                                                            
+       actual or anticipated developments in our business, our              
+  •    competitors’ businesses, or the competitive landscape                
+       generally;                                                           
+                                                                            
+                                                            
+  •    our issuance of shares of our Class A common stock;  
+                                                            
+                                                                            
+       litigation or regulatory action involving us, our industry or both,  
+  •    or investigations by regulators into our operations                  
+       or those of our competitors;                                         
+                                                                            
+4
+                                                                            
+  •    developments or disputes concerning our intellectual property or     
+       other proprietary rights;                                            
+                                                                            
+                                                                            
+  •    announced or completed acquisitions of businesses or technologies    
+       by us or our competitors;                                            
+                                                                            
+                                                                            
+  •    new laws or regulations or new interpretations of existing laws or   
+       regulations applicable to our business;                              
+                                                                            
+                                                                            
+  •    changes in accounting standards, policies, guidelines,               
+       interpretations, or principles;                                      
+                                                                            
+                                                                       
+  •    major catastrophic events in our domestic and foreign markets;  
+                                                                       
+                                                      
+  •    any significant change in our management; and  
+                                                      
+                                                                            
+  •    general economic conditions and slow or negative growth of our       
+       markets.                                                             
+                                                                            
+In addition, if the market for technology stocks or the stock market in
+general experiences a loss of investor confidence, the market price of our
+Class A common stock could decline for reasons unrelated to our business,
+financial condition, or results of operations. The market price of our Class
+A common stock might also decline in reaction to events that affect other
+companies in our industry even if these events do not directly affect us.
+Accordingly, we cannot assure you of the liquidity of any trading market,
+your ability to sell your shares of our Class A common stock when desired,
+or the prices that you may obtain for your shares of our Class A common
+stock. In the past, following periods of volatility in the market price of a
+company’s securities, securities class action litigation has often been
+brought against that company. If the market price of our Class A common
+stock is volatile, we may become the target of securities litigation.
+Securities litigation could result in substantial costs and divert our
+management’s attention and resources from our business. Such litigation
+could adversely affect our business, financial condition, and results of
+operations. Because we do not anticipate paying any cash dividends on our
+capital stock in the foreseeable future, capital appreciation, if any, will
+be your sole source of gain. You should not rely on an investment in our
+Class A common stock to provide dividend income. We do not anticipate paying
+cash dividends in the foreseeable future. We currently intend to retain
+future earnings, if any, to fund the development and growth of our business.
+In addition, our credit agreement contains, and any future credit facility
+or financing we obtain may contain, terms limiting the amount of dividends
+that may be declared or paid on our Class A common stock. Any future
+determination to pay dividends will be at the discretion of our board of
+directors and will be dependent upon our financial condition, results of
+operations, capital requirements, and applicable contractual restrictions.
+As a result, stockholders should rely on sales of their Class A common stock
+after price appreciation as the only way to realize any future gains on
+their investment. A substantial portion of the outstanding shares of our
+Class A common stock after our initial public offering will be restricted
+from immediate resale, but may be sold in the near future. The large number
+of shares eligible for public sale or subject to rights requiring us to
+register them for public sale could depress the market price of our Class A
+common stock. The market price of our Class A common stock could decline as
+a result of sales of a large number of shares of our Class A common stock in
+the market after our initial public offering and the perception that these
+sales could occur may also depress the market price of our Class A common
+stock. All of our directors and executive officers, and the holders of
+substantially all of our outstanding equity securities have entered into
+market standoff agreements with us or have entered into lock-upagreements
+with the underwriters of our initial public offering under which they have
+agreed, subject to specific exceptions, not to sell any of our stock during
+the period ending 180 days after the date of our initial public offering;
+provided that:
+                                                                            
+       up to 15% of the shares of common stock (including shares issuable   
+       upon exercise of vested options) held as of the date                 
+       of our initial public offering by current and former employees (as   
+       such term is defined for purposes of Form S-8), but excluding        
+  •    current executive officers and directors, subject to the lock-up     
+       agreements may be sold at the commencement of trading on the first   
+       trading day on which our Class A common stock is traded on the       
+       Nasdaq Global Select Market (the “First Trading Day Release”);       
+       and                                                                  
+                                                                            
+5
+                                                                            
+       up to 20% of the shares held as of the date of our initial public    
+       offering (including shares issuable upon the exercise                
+       of options that are scheduled to be vested as of the date that is    
+       90 days thereafter provided, however, the lock-up signatory          
+       continues to be a service provider to us through such date) subject  
+       to the lock-up agreements may be sold at the commencement of         
+       trading on the second trading day after we announce earnings for     
+       our second quarter of 2021 (the “Earnings-Related Release”). The     
+       Earnings-Related                                                     
+  •    Release will not occur unless we have announced earnings, either     
+       through a major news service or on a Form 8-K, at least five         
+       trading days in advance of the date of such earnings announcement.   
+       This                                                                 
+       Earnings-Related Release will not apply to shares owned by any       
+       limited liability company, partnership, corporation, trust, or       
+       other entity (including, without limitation, any investment fund),   
+       unless all of the equity interests and other economic                
+       interests in such entity are owned exclusively by lock-up signatory  
+       and immediate family members of such lock-up signatory.              
+                                                                            
+To the extent not released on the First Trading Day Release or Earnings-
+Related Release described above, pursuant to the lock-upagreements, if (i)
+at least 120 days have elapsed since the date of this prospectus, and (ii)
+the lock-upperiod is scheduled to end during or within five trading days
+prior to a regularly-scheduled blackout period under our insider trading
+policy, the lock-upperiod will end 10 trading days prior to the commencement
+of such blackout period (the “Blackout-Related Release”); provided that in
+the event the lock-upperiod will end during such period, we will notify the
+representatives of the date of the impending Blackout-Related Release
+promptly upon our determination of the date of the Blackout-Related Release
+and in any event at least seven trading days in advance of the date of the
+Blackout-Related Release, and will announce the date of the expected
+Blackout-Related Release through a major news service, or on a Form 8-K,at
+least two trading days in advance of the Blackout-Related Release. In
+addition, beginning 181 days after the date of this prospectus, the
+remainder of the shares of our Class A common stock (including shares of
+Class A common stock issuable upon conversion of Class B common stock) will
+become eligible for sale in the public market. If not earlier released, all
+of our outstanding shares of Class A common stock, other than those sold in
+our initial public offering which are freely tradable, will become eligible
+for sale upon expiration of the lock-upperiod, except for any shares held by
+our affiliates as defined in Rule 144 under the Securities Act. Upon
+completion of our initial public offering, stockholders owning an aggregate
+of up to 210.9 million shares of our Class A common stock (including shares
+issuable upon conversion of our Class B common stock and the exercise of
+certain warrants) will be entitled, under our Investors’ Rights Agreement
+dated as of August 15, 2018, among us and certain stockholders, to certain
+demand registration rights. Holders of shares of our Class A common stock
+issued upon conversion of the convertible securities to be issued in
+connection with our pending acquisition of Adjust GmbH (“Adjust”) will also
+be entitled to these rights with respect to such shares. In addition, we
+intend to file a registration statement to register shares reserved for
+future issuance under our equity compensation plans. Upon effectiveness of
+this registration statement, subject to the satisfaction of applicable
+exercise periods and compliance with the market standoff agreements and
+lock-upagreements referred to above, the registered shares, including those
+issued upon exercise of outstanding stock options, will be available for
+immediate resale in the United States in the open market. Sales of our Class
+A common stock as restrictions end or pursuant to registration rights may
+make it more difficult for us to sell equity securities in the future at a
+time and at a price that we deem appropriate. These sales also could cause
+the market price of our Class A common stock to fall and make it more
+difficult for you to sell shares of our Class A common stock. 6
+
+The issuance of additional stock in connection with financings,
+acquisitions, investments, our equity incentive plans, or otherwise will
+dilute all other stockholders. Our amended and restated certificate of
+incorporation that will be in effect upon completion of our initial public
+offering authorizes us to issue up to 1,500,000,000 shares of Class A common
+stock, up to 150,000,000 shares of Class C common stock, and up to
+100,000,000 shares of preferred stock with such rights and preferences as
+may be determined by our board of directors. Subject to compliance with
+applicable rules and regulations, we may issue shares of Class A common
+stock or securities convertible into shares of our Class A common stock from
+time to time in connection with a financing, acquisition, investment, our
+equity incentive plans, or otherwise. For example, in connection with our
+pending acquisition of Adjust, we expect to issue convertible securities
+that are convertible into an aggregate number of shares of our Class A
+common stock determined by dividing $352.0 million by the volume-weighted
+average trading price per share of our Class A common stock over any 10
+consecutive full trading periods (chosen by the stockholder representative
+under the share purchase agreement) within 20 trading days commencing with
+and following the day our Class A common stock is first traded on the Nasdaq
+Global Select Market. Any such issuance could result in substantial dilution
+to our existing stockholders and cause the market price of our Class A
+common stock to decline. Our multi-class stock structure, the Voting
+Agreement, and other provisions in our amended and restated certificate of
+incorporation and amended and restated bylaws could make a merger, tender
+offer, or proxy contest difficult, thereby depressing the market price of
+our Class A common stock. Our amended and restated certificate of
+incorporation and amended and restated bylaws will contain provisions that
+may make the acquisition of our company more difficult, including the
+following:
+                                                                            
+       our multi-class common stock structure and the Voting Agreement,     
+       which provide the Class B Stockholders with the                      
+  •    ability to determine or significantly influence the outcome of       
+       matters requiring stockholder approval, even if they own             
+       significantly less than a majority of the shares of our outstanding  
+       common stock;                                                        
+                                                                            
+                                                                            
+  •    vacancies on our board of directors will be able to be filled only   
+       by our board of directors and not by stockholders;                   
+                                                                            
+                                                                            
+       a special meeting of our stockholders will only be able to be        
+  •    called by a majority of our board of directors, the                  
+       chairperson of our board of directors, our Chief Executive Officer,  
+       or our President;                                                    
+                                                                            
+                                                                            
+       advance notice procedures will apply for stockholders to nominate    
+  •    candidates for election as directors or to bring                     
+       matters before an annual meeting of stockholders;                    
+                                                                            
+                                                                            
+  •    our amended and restated certificate of incorporation will not       
+       provide for cumulative voting;                                       
+                                                                            
+                                                                            
+  •    our amended and restated certificate of incorporation will allow     
+       stockholders to remove directors only for cause;                     
+                                                                            
+                                                                            
+       our amended and restated certificate of incorporation will           
+  •    authorize undesignated preferred stock, the terms of which           
+       may be established and shares of which may be issued by our board    
+       of directors, without further action by our stockholders;            
+                                                                            
+                                                                            
+       after the first date on which the outstanding shares of our Class B  
+       common stock represent less than a majority of                       
+       the total combined voting power of our Class A common stock and our  
+  •    Class B common stock (the “Voting Threshold Date”), our              
+       stockholders will only be able to take action at a meeting of        
+       stockholders and will not be able to take                            
+       action by written consent for any matter; and                        
+                                                                            
+                                                                            
+  •    certain litigation against us will only be able to be brought in     
+       Delaware.                                                            
+                                                                            
+These provisions, alone or together, could discourage, delay, or prevent a
+transaction involving a change in control of our company. These provisions
+could also discourage proxy contests and make it more difficult for
+stockholders to elect directors of their choosing and to cause us to take
+other corporate actions they desire, any of which, under certain
+circumstances, could limit the opportunity for our stockholders to receive a
+premium for their shares of our Class A common stock, and could also affect
+the market price of our Class A common stock. 7
+
+Our amended and restated bylaws will designate a state or federal court
+located within the State of Delaware and the federal district courts of the
+United States as the exclusive forum for substantially all disputes between
+us and our stockholders, which could limit our stockholders’ ability to
+choose the judicial forum for disputes with us or our directors, officers,
+or employees.
+
+Our amended and restated bylaws, which will become effective immediately
+prior to the
+completion of our initial public offering, will provide that, unless we
+consent in writing to the selection of an alternative forum, to the fullest
+extent permitted by law, the sole and exclusive forum for (i) any derivative
+action or
+proceeding brought on our behalf, (ii) any action asserting a claim of
+breach of a fiduciary duty owed by any of our directors, officers, or other
+employees to us or our stockholders, (iii) any action arising pursuant to
+any provision of
+the Delaware General Corporation Law, our amended and restated certificate
+of incorporation, or our amended and restated bylaws or (iv) any other
+action asserting a claim that is governed by the internal affairs doctrine
+shall be the Court of
+Chancery of the State of Delaware (or, if the Court of Chancery does not
+have jurisdiction, the federal district court for the District of Delaware),
+in all cases subject to the court having jurisdiction over indispensable
+parties named as
+defendants, and provided that this exclusive forum provision will not apply
+to suits brought to enforce any liability or duty created by the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”).
+
+Section 22 of the Securities Act creates concurrent jurisdiction for federal
+and state courts over all such Securities Act actions. Accordingly,
+both state and federal courts have jurisdiction to entertain such claims. To
+prevent having to litigate claims in multiple jurisdictions and the threat
+of inconsistent or contrary rulings by different courts, among other
+considerations, our amended
+and restated bylaws also provide that the federal district courts of the
+United States of America will be the exclusive forum for resolving any
+complaint asserting a cause of action arising under the Securities Act.
+However, while the Delaware
+Supreme Court ruled in March 2020 that federal forum selection provisions
+purporting to require claims under the Securities Act be brought in federal
+court are “facially valid” under Delaware law, there is uncertainty as to
+whether other
+courts will enforce our federal forum provision. If the federal forum
+provision is found to be unenforceable, we may incur additional costs
+associated with resolving such matters.
+
+Any person or entity purchasing or otherwise acquiring or holding or owning
+(or continuing to hold or own) any interest in any of our securities shall
+be deemed to have notice of and consented to the foregoing bylaw provisions.
+Although we believe these exclusive forum provisions benefit us by providing
+increased consistency in the application of Delaware law and federal
+securities laws in the
+types of lawsuits to which each applies, the exclusive forum provisions may
+limit a stockholder’s ability to bring a claim in a judicial forum of its
+choosing for disputes with us or any of our directors, officers,
+stockholders, or other
+employees, which may discourage lawsuits with respect to such claims against
+us and our current and former directors, officers, stockholders, or other
+employees. Our stockholders will not be deemed to have waived our compliance
+with the federal
+securities laws and the rules and regulations thereunder as a result of our
+exclusive forum provisions. Further, in the event a court finds either
+exclusive forum provision contained in our amended and restated bylaws to be
+unenforceable or
+inapplicable in an action, we may incur additional costs associated with
+resolving such action in other jurisdictions, which could harm our results
+of operations.
+
+8
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This prospectus and the
+documents incorporated by reference herein contain forward-looking
+statements within the meaning of the federal securities laws, which
+statements involve substantial risks and uncertainties. Forward-looking
+statements generally relate to future events or our future financial or
+operating performance. In some cases, you can identify forward-looking
+statements because they contain words such as “may,” “will,” “should,”
+“expect,” “plan,” “anticipate,” “could,” “intend,” “target,” “project,”
+“contemplate,” “believe,” “estimate,” “predict,” “potential,” or “continue”
+or the negative of these words or other similar terms or expressions that
+concern our expectations, strategy, plans, or intentions. Forward-looking
+statements contained in this prospectus include statements about:
+                                                                            
+       our future financial performance, including our expectations         
+  •    regarding our revenue, cost of revenue, and operating                
+       expenses, and our ability to achieve or maintain future              
+       profitability;                                                       
+                                                                            
+                                                                            
+  •    the sufficiency of our cash and cash equivalents to meet our         
+       liquidity needs;                                                     
+                                                                            
+                                              
+  •    the demand for our Software and Apps;  
+                                              
+                                                                      
+  •    our ability to attract and retain business clients and users;  
+                                                                      
+                                                                            
+       our ability to develop new products, features, and enhancements for  
+  •    our Core Technologies and Software and to launch or                  
+       acquire new Apps and successfully monetize them;                     
+                                                                            
+                                                                            
+  •    our ability to compete with existing and new competitors in          
+       existing and new markets and offerings;                              
+                                                                            
+                                                                            
+       our ability to successfully acquire and integrate companies and      
+  •    assets and to expand and diversify our operations                    
+       through strategic acquisitions and partnerships;                     
+                                                                            
+                                                                            
+  •    our ability to maintain the security and availability of our Core    
+       Technologies, Software, and Apps;                                    
+                                                                            
+                                                                            
+       our expectations regarding the effects of existing and developing    
+  •    laws and regulations, including with respect to                      
+       taxation and privacy and data protection;                            
+                                                                            
+                                                                 
+  •    our ability to manage risk associated with our business;  
+                                                                 
+                                                             
+  •    our expectations regarding new and evolving markets;  
+                                                             
+                                                      
+  •    our ability to develop and protect our brand;  
+                                                      
+                                                          
+  •    our expectations and management of future growth;  
+                                                          
+                                                                      
+  •    our expectations concerning relationships with third parties;  
+                                                                      
+                                                                       
+  •    our ability to attract and retain employees and key personnel;  
+                                                                       
+                                                                            
+  •    our ability to maintain, protect and enhance our intellectual        
+       property;                                                            
+                                                                            
+                                                                           
+  •    the increased expenses associated with being a public company; and  
+                                                                           
+                                                                            
+  •    our anticipated uses of net proceeds from our initial public         
+       offering.                                                            
+                                                                            
+We caution you that the foregoing list may not contain all of the forward-
+looking statements made in this prospectus or the documents incorporated by
+reference herein. You should not rely upon forward-looking statements as
+predictions of future events. We have based the forward-looking statements
+contained in this prospectus and the documents incorporated by reference
+herein primarily on our current expectations and projections about future
+events and trends that we believe may affect our business, financial
+condition, results of operations, and prospects. The outcome of the events
+described in these forward-looking statements is subject to risks,
+uncertainties, and other factors, including those described in the section
+titled “Risk Factors” and elsewhere in this prospectus and the documents
+incorporated by reference herein. Moreover, we operate in a very competitive
+and rapidly changing environment. New risks and uncertainties emerge from
+time to time and it is not possible for us to predict all risks and
+uncertainties that could have an impact on the forward-looking statements
+contained or incorporated by reference in this prospectus. We cannot assure
+you that the results, events, and circumstances reflected in the forward-
+looking statements will be achieved or occur, and actual results, events, or
+circumstances could differ materially from those described in the forward-
+looking statements. Neither we nor any other person assumes responsibility
+for the accuracy and completeness of any of these forward-looking
+statements. Moreover, the forward-looking statements made or incorporated by
+reference in this prospectus relate only to events as of the date on which
+the statements are made. We undertake no obligation to update any forward-
+looking statements made in this prospectus to reflect events or
+circumstances after the date of this prospectus or to reflect new
+information, actual results, revised 9
+
+expectations, or incorporated by reference or the occurrence of
+unanticipated events, except as required by law. We may not actually achieve
+the plans, intentions, or expectations disclosed in
+our forward-looking statements and you should not place undue reliance on
+our forward-looking statements. Our forward-looking statements do not
+reflect the potential impact of any future acquisitions, partnerships,
+mergers, dispositions, joint
+ventures, or investments we may make.
+
+In addition, statements that “we believe” and similar statements reflect our
+beliefs and opinions
+on the relevant subject. These statements are based upon information
+available to us as of the date of this prospectus, and while we believe such
+information forms a reasonable basis for such statements, such information
+may be limited or
+incomplete, and our statements should not be read to indicate that we have
+conducted an exhaustive inquiry into, or review of, all potentially
+available relevant information. These statements are inherently uncertain
+and investors are cautioned not
+to unduly rely upon these statements.
+
+10
+
+USE OF PROCEEDS
+
+We will not receive any of the proceeds from the sale of the Shares. All
+proceeds from the sale of the Shares will be for the account of the Selling
+Stockholders, as described below. See the sections titled “Selling
+Stockholders” and “Plan of Distribution” described below.
+
+11
+
+SELLING STOCKHOLDERS The following table sets forth information regarding
+beneficial ownership of our Class A common stock as of April 14, 2021, as
+adjusted to reflect the Shares that may be sold from time to time pursuant
+to this prospectus, for all Selling Stockholders, consisting of the
+individuals shown as having shares listed in the column entitled “Class A
+Common Stock Being Offered.” The Shares offered by the Selling Stockholders
+hereunder include an aggregate of 5,548,138 outstanding Shares acquired by
+certain of our current and former employees, consultants, and advisors
+pursuant to the Plan, as described in this prospectus. We have determined
+beneficial ownership in accordance with the rules of the SEC, and thus it
+represents sole or shared voting or investment power with respect to our
+Class A common stock. Unless otherwise indicated below, to our knowledge,
+the persons and entities named in the table have sole voting and sole
+investment power with respect to all shares that they beneficially owned as
+of April 14, 2021, subject to community property laws where applicable. The
+information does not necessarily indicate beneficial ownership for any other
+purpose, including for purposes of Sections 13(d) and 13(g) of the
+Securities Act. In computing the number of shares of our Class A common
+stock beneficially owned by a person and the percentage ownership of that
+person, we have deemed shares of our Class A common stock subject to stock
+options that are currently exercisable or exercisable within 60 days of
+April 14, 2021 to be outstanding and to be beneficially owned by the person
+holding the stock option for the purpose of computing the percentage
+ownership of that person. We have based percentage ownership of our Class A
+common stock before this offering on 210,775,334 shares of our Class A
+common stock, 147,807,622 shares of our Class B common stock and no shares
+of our Class C common stock outstanding as of April 14, 2021, which
+includes:
+                                                                            
+       42,564,150 shares of Class F common stock that will automatically    
+       convert into an equal number of shares of                            
+       Class A common stock immediately prior to the completion of our      
+  •    initial public offering, 12,900,000 of which will be exchanged for   
+       an equal number of shares of Class B common stock immediately prior  
+       to the completion of our initial public                              
+       offering; and                                                        
+                                                                            
+                                                                            
+       109,090,908 shares of Series A convertible preferred stock that      
+       will be converted into an equal number of shares of our              
+  •    Class A common stock and then will be exchanged for an equal number  
+       of shares of Class B common stock immediately prior to the           
+       completion of our initial public offering.                           
+                                                                            
+The percentage ownership of our Class A common stock before this offering
+also assumes the issuance and sale of 22,500,000 shares of Class A common
+stock by us in our initial public offering, the sale of 2,500,000 shares of
+Class A common stock by the selling stockholder in our initial public
+offering, and no exercise of the underwriters’ option to purchase from the
+selling stockholder 3,750,000 additional shares of our Class A common stock
+in our initial public offering. The table below does not reflect any shares
+of Class A common stock that may be purchased pursuant to the directed share
+program that is part of our initial public offering. Unless otherwise
+indicated, the address of each beneficial owner listed below is c/o Applovin
+Corporation, 1100 Page Mill Road, Palo Alto, California 94304.
+                                                                            
+              Class A                                Class A                
+               Common                    Class A      Common                
+                Stock                     Common       Stock                
+             Benefic…                      Stock    Benefic…                
+                Owned                      Being       Owned                
+                Prior                    Offered       After                
+               to the                                    the                
+             Offering                               Offerin…                
+  Selling      Shares    Percent…         Shares      Shares    Percen…     
+  Stockh…                                                                   
+  Named                                                                     
+  Selling    28,028,…        13.2  %    4,093,9…    23,934,…       11.2  %  
+  Stockh…                                                                   
+  Rafael     5,219,6…         2.5  %     779,194    4,440,4…        2.1  %  
+  Vivas(…                                                                   
+  Mark       4,500,0…         2.1  %     675,000    3,825,0…        1.8  %  
+  Rosner…                                                                   
+                                                                            
+12
+                                                                            
+       Assumes that all of the Shares held by each Selling Stockholder and  
+  (1)  being offered under this prospectus are sold, and                    
+       that no Selling Stockholder will acquire additional shares of Class  
+       A common stock before the completion of this offering.               
+                                                                            
+                                                                            
+       Includes the following 292 named non-affiliate selling               
+       stockholders: Syed                                                   
+       Abidi, Afaq Ahmed, Andrew Ahn, Jonathan Ahnert, Anthony Alayo,       
+       Brent Allard, Abhishek Ambre, Liubov Anashina, Swetha Anbarasan,     
+       David Anderson, Jatin Aneja, Harry Arakkal, Jose Luis Roberto        
+       Asuncion, Rodolfo Baez, Santosh Bagadi, Parya Bahrani,               
+       Vijaya Baipaneni, Neil Baquiran, Joshua Barger, Berkay Barutcu,      
+       Jonathon Battista, Kelly Baykal, Ilya Berger, Betsey Sipple,         
+       Trustee of Casey Sipple 2020 Trust, Betsey Sipple, Trustee of Jack   
+       Sipple 2020 Trust, Betsey Sipple, Trustee of Ryan Sipple             
+       2020 Trust, Betsey Sipple, Trustee of Shayden Sipple 2020 Trust,     
+       Sunny Bhasin, Briana Billingham, Arya Bondarian, Joshua Bonvino,     
+       Matthew Bornski, Bojana Bozic, Matthew Buchwald, Nathan Bui, Iris    
+       Burstein, Christian Calderon, James Caldwell, John                   
+       Calhoun, Idil Canal, Vince Chan, Adam Chandler, Tony Chau, Andy      
+       Chen, Benjamin Chen, Ge Chen, Jui Wen Chen, Po-An Chen, Richard      
+       Chen, Ye Chen, Jonathan Chichioco, Eunhyang Choi, Hanui Choi,        
+       Weonseok Choi,                                                       
+       Harrison Chow, Cheryl Chua, Youngik Chung, Anthony Cihak,            
+       Christopher Cong, Kelsey Copeland, Joseph Cunniffe, Dominic Davies,  
+       Dinesh Deiveegan, Alexandre Delbarre, Mary Dilworth, Jessica Dolan,  
+       Dmitriy Dorosh, Yuvika Dube, Emma Egan-Lawless, Michael              
+       Eisenberg, Zoey Engel, Negin Etemad, Alex Fan, William Farnan,       
+       Colin Felton, Benjamin Figueroa, Richard Filippini, Danielle         
+       Fisher, Nick Fong, Michael Fortune, David Gaballa, Wyatt Gable,      
+       Christine Gamab, Saloni Gangal, Jerusalem Gezahegan, Zachary         
+       Gill, Joshua Gleeson, Maria Golcz, Frances Nachman Jones, Trustee    
+       of The Bailey Jones Irrevocable Trust, Frances Nachman Jones,        
+       Trustee of The Riley Jones Irrevocable Trust, Joshua Gong, Carlos    
+       Gonzalez, Brett Gough, Philip Graham, Jacob Grate, Adam              
+       Grossman, Alice Guillaume, Sonal Gupta, Joyce Gutierrez, Geoff       
+       Hamm, Hamm 12.20-1 GRAT, Hamm 12.20-2 GRAT, Hamm 12.20-3 GRAT,       
+       Hamm 12.20-4 GRAT, Omer Hasan, Norikazu Hayashi, William Hayward,    
+       Johannes Heinze, Thomas Heinze, Rachael Herb-Neterer, Phillip        
+       Hersh, Shijie Huang, Sergey Ignatov, Emelyne Interior, Ravi          
+       Jagannathan, Abhi                                                    
+       Jain, Marissa Jankowski, Mohammad Javed, John Simon Jeffery,         
+       Katelyn Jensen, Yiqing Jiang, Maggie Jin, Xiuying Jin, Mark          
+       Johnston, Jacqueline Anne Jones, James Jones, Richard Jones, Thomas  
+       Nachman Jones, Karan Kajla, Ram Kandasamy, William Kang,             
+       Tomoya Katagi, Amandeep Kaur, Keith Kawahata, Dylan Kennamer, Tyler  
+       Kent, Natalie Klinkhammer, Kellie Knight, Fumiyuki Kojima, Gabor     
+  (2)  Kondas, Tada Kongjonrak, Joshua Krepon, Nicholas Krystynak,          
+       Valentyna Kulchitska, Sarah Lafferty, Brian Le, Nicholas             
+       Le, Jason Lee, Thomas Lemrond, Lewis Leong, Abigail Levine, Robert   
+       Li, Sha Li, Shusheng Lin, Christina Liu, Minjing Liu, Mi Ru Liu,     
+       Richard Liu, Carl Livie, Eduardo Llach, Katja Llach, Ethan Lo, Kai   
+       Lu, Tao Luo, Ivy Luong, Lin Ma, Lawrence Mann,                       
+       Yuki Manno, Patrick McNenny, Hinal Mehta, Alexander Merutka, Naveen  
+       Mewani, Joseph John Milla, Amy Mills, Gil Mincberg, Dominic          
+       Minogue, Neil Mithipati, Yohei Miyai, John Miyoshi, Kae Mochida,     
+       Azadeh Mohseni, Jennifer Morris, Kyler Murlas, Matt                  
+       Murphy, Michael Murphy, Rina Nakamura, Yu Nakamura, Joyce Nasu,      
+       Neha Gupta and Sahil Gupta, Trustees of the Gupta Family             
+       Irrevocable Trust dated as of 3/29/2021, Anthony Ngai, Henry Ngai,   
+       Diana Nguyen, Kali Nguyen, Lillian Nguyen, Pejman Nowzad,            
+       Omer Hasan and Shagufta Mansoor, Trustees of the A/H Trust, Omer     
+       Hasan and Shagufta Mansoor, Trustees of Hasan/Mansoor Descendants’   
+       Trust, Alexandra Osborn-Jones, Chansun Park, Jina Park, Darby        
+       Payne, Samantha Pena, Rebecca Peng, Ryan Perry,                      
+       Atmananda Persaud, Laura Pfister, Sebastian Plehn, Steven Quach,     
+       Eugen Quiring, Rajiv Ragu, Anusha Ramesh, Anish Rao, Vikram Ravi     
+       Narayanan, Imtiaz Razzak, Andy Reimann, Steven Richter, Kenneth      
+       Roberts, Eli Rosen, Robert Russo, Furqan Rydhan, Cody                
+       Sacerdoti, Tatsuo Sakamoto, Florida Santiago, Meilani Santillan,     
+       Shellie Schenck, David Scherzinger, Peter K. Schlaefer, Michael      
+       Ryan, James Schmidt, Michael Selvidge, Benjamin Sergeant, Neerav     
+       Sharma, Robert Scott Shipman, Michael Silk, Thomas                   
+       Sipple, David Situ, Adam Smith, Corey Smith, Virginia Smith, Thomas  
+       So, Ankit Soni, Kyle Sosnowski, Emmanuel Souganidis, Simon Spaull,   
+       Andrei Stankevich, Katelyn Strobel, Matt Stumpf, Matthew Szaro,      
+       Nicholas Talarico, Stephen Talarico, Akira                           
+       Taninaka, Kenneth Taylor, Daniel Tchernahovsky, Bret Terrill,        
+       Victoria Teshome, Pranav Thakkar, Andrew Tian, Ashish Tiwari,        
+       Enrico Tombari, Ross Treyz, Jerome Turnbull, Joseph Urban, Vineeth   
+       Veetil, Hugo Velis, VST 2021 GRAT, Victoria Teshome as               
+       Trustee, Kanishka Wadhwa, Siyang Wang, Sean Webster, Lloyd           
+       Whitcraft, Ariana Whitson, Crystal Witten, Henry Wong, Helen Wu      
+       Merlin, Le Xu, Takayasu Yajima, Aki Yamasaki, Alejandro Yang,        
+       Carolyn Yang, Breannah Yeh, Deborah Yeung, Charles Yong, Joon        
+       Yoo, Miao You, Irene Yu, Chris Zaharias, Jennifer Zhang, Jiaqi       
+       Zhang, Yan Zhang, Amery Zhen, Li Zheng, Kuo Zhong, Shien Zhu, Yujia  
+       Zhu and Alyona Zviagina. Each of these persons or entities           
+       beneficially owns less than 1% of our Class A common                 
+       stock.                                                               
+                                                                            
+                                                                            
+       Consists of 4,994,631 shares of our Class A common stock held of     
+  (3)  record by Rafael Vivas and 225,000 shares of our                     
+       Class A common stock issuable to Rafael Vivas upon the exercise of   
+       options within 60 days of April 14, 2021.                            
+                                                                            
+                                                                            
+       Consists of 2,250,000 shares of our Class A common stock held of     
+  (4)  record by Mark Rosner and 2,250,000 shares of                        
+       our Class A Common stock held by Mark Rosner as Trustee of The       
+       Rosner Family 2018 Trust.                                            
+                                                                            
+13
+
+PLAN OF DISTRIBUTION We are registering the Shares covered by this
+prospectus to permit the Selling Stockholders to conduct public secondary
+trading of these Shares from time to time after the date of this prospectus.
+We will not receive any of the proceeds of the sale of the Shares offered by
+this prospectus. The aggregate proceeds to the Selling Stockholders from the
+sale of the Shares will be the purchase price of the Shares less any
+discounts and commissions. We will not pay any brokers’ or underwriters’
+discounts and commissions in connection with the registration and sale of
+the Shares covered by this prospectus. The Selling Stockholders reserve the
+right to accept and, together with their respective agents, to reject, any
+proposed purchases of Shares to be made directly or through agents. The
+Shares offered by this prospectus may be sold from time to time to
+purchasers:
+                                                 
+  •    directly by the Selling Stockholders, or  
+                                                 
+                                                                            
+       through underwriters, broker-dealers or agents, who may receive      
+  •    compensation in the form of discounts, commissions or                
+       agent’s commissions from the Selling Stockholders or the purchasers  
+       of the Shares.                                                       
+                                                                            
+Any underwriters, broker-dealers or agents who participate in the sale or
+distribution of the Shares may be deemed to be “underwriters” within the
+meaning of the Securities Act. As a result, any discounts, commissions or
+concessions received by any such broker-dealer or agents who are deemed to
+be underwriters will be deemed to be underwriting discounts and commissions
+under the Securities Act. Underwriters are subject to the prospectus
+delivery requirements of the Securities Act and may be subject to certain
+statutory liabilities under the Securities Act and the Exchange Act. We will
+make copies of this prospectus available to the Selling Stockholders for the
+purpose of satisfying the prospectus delivery requirements of the Securities
+Act. To our knowledge, there are currently no plans, arrangements or
+understandings between the Selling Stockholders and any underwriter, broker-
+dealer or agent regarding the sale of the Shares by the Selling
+Stockholders. The Shares may be sold in one or more transactions at:
+                      
+  •    fixed prices;  
+                      
+                                                      
+  •    prevailing market prices at the time of sale;  
+                                                      
+                                                         
+  •    prices related to such prevailing market prices;  
+                                                         
+                                                          
+  •    varying prices determined at the time of sale; or  
+                                                          
+                           
+  •    negotiated prices.  
+                           
+These sales may be effected in one or more transactions:
+                                                                            
+       on any national securities exchange or quotation service on which    
+  •    the Shares may be listed or quoted at the time of                    
+       sale, including the Nasdaq Global Select Market;                     
+                                                                            
+                                        
+  •    in the over-the-counter market;  
+                                        
+                                                                            
+  •    in transactions otherwise than on such exchanges or services or in   
+       the over-the-counter market;                                         
+                                                                            
+                                                         
+  •    any other method permitted by applicable law; or  
+                                                         
+                                                  
+  •    through any combination of the foregoing.  
+                                                  
+These transactions may include block transactions or crosses. Crosses are
+transactions in which the same broker acts as an agent on both sides of the
+trade. At the time a particular offering of the Shares is made, a prospectus
+supplement, if required, will be distributed, which will set forth the name
+of the Selling Stockholders, the aggregate amount of Shares being offered
+and the terms of the offering, including, to the extent required, (1) the
+name or names of any underwriters, broker-dealers or agents, (2) any
+discounts, commissions and other terms constituting compensation from the
+Selling Stockholders and (3) any discounts, commissions or concessions
+allowed or reallowed to be paid to broker-dealers. 14
+
+The Selling Stockholders will act independently of us in making decisions
+with respect to the timing,
+manner, and size of each resale or other transfer. There can be no assurance
+that the Selling Stockholders will sell any or all of the Shares under this
+prospectus. Further, we cannot assure you that the Selling Stockholders will
+not transfer,
+distribute, devise or gift the Shares by other means not described in this
+prospectus. In addition, any Shares covered by this prospectus that qualify
+for sale under Rule 144 of the Securities Act may be sold under Rule 144
+rather than
+under this prospectus. The Shares may be sold in some states only through
+registered or licensed brokers or dealers. In addition, in some states the
+Shares may not be sold unless they have been registered or qualified for
+sale or an exemption from
+registration or qualification is available and complied with.
+
+The Selling Stockholders and any other person participating in the sale of
+the Shares
+will be subject to the Exchange Act. The Exchange Act rules include, without
+limitation, Regulation M, which may limit the timing of purchases and sales
+of any of the Shares by the Selling Stockholders and any other person. In
+addition,
+Regulation M may restrict the ability of any person engaged in the
+distribution of the Shares to engage in market-making activities with
+respect to the particular Shares being distributed. This may affect the
+marketability of the Shares and the
+ability of any person or entity to engage in market-making activities with
+respect to the Shares.
+
+The Selling Stockholders may indemnify any broker
+or underwriter that participates in transactions involving the sale of the
+Shares against certain liabilities, including liabilities arising under the
+Securities Act.
+
+15
+
+LEGAL MATTERS The validity of the Shares offered hereby has been passed upon
+by Wilson Sonsini Goodrich & Rosati, P.C., Palo Alto, California. EXPERTS
+The financial statements of Applovin Corporation and subsidiaries
+incorporated herein by reference have been audited by Deloitte & Touche LLP,
+an independent registered public accounting firm, as stated in their report
+incorporated by reference herein. Such financial statements are incorporated
+by reference herein in reliance upon the report of such firm given upon
+their authority as experts in accounting and auditing. The consolidated
+financial statements of Machine Zone, Inc. as of December 31, 2018 and 2019
+and for each of the years in the two-yearperiod ended December 31, 2019,
+have been incorporated by reference herein in reliance upon the report of
+KPMG LLP (KPMG), independent auditors, appearing elsewhere incorporated by
+reference and upon the authority of said firm as experts in accounting and
+auditing. Applovin has agreed to indemnify and hold KPMG harmless against
+and from any and all legal costs and expenses incurred by KPMG in successful
+defense of any legal action or proceeding that arises as a result of KPMG’s
+consent to the incorporation by reference of its audit report on Machine
+Zone, Inc.’s past financial statements incorporated by reference in this
+registration statement. INFORMATION INCORPORATED BY REFERENCE The following
+documents filed with the SEC are hereby incorporated by reference in this
+prospectus:
+                                                                            
+       Amendment No.                                                        
+       2 to the registrant’s registration statement on Form S-1 filed with  
+  •    the SEC on April 7, 2021 (File No. 333-253800), which contains the   
+       registrant’s audited financial statements for the latest fiscal      
+       year for which such statements have been filed.                      
+                                                                            
+                                                                            
+       The registrant’s Prospectus to be filed on or about April 15, 2021   
+  •    pursuant to Rule 424(b) under the                                    
+       Securities Act, relating to the Registration Statement on Form S-1,  
+       as amended (File No. 333-253800).                                    
+                                                                            
+                                                                            
+       The description of the registrant’s Class                            
+       A common stock which is contained in a registration statement on     
+  •    Form 8-A filed on April 12, 2021                                     
+       (File No. 001-40325) under the Exchange Act, including any           
+       amendment or report filed for the purpose of updating such           
+       description.                                                         
+                                                                            
+All documents filed by the registrant pursuant to Sections 13(a), 13(c), 14
+and 15(d) of the Exchange Act on or after the date of this Registration
+Statement and prior to the filing of a post-effective amendment to this
+Registration Statement that indicates that all securities offered have been
+sold or that deregisters all securities then remaining unsold shall be
+deemed to be incorporated by reference in this Registration Statement and to
+be part hereof from the date of filing of such documents; provided, however,
+that documents or information deemed to have been furnished and not filed in
+accordance with the rules of the SEC shall not be deemed incorporated by
+reference into this Registration Statement. Any statement contained in a
+document incorporated or deemed to be incorporated by reference herein shall
+be deemed to be modified or superseded for purposes of this Registration
+Statement to the extent that a statement contained herein or in any
+subsequently filed document which also is deemed to be incorporated by
+reference herein modifies or supersedes such statement. Any such statement
+so modified or superseded shall not be deemed, except as so modified or
+superseded, to constitute a part of this Registration Statement. 16
+
+WHERE YOU CAN FIND MORE INFORMATION
+
+We file annual, quarterly and other reports, proxy statements and other
+information with the SEC. Our SEC filings are available to the public over
+the
+Internet at the SEC’s website at http://www.sec.gov. Our Annual Report on
+Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K,
+including any amendments to those reports, and other information that we
+file with or furnish to the SEC pursuant to Section 13(a) or 15(d) of the
+Exchange Act can also be accessed free of charge by
+linking directly from our website at www.applovin.com. These filings will be
+available as soon as reasonably practicable after we electronically file
+such material with, or furnish it to, the SEC. Information contained on our
+website is not part of
+this prospectus.
+
+The registrant hereby undertakes to provide without charge to each person,
+including any beneficial owner, to whom a copy of this
+prospectus is delivered, upon written or oral request of any such person, a
+copy of any and all of the information that has been incorporated by
+reference in this prospectus but not delivered with the prospectus other
+than the exhibits to those
+documents, unless the exhibits are specifically incorporated by reference
+into the information that this prospectus incorporates. Requests for
+documents should be directed to Applovin Corporation, Attention: Chief Legal
+Officer and Corporate
+Secretary, 1100 Page Mill Road, Palo Alto, California 94304, (800) 839-9646.
+
+17
+
+PART I INFORMATION REQUIRED IN THE SECTION 10(A) PROSPECTUS Item 1. Plan
+Information.* Item 2. Registration Information and Employee Plan Annual
+Information.*
+                                                                            
+     Information required by Part I to be contained in the Section 10(a)    
+  *  prospectus is omitted from this Registration                           
+     Statement in accordance with Rule 428 under the Securities Act and     
+     the “Note” to Part I of Form S-8.                                      
+                                                                            
+I-1
+
+PART II INFORMATION REQUIRED IN REGISTRATION STATEMENT Item 3. Incorporation
+of Documents by Reference. The following documents filed with the SEC are
+hereby incorporated by reference in this prospectus:
+                                                                            
+       Amendment No.                                                        
+       2 to the registrant’s Registration Statement on Form S-1 filed with  
+  •    the SEC on April 7, 2021 (File No. 333-253800), which contains the   
+       registrant’s audited financial statements for the latest fiscal      
+       year for which such statements have been filed.                      
+                                                                            
+                                                                            
+       The registrant’s Prospectus to be filed on or about April 15, 2021   
+  •    pursuant to Rule 424(b) under the                                    
+       Securities Act, relating to the Registration Statement on Form S-1,  
+       as amended (File No. 333-253800).                                    
+                                                                            
+                                                                            
+       The description of the registrant’s Class                            
+       A common stock which is contained in a registration statement on     
+  •    Form 8-A filed on April 12, 2021                                     
+       (File No. 001-40325) under the Exchange Act, including any           
+       amendment or report filed for the purpose of updating such           
+       description.                                                         
+                                                                            
+All documents filed by the registrant pursuant to Sections 13(a), 13(c), 14
+and 15(d) of the Exchange Act on or after the date of this Registration
+Statement and prior to the filing of a post-effective amendment to this
+Registration Statement that indicates that all securities offered have been
+sold or that deregisters all securities then remaining unsold shall be
+deemed to be incorporated by reference in this Registration Statement and to
+be part hereof from the date of filing of such documents; provided, however,
+that documents or information deemed to have been furnished and not filed in
+accordance with the rules of the SEC shall not be deemed incorporated by
+reference into this Registration Statement. Any statement contained in a
+document incorporated or deemed to be incorporated by reference herein shall
+be deemed to be modified or superseded for purposes of this Registration
+Statement to the extent that a statement contained herein or in any
+subsequently filed document which also is deemed to be incorporated by
+reference herein modifies or supersedes such statement. Any such statement
+so modified or superseded shall not be deemed, except as so modified or
+superseded, to constitute a part of this Registration Statement. Item 4.
+Description of Securities. Not applicable. Item 5. Interests of Named
+Experts and Counsel. Not applicable. Item 6. Indemnification of Directors
+and Officers. Section 145 of the Delaware General Corporation Law authorizes
+a corporation’s board of directors to grant, and authorizes a court to
+award, indemnity to officers, directors, and other corporate agents. The
+Registrant has adopted an amended and restated certificate of incorporation,
+which will become effective immediately prior to the completion of the
+Registrant’s initial public offering and which will contain provisions that
+limit the liability of its directors for monetary damages to the fullest
+extent permitted by the Delaware General Corporation Law. Consequently, the
+Registrant’s directors will not be personally liable to the Registrant or
+its stockholders for monetary damages for any breach of fiduciary duties as
+directors, except liability for the following:
+                                                                            
+  •    any breach of their duty of loyalty to the Registrant or its         
+       stockholders;                                                        
+                                                                            
+II-1
+                                                                            
+  •    any act or omission not in good faith or that involves intentional   
+       misconduct or a knowing violation of law;                            
+                                                                            
+                                                                            
+       unlawful payments of dividends or unlawful stock repurchases or      
+  •    redemptions as provided in Section 174 of the                        
+       Delaware General Corporation Law; or                                 
+                                                                            
+                                                                            
+  •    any transaction from which they derived an improper personal         
+       benefit.                                                             
+                                                                            
+Any amendment to, or repeal of, these provisions will not eliminate or
+reduce the effect of these provisions in respect of any act, omission, or
+claim that occurred or arose prior to that amendment or repeal. If the
+Delaware General Corporation Law is amended to provide for further
+limitations on the personal liability of directors of corporations, then the
+personal liability of the Registrant’s directors will be further limited to
+the greatest extent permitted by the Delaware General Corporation Law. In
+addition, the Registrant’s amended and restated bylaws, which will become
+effective immediately prior to the completion of the Registrant’s initial
+public offering, and which will provide that the Registrant will indemnify,
+to the fullest extent permitted by law, any person who is or was a party or
+is threatened to be made a party to any action, suit, or proceeding by
+reason of the fact that he or she is or was one of the Registrant’s
+directors or officers or is or was serving at the Registrant’s request as a
+director or officer of another corporation, partnership, joint venture,
+trust or other enterprise. The Registrant’s amended and restated bylaws will
+provide that the Registrant may indemnify to the fullest extent permitted by
+law any person who is or was a party or is threatened to be made a party to
+any action, suit, or proceeding by reason of the fact that he or she is or
+was one of the Registrant’s employees or agents or is or was serving at the
+Registrant’s request as an employee or agent of another corporation,
+partnership, joint venture, trust, or other enterprise. The Registrant’s
+amended and restated bylaws will also provide that the Registrant must
+advance expenses incurred by or on behalf of a director or officer in
+advance of the final disposition of any action or proceeding, subject to
+limited exceptions. Further, the Registrant has entered into indemnification
+agreements with each of its directors and executive officers that may be
+broader than the specific indemnification provisions contained in the
+Delaware General Corporation Law. These indemnification agreements require
+the Registrant, among other things, to indemnify its directors and executive
+officers against liabilities that may arise by reason of their status or
+service. These indemnification agreements also require the Registrant to
+advance all expenses incurred by the directors and executive officers in
+investigating or defending any such action, suit, or proceeding. The
+Registrant believes that these agreements are necessary to attract and
+retain qualified individuals to serve as directors and executive officers.
+The limitation of liability and indemnification provisions will be included
+in the Registrant’s amended and restated certificate of incorporation,
+amended and restated bylaws and the indemnification agreements that the
+Registrant has entered into with its directors and executive officers may
+discourage stockholders from bringing a lawsuit against the Registrant’s
+directors and executive officers for breach of their fiduciary duties. They
+may also reduce the likelihood of derivative litigation against the
+Registrant’s directors and executive officers, even though an action, if
+successful, might benefit the Registrant and other stockholders. Further, a
+stockholder’s investment may be adversely affected to the extent that the
+Registrant pays the costs of settlement and damage awards against directors
+and executive officers as required by these indemnification provisions. At
+present, the Registrant is not aware of any pending litigation or proceeding
+involving any person who is or was one of the Registrant’s directors,
+officers, employees, or other agents or is or was serving at its request as
+a director, officer, employee, or agent of another corporation, partnership,
+joint venture, trust or other enterprise, for which indemnification is
+sought, and the Registrant is not aware of any threatened litigation that
+may result in claims for indemnification. The Registrant has obtained
+insurance policies under which, subject to the limitations of the policies,
+coverage is provided to the Registrant’s directors and executive officers
+against loss arising from claims made by reason of breach of fiduciary duty
+or other wrongful acts as a director or executive officer, including claims
+relating to public securities matters, and to the Registrant with respect to
+payments that may be made by the Registrant to these directors and executive
+officers pursuant to its indemnification obligations or otherwise as a
+matter of law. II-2
+
+Certain of the Registrant’s non-employeedirectors may, through their
+relationships with their employers, be insured or indemnified against
+certain liabilities incurred in their capacity as members of the
+Registrant’s Board of Directors. Insofar as indemnification for liabilities
+arising under the Securities Act may be permitted to directors, officers or
+persons controlling the Registrant pursuant to the foregoing provisions, the
+Registrant has been informed that, in the opinion of the Commission, such
+indemnification is against public policy as expressed in the Securities Act
+and is therefore unenforceable. Item 7. Exemption from Registration Claimed.
+The issuance of the Shares being offered by the Form S-3resale prospectus
+were deemed to be exempt from registration under the Securities Act in
+reliance upon Section 4(a)(2) of the Securities Act (or Regulation D or
+Regulation S promulgated thereunder), or Rule 701 promulgated under Section
+3(b) of the Securities Act as transactions by an issuer not involving any
+public offering or pursuant to benefit plans and contracts relating to
+compensation as provided under Rule 701. The recipients of the securities in
+each of these transactions represented their intentions to acquire the
+securities for investment only and not with a view to or for sale in
+connection with any distribution thereof, and appropriate legends were
+placed upon the stock certificates issued in these transactions. All
+recipients had adequate access, through their relationships with us, to
+information about the registrant. Item 8. Exhibits. EXHIBIT INDEX
+                                                                            
+                                Incorpo…                                    
+  Exhibit                       by                                          
+                                Referen…                                    
+  Number     Exhibit     Form               File No.    Exhibit    Filing   
+             Descrip…                                              Date     
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Certifi…                                                       
+             of                                                             
+             Incorpo…                                                       
+  4.1        of the      S-1                333-253…        3.1    March    
+             registr…                                              2, 2021  
+             as                                                             
+             amended                                                        
+             and                                                            
+             current…                                                       
+             in                                                             
+             effect.                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Bylaws                                                         
+             of the                                                         
+  4.2        registr…    S-1                333-253…        3.3    March    
+             as                                                    2, 2021  
+             amended                                                        
+             and                                                            
+             current…                                                       
+             in                                                             
+             effect.                                                        
+             Form of                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Certifi…                                                       
+             of                                                             
+             Incorpo…                                                       
+             of the                                                         
+             registr…                                              March    
+  4.3        to be       S-1/A              333-253…        3.2    22,      
+             effecti…                                              2021     
+             immedia…                                                       
+             prior to                                                       
+             the                                                            
+             complet…                                                       
+             of the                                                         
+             registr…                                                       
+             initial                                                        
+             public                                                         
+             offerin…                                                       
+             Form of                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Bylaws                                                         
+             of the                                                         
+             registr…                                                       
+             to be                                                 March    
+  4.4        effecti…    S-1/A              333-253…        3.4    22,      
+             immedia…                                              2021     
+             prior to                                                       
+             the                                                            
+             complet…                                                       
+             of the                                                         
+             registr…                                                       
+             initial                                                        
+             public                                                         
+             offerin…                                                       
+             Form of                                                        
+             Class                                                          
+             A common                                              March    
+  4.5        stock       S-1                333-253…        4.1    2, 2021  
+             certifi…                                                       
+             of the                                                         
+             registr…                                                       
+             Opinion                                                        
+             of                                                             
+             Wilson                                                         
+  5.1*       Sonsini                                                        
+             Goodrich                                                       
+             &                                                              
+             Rosati,                                                        
+             P.C.                                                           
+             Consent                                                        
+             of                                                             
+             Deloitte                                                       
+             & Touche                                                       
+  23.1*      LLP,                                                           
+             Indepen…                                                       
+             Registe…                                                       
+             Public                                                         
+             Account…                                                       
+             Firm.                                                          
+             Consent                                                        
+  23.2*      of KPMG,                                                       
+             Indepen…                                                       
+             Auditor…                                                       
+             Consent                                                        
+             of                                                             
+             Wilson                                                         
+             Sonsini                                                        
+             Goodrich                                                       
+             &                                                              
+  23.3*      Rosati,                                                        
+             P.C.                                                           
+             (includ…                                                       
+             in                                                             
+             Exhibit                                                        
+             5.1                                                            
+             hereto).                                                       
+             Power of                                                       
+             Attorney                                                       
+             (includ…                                                       
+  24.1*      on the                                                         
+             signatu…                                                       
+             page                                                           
+             hereto).                                                       
+             Applovin                                                       
+             Corpora…                                                       
+             2011                                                           
+             Equity                                                March    
+  99.1       Incenti…    S-1                333-253…       10.2    2, 2021  
+             Plan and                                                       
+             related                                                        
+             form                                                           
+             agreeme…                                                       
+                                                                            
+                      
+  *  Filed herewith.  
+                      
+II-3
+
+Item 9. Undertakings.
+                                                     
+  A.  The undersigned Registrant hereby undertakes:  
+                                                     
+                                                                            
+       To file, during any period in which offers or sales are being made,  
+  (1)  a post-effective amendment to this Registration                      
+       Statement:                                                           
+                                                                            
+                                                                            
+  (i)  To include any prospectus required by Section 10(a)(3) of the        
+       Securities Act;                                                      
+                                                                            
+                                                                            
+        To reflect in the prospectus any facts or events arising after the  
+        effective date of the Registration Statement (or                    
+        the most recent post-effective amendment thereof) which,            
+        individually or in the aggregate, represent a fundamental change    
+        in the information set forth in the Registration Statement.         
+        Notwithstanding the foregoing, any increase or decrease in volume   
+        of securities offered (if the total dollar value of securities      
+  (ii)  offered would not exceed that which was registered) and any         
+        deviation from the low or high end of the estimated maximum         
+        offering range may be reflected in the form of prospectus filed     
+        with the Commission pursuant to Rule 424(b) if, in the aggregate,   
+        the changes in volume and price represent no more than a 20         
+        percent change in the maximum aggregate offering price set forth    
+        in the “Calculation of Registration Fee”                            
+        table in the effective Registration Statement; and                  
+                                                                            
+                                                                            
+         To include any material information with respect to the plan of    
+  (iii)  distribution not previously disclosed in the                       
+         Registration Statement or any material change to such information  
+         in the Registration Statement.                                     
+                                                                            
+Provided, however, that paragraphs (A)(1)(i) and (A)(1)(ii) do not apply if
+the information required to be included in a post-effective amendment by
+those paragraphs is contained in reports filed with or furnished to the
+Commission by the Registrant pursuant to Section 13 or Section 15(d) of the
+Exchange Act that are incorporated by reference in this Registration
+Statement.
+                                                                            
+       For the purpose of determining any liability under the Securities    
+       Act, each such post-effective amendment shall be                     
+  (2)  deemed to be a new registration statement relating to the            
+       securities offered therein, and the offering of such securities at   
+       that time shall be deemed to be the initial bona fide offering       
+       thereof.                                                             
+                                                                            
+                                                                            
+       It will remove from registration by means of a post-effective        
+  (3)  amendment any of the securities being registered which               
+       remain unsold at the termination of the offering.                    
+                                                                            
+                                                                            
+      The undersigned Registrant hereby undertakes that, for purposes of    
+      determining any liability under the Securities Act,                   
+      each filing of the Registrant’s annual report pursuant to Section     
+      13(a) or Section 15(d) of the Exchange Act (and, where applicable,    
+      each filing of an employee benefit plan’s annual report pursuant to   
+  B.  Section 15(d) of the                                                  
+      Exchange Act) that is incorporated by reference in the Registration   
+      Statement shall be deemed to be a new registration statement          
+      relating to the securities offered therein, and the offering of such  
+      securities at that time shall be deemed to be the                     
+      initial bona fide offering thereof.                                   
+                                                                            
+II-4
+                                                                            
+      Insofar as indemnification for liabilities arising under the          
+      Securities Act may be permitted to directors, officers                
+      and controlling persons of the Registrant pursuant to the foregoing   
+      provisions, or otherwise, the Registrant has been advised that in     
+      the opinion of the Commission such indemnification is against public  
+      policy as expressed in the Securities Act and                         
+      is, therefore, unenforceable. In the event that a claim for           
+      indemnification against such liabilities (other than the payment by   
+  C.  the Registrant of expenses incurred or paid by a director, officer    
+      or controlling person of the Registrant in the                        
+      successful defense of any action, suit or proceeding) is asserted by  
+      such director, officer or controlling person in connection with the   
+      securities being registered, the Registrant will, unless in the       
+      opinion of its counsel the matter has been                            
+      settled by controlling precedent, submit to a court of appropriate    
+      jurisdiction the question whether such indemnification by it is       
+      against public policy as expressed in the Securities Act and will be  
+      governed by the final adjudication of such issue.                     
+                                                                            
+II-5
+
+SIGNATURES Pursuant to the requirements of the Securities Act of 1933, the
+registrant certifies that it has reasonable grounds to believe that it meets
+all of the requirements for filing on Form S-8and has duly caused this
+Registration Statement to be signed on its behalf by the undersigned,
+thereunto duly authorized, in the City of Palo Alto, State of California, on
+the 15th day of April, 2021.
+                                                      
+       APPLOVIN CORPORATION                           
+  By:                        /s/ Adam Foroughi        
+                             Adam Foroughi            
+                             Chief Executive Officer  
+                                                      
+POWER OF ATTORNEY KNOW ALL PERSONS BY THESE PRESENTS, that each person whose
+signature appears below constitutes and appoints Adam Foroughi, Herald Chen
+and Victoria Valenzuela, and each one of them, as their true and lawful
+attorneys-in-factand agents, with full power of substitution and
+resubstitution, for them and in their name, place, and stead, in any and all
+capacities, to sign any and all amendments (including post-effective
+amendments) to this registration statement on Form S-8,and to file the same,
+with all exhibits thereto and other documents in connection therewith, with
+the Securities and Exchange Commission, granting unto said attorneys-in-
+factand agents, and each of them, full power and authority to do and perform
+each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as they might or
+could do in person, hereby ratifying and confirming all that said attorneys-
+in-factand agents or any of them, or their substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof. Pursuant to the
+requirements of the Securities Act of 1933, this registration statement has
+been signed by the following persons in the capacities and on the dates
+indicated.
+                                                                            
+                             Title                                          
+                             Chief Executive Officer and                    
+                             Chairperson                                    
+  Signature                  (Principal Executive           Date            
+  /s/ Adam Foroughi          Officer)                       April 15, 2021  
+ ────────────────────────────────────────────────────────────────────────── 
+  Adam Foroughi                                                             
+                             Chief Financial Officer,                       
+  /s/ Herald Chen            President, and Director        April 15, 2021  
+  Herald Chen                (Principal Financial                           
+                             Officer)                                       
+                             Chief Accounting Officer                       
+                             (Principal Accounting          April 15, 2021  
+                             Officer)                                       
+  /s/ Elena Arutunian                                                       
+  Elena Arutunian                                                           
+  /s/ Craig Billings         Director                       April 15, 2021  
+  Craig Billings                                                            
+  /s/ Margaret Georgiadis    Director                       April 15, 2021  
+  Margaret Georgiadis                                                       
+  /s/ Edward Oberwager       Director                       April 15, 2021  
+  Edward Oberwager                                                          
+  /s/ Cathy Sun              Director                       April 15, 2021  
+  Cathy Sun                                                                 
+  /s/ Eduardo Vivas          Director                       April 15, 2021  
+  Eduardo Vivas                                                             
+                                                                            

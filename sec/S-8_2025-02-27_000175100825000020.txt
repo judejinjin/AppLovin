@@ -1,0 +1,506 @@
+                                                                   
+  As filed with the                                                
+  Securities and                                                   
+  Exchange                                                         
+  Commission on                                                    
+  February 27, 2025                                                
+  Registration No.                                                 
+  333-                                                             
+ ───────────────────────────────────────────────────────────────── 
+  UNITED STATES                                                    
+  SECURITIES AND                                                   
+  EXCHANGE                                                         
+  COMMISSION                                                       
+  Washington, D.C.                                                 
+  20549                                                            
+  FORM S-8                                                         
+  REGISTRATION                                                     
+  STATEMENT                                                        
+  UNDER                                                            
+  THE SECURITIES ACT                                               
+  OF 1933                                                          
+  APPLOVIN                                                         
+  CORPORATION                                                      
+  (Exact name of                                                   
+  Registrant as                                                    
+  specified                                                        
+  in its charter)                                                  
+                        Delaware               45-3264542          
+                        -State or other                            
+                        jurisdiction of        -I.R.S. Employer    
+                        incorporation or       Identification No.  
+                        organization                               
+  1100 Page Mill                                                   
+  Road                                                             
+  Palo Alto,                                                       
+  California 94304                                                 
+  (Address of                                                      
+  principal                                                        
+  executive offices,                                               
+  including zip                                                    
+  code)                                                            
+  2021 Equity                                                      
+  Incentive Plan                                                   
+  2021 Employee                                                    
+  Stock Purchase                                                   
+  Plan                                                             
+  (Full title of the                                               
+  plan)                                                            
+  Adam Foroughi                                                    
+  Co-Founder, Chief                                                
+  Executive Officer,                                               
+  and Chairperson                                                  
+  Matthew Stumpf                                                   
+  Chief Financial                                                  
+  Officer                                                          
+  AppLovin                                                         
+  Corporation                                                      
+  1100 Page Mill                                                   
+  Road                                                             
+  Palo Alto,                                                       
+  California 94304                                                 
+  (800) 839-9646                                                   
+  (Name, address and                                               
+  telephone number,                                                
+  including area                                                   
+  code, of agent for                                               
+  service)                                                         
+  Copies to:                                                       
+                        Rezwan D. Pavri        Victoria            
+                        Lisa L. Stimmell       Valenzuela          
+                        Colin G. Conklin       Lonnie Yu           
+                        Wilson Sonsini         AppLovin            
+                        Goodrich & Rosati,     Corporation         
+                        P.C.                   1100 Page Mill      
+                        650 Page Mill          Road                
+                        RoadPalo Alto,         Palo Alto,          
+                        California 94304       California 94304    
+                        (650) 493-9300         (800) 839-9646      
+                                                                   
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, a
+smaller reporting company or an emerging growth company. See the
+definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule
+12b-2 of the Exchange Act.
+                                                                  
+  Large accelerated filer    ☒    Accelerated filer            ☐  
+  Non-accelerated filer      ☐    Smaller reporting company    ☐  
+  Emerging growth company    ☐                                    
+                                                                  
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 7(a)(2)(B) of the Securities
+Act. ☐
+╔═ § ═════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║                             PART I                              ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
+                                                                   
+              INFORMATION REQUIRED IN THE PROSPECTUS               
+                                                                   
+The information specified in Item 1 and Item 2 of Part I of Form
+S-8 is omitted from this Registration Statement on Form S-8 (the “
+                                                                   
+  Registration Statement                                           
+                                                                   
+”) in accordance with the provisions of Rule 428 under the
+Securities Act of 1933, as amended (the “
+                                                                   
+  Securities Act                                                   
+                                                                   
+”) and the introductory note to Part I of Form S-8. The documents
+containing the information specified in Part I of Form S-8 will be
+delivered to the participants in the equity benefit plans covered
+by this Registration Statement as specified by Rule 428(b)(1) under
+the Securities Act.
+╔═ § ═════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║                             PART II                             ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
+                                                                   
+          INFORMATION REQUIRED IN REGISTRATION STATEMENT           
+                                                                   
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 3. Incorporation of Documents by Reference.               │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+AppLovin Corporation (the “
+                                                                   
+  Registrant                                                       
+                                                                   
+”) hereby incorporates by reference into this Registration
+Statement the following documents previously filed with the
+Securities and Exchange Commission (the “
+                                                                   
+  Commission                                                       
+                                                                   
+”):
+
+(1) The Registrant’s Annual Report on Form 10-K for the fiscal year
+ended December 31, 2024, filed with the Commission on February 27,
+2025 (the “
+                                                                   
+  Annual Report                                                    
+                                                                   
+”);
+
+(2) All other reports filed pursuant to Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934, as amended (the “
+                                                                   
+  Exchange Act                                                     
+                                                                   
+”), since the end of the fiscal year covered by the Annual Report
+(other than the portions of these documents not deemed to be
+filed); and
+
+(3) The description of the Registrant’s Class A common stock
+contained in the Company’s Registration Statement on Form 8-A (File
+No. 001-40325) filed with the Commission on April 12, 2021,
+pursuant to Section 12(b) of the Exchange Act, including any
+amendment or report filed for the purpose of updating such
+description.
+
+All documents filed by the Registrant pursuant to Sections 13(a),
+13(c), 14 and 15(d) of the Exchange Act on or after the date of
+this Registration Statement and prior to the filing of a post-
+effective amendment to this Registration Statement that indicates
+that all securities offered have been sold or that deregisters all
+securities then remaining unsold shall be deemed to be incorporated
+by reference in this Registration Statement and to be part hereof
+from the date of filing of such documents; provided , however ,
+that documents or information deemed to have been furnished and not
+filed in accordance with the rules of the Commission shall not be
+deemed incorporated by reference into this Registration Statement.
+Any statement contained in a document incorporated or deemed to be
+incorporated by reference herein shall be deemed to be modified or
+superseded for purposes of this Registration Statement to the
+extent that a statement contained herein or in any subsequently
+filed document which also is deemed to be incorporated by reference
+herein modifies or supersedes such statement. Any such statement so
+modified or superseded shall not be deemed, except as so modified
+or superseded, to constitute a part of this Registration Statement.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 4. Description of Securities.                             │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+Not applicable.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 5. Interests of Named Experts and Counsel.                │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+Not applicable.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 6. Indemnification of Directors and Officers.             │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+Section 145 of the Delaware General Corporation Law authorizes a
+corporation’s board of directors to grant, and authorizes a court
+to award, indemnity to officers, directors, and other corporate
+agents.
+
+The Registrant’s amended and restated certificate of incorporation
+contains provisions that limit the liability of its directors for
+monetary damages to the fullest extent permitted by the Delaware
+General Corporation Law. Consequently, the Registrant’s directors
+will not be personally liable to the Registrant or its stockholders
+for monetary damages for any breach of fiduciary duties as
+directors, except liability for the following:
+
+• any breach of their duty of loyalty to the Registrant or its
+stockholders;
+
+• any act or omission not in good faith or that involves
+intentional misconduct or a knowing violation of law;
+
+• unlawful payments of dividends or unlawful stock repurchases or
+redemptions as provided in Section 174 of the Delaware General
+Corporation Law; or
+
+• any transaction from which they derived an improper personal
+benefit.
+
+Any amendment to, or repeal of, these provisions will not eliminate
+or reduce the effect of these provisions in respect of any act,
+omission, or claim that occurred or arose prior to that amendment
+or repeal. If the Delaware General Corporation Law is amended to
+provide for further limitations on the personal liability of
+directors of corporations, then the personal liability of the
+Registrant’s directors will be further limited to the greatest
+extent permitted by the Delaware General Corporation Law.
+
+In addition, the Registrant’s amended and restated bylaws provide
+that the Registrant will indemnify, to the fullest extent permitted
+by law, any person who is or was a party or is threatened to be
+made a party to any action, suit, or proceeding by reason of the
+fact that they are or were one of the Registrant’s directors or
+officers or is or was serving at the Registrant’s request as a
+director or officer of another corporation, partnership, joint
+venture, trust or other enterprise. The Registrant’s amended and
+restated bylaws provide that the Registrant may indemnify to the
+fullest extent permitted by law any person who is or was a party or
+is threatened to be made a party to any action, suit, or proceeding
+by reason of the fact that he or she is or was one of the
+Registrant’s employees or agents or is or was serving at the
+Registrant’s request as an employee or agent of another
+corporation, partnership, joint venture, trust, or other
+enterprise. The Registrant’s amended and restated bylaws will also
+provide that the Registrant must advance expenses incurred by or on
+behalf of a director or officer in advance of the final disposition
+of any action or proceeding, subject to limited exceptions.
+
+Further, the Registrant has entered into indemnification agreements
+with each of its directors and executive officers that may be
+broader than the specific indemnification provisions contained in
+the Delaware General Corporation Law. These indemnification
+agreements require the Registrant, among other things, to indemnify
+its directors and executive officers against liabilities that may
+arise by reason of their status or service. These indemnification
+agreements also require the Registrant to advance all expenses
+incurred by the directors and executive officers in investigating
+or defending any such action, suit, or proceeding. The Registrant
+believes that these agreements are necessary to attract and retain
+qualified individuals to serve as directors and executive officers.
+
+The limitation of liability and indemnification provisions in the
+Registrant’s amended and restated certificate of incorporation,
+amended and restated bylaws and the indemnification agreements that
+the Registrant has entered into with its directors and executive
+officers may discourage stockholders from bringing a lawsuit
+against the Registrant’s directors and executive officers for
+breach of their fiduciary duties. They may also reduce the
+likelihood of derivative litigation against the Registrant’s
+directors and executive officers, even though an action, if
+successful, might benefit the Registrant and other stockholders.
+Further, a stockholder’s investment may be adversely affected to
+the extent that the Registrant pays the costs of settlement and
+damage awards against directors and executive officers as required
+by these indemnification provisions.
+
+The Registrant has obtained insurance policies under which, subject
+to the limitations of the policies, coverage is provided to the
+Registrant’s directors and executive officers against loss arising
+from claims made by reason of breach of fiduciary duty or other
+wrongful acts as a director or executive officer, including claims
+relating to public securities matters, and to the Registrant with
+respect to payments that may be made by the Registrant to these
+directors and executive officers pursuant to its indemnification
+obligations or otherwise as a matter of law.
+
+Certain of the Registrant’s non-employee directors may, through
+their relationships with their employers, be insured or indemnified
+against certain liabilities incurred in their capacity as members
+of the Registrant’s Board of Directors.
+
+Insofar as indemnification for liabilities arising under the
+Securities Act may be permitted to directors, officers or persons
+controlling the Registrant pursuant to the foregoing provisions,
+the Registrant has been informed that, in the opinion of the
+Commission, such indemnification is against public policy as
+expressed in the Securities Act and is therefore unenforceable.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 7. Exemption from Registration Claimed.                   │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+Not applicable.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 8. Exhibits.                                              │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+                                                                   
+  Exhibit Number    Description                                    
+  4.1(1)            Form of Class A common stock certificate.      
+  5.1               Opinion of Wilson Sonsini Goodrich & Rosati,   
+                    P.C.                                           
+  23.1              Consent of Deloitte & Touche LLP, Independent  
+                    Registered Public Accounting Firm.             
+                    Consent of Wilson Sonsini Goodrich & Rosati,   
+  23.2              Professional Corporation (included in Exhibit  
+                    5.1).                                          
+  24.1              Power of Attorney (contained on signature      
+                    page hereto).                                  
+  99.1(2)           AppLovin Corporation 2021 Equity Incentive     
+                    Plan and related form agreements.              
+  99.2(3)           AppLovin Corporation 2021 Employee Stock       
+                    Purchase Plan and related form agreements.     
+  107.1             Filing Fee Table.                              
+                                                                   
+(1) Incorporated by reference to Exhibit 4.1 filed with the
+Registrant’s Registration Statement on Form S-1/A (Registration No.
+333-253800), filed with the Commission on March 22, 2021.
+
+(2) Incorporated by reference to Exhibit 10.3 filed with the
+Registrant’s Registration Statement on Form S-1/A (Registration No.
+333-253800), filed with the Commission on March 22, 2021.
+(3) Incorporated by reference to Exhibit 10.1 filed with the
+Registrant’s Quarterly Report on Form 10-Q (Commission File No.
+001-40325), filed with the Commission on August 7, 2024.
+╭─ • ─────────────────────────────────────────────────────────────╮
+│                                                                 │
+│  Item 9. Undertakings.                                          │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+A. The undersigned Registrant hereby undertakes:
+
+(1) To file, during any period in which offers or sales are being
+made, a post-effective amendment to this Registration Statement:
+
+(i) To include any prospectus required by Section 10(a)(3) of the
+Securities Act;
+
+(ii) To reflect in the prospectus any facts or events arising after
+the effective date of the Registration Statement (or the most
+recent post-effective amendment thereof) which, individually or in
+the aggregate, represent a fundamental change in the information
+set forth in the Registration Statement. Notwithstanding the
+foregoing, any increase or decrease in volume of securities offered
+(if the total dollar value of securities offered would not exceed
+that which was registered) and any deviation from the low or high
+end of the estimated maximum offering range may be reflected in the
+form of prospectus filed with the Commission pursuant to Rule
+424(b) if, in the aggregate, the changes in volume and price
+represent no more than a 20 percent change in the maximum aggregate
+offering price set forth in the “Calculation of Registration Fee”
+table in the effective Registration Statement; and
+
+(iii) To include any material information with respect to the plan
+of distribution not previously disclosed in the Registration
+Statement or any material change to such information in the
+Registration Statement.
+
+Provided, however , that paragraphs (A)(1)(i) and (A)(1)(ii) do not
+apply if the information required to be included in a post-
+effective amendment by those paragraphs is contained in reports
+filed with or furnished to the Commission by the Registrant
+pursuant to Section 13 or Section 15(d) of the Exchange Act that
+are incorporated by reference in this Registration Statement.
+
+(2) For the purpose of determining any liability under the
+Securities Act, each such post-effective amendment shall be deemed
+to be a new registration statement relating to the securities
+offered therein, and the offering of such securities at that time
+shall be deemed to be the initial bona fide offering thereof.
+
+(3) It will remove from registration by means of a post-effective
+amendment any of the securities being registered which remain
+unsold at the termination of the offering.
+
+B. The undersigned Registrant hereby undertakes that, for purposes
+of determining any liability under the Securities Act, each filing
+of the Registrant’s annual report pursuant to Section 13(a) or
+Section 15(d) of the Exchange Act (and, where applicable, each
+filing of an employee benefit plan’s annual report pursuant to
+Section 15(d) of the Exchange Act) that is incorporated by
+reference in the Registration Statement shall be deemed to be a new
+registration statement relating to the securities offered therein,
+and the offering of such securities at that time shall be deemed to
+be the initial bona fide offering thereof.
+
+C. Insofar as indemnification for liabilities arising under the
+Securities Act may be permitted to directors, officers and
+controlling persons of the Registrant pursuant to the foregoing
+provisions, or otherwise, the Registrant has been advised that in
+the opinion of the Commission such indemnification is against
+public policy as expressed in the Securities Act and is, therefore,
+unenforceable. In the event that a claim for indemnification
+against such liabilities (other than the payment by the Registrant
+of expenses incurred or paid by a director, officer or controlling
+person of the Registrant in the successful defense of any action,
+suit or proceeding) is asserted by such director, officer or
+controlling person in connection with the securities being
+registered, the Registrant will, unless in the opinion of its
+counsel the matter has been settled by controlling precedent,
+submit to a court of appropriate jurisdiction the question whether
+such indemnification by it is against public policy as expressed in
+the Securities Act and will be governed by the final adjudication
+of such issue.
+                                                                   
+                            SIGNATURES                             
+                                                                   
+Pursuant to the requirements of the Securities Act of 1933, as
+amended, the registrant certifies that it has reasonable grounds to
+believe that it meets all of the requirements for filing on Form
+S-8 and has duly caused this Registration Statement to be signed on
+its behalf by the undersigned, thereunto duly authorized in the
+City of Palo Alto, California, on February 27, 2025.
+                                                   
+  APPLOVIN CORPORATION                             
+  By:                     /s/ Adam Foroughi        
+                          Adam Foroughi            
+                          Chief Executive Officer  
+                                                   
+                                                                   
+                         POWER OF ATTORNEY                         
+                                                                   
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose
+signature appears below constitutes and appoints Adam Foroughi,
+Matthew Stumpf, and Victoria Valenzuela, and each of them, as such
+individual’s true and lawful attorney in fact and agent with full
+power of substitution, for such individual in any and all
+capacities, to sign any and all amendments to this Registration
+Statement on Form S-8 (including post-effective amendments), and to
+file the same, with all exhibits thereto and other documents in
+connection therewith, with the Securities and Exchange Commission,
+granting unto said attorney in fact, proxy and agent full power and
+authority to do and perform each and every act and thing requisite
+and necessary to be done in connection therewith, as fully for all
+intents and purposes as he or she might or could do in person,
+hereby ratifying and confirming all that said attorney in fact,
+proxy and agent, or the individual’s substitute, may lawfully do or
+cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Act of 1933, as
+amended, this Registration Statement on Form S-8 has been signed by
+the following persons in the capacities and on the dates indicated:
+                                                                   
+                        Title                                      
+                        Chief Executive                            
+                        Officer and                                
+                        Chairperson                                
+  Signature             (Principal Executive    Date               
+  /s/ Adam Foroughi     Officer)                February 27, 2025  
+ ───────────────────────────────────────────────────────────────── 
+  Adam Foroughi                                                    
+                        Chief Financial                            
+  /s/ Matthew Stumpf    Officer,                February 27, 2025  
+                        (Principal Financial                       
+                        Officer)                                   
+  Matthew Stumpf                                                   
+                        Vice President,                            
+  /s/ Dmitriy Dorosh    Controller              February 27, 2025  
+                        (Principal                                 
+                        Accounting Officer)                        
+  Dmitriy Dorosh                                                   
+  /s/ Craig Billings    Director                February 27, 2025  
+  Craig Billings                                                   
+  /s/ Herald Chen       Director                February 27, 2025  
+  Herald Chen                                                      
+  /s/ Margaret          Director                February 27, 2025  
+  Georgiadis                                                       
+  Margaret                                                         
+  Georgiadis                                                       
+  /s/ Alyssa Harvey     Director                February 27, 2025  
+  Dawson                                                           
+  Alyssa Harvey                                                    
+  Dawson                                                           
+  /s/ Barbara           Director                February 27, 2025  
+  Messing                                                          
+  Barbara Messing                                                  
+  /s/ Todd              Director                February 27, 2025  
+  Morgenfeld                                                       
+  Todd Moregenfeld                                                 
+  /s/ Edward            Director                February 27, 2025  
+  Oberwager                                                        
+  Edward Oberwager                                                 
+  /s/ Eduardo Vivas     Director                February 27, 2025  
+  Eduardo Vivas                                                    
+                                                                   

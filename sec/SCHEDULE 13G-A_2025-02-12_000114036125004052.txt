@@ -1,0 +1,530 @@
+                                                           
+  SECURITIES AND EXCHANGE COMMISSION                       
+  Washington, D.C. 20549                                   
+  SCHEDULE 13G                                             
+  UNDER THE SECURITIES EXCHANGE ACT OF 1934                
+  (Amendment No.4)                                         
+  AppLovin Corp                                            
+  (Name of Issuer)                                         
+  Class A Common Stock, par value $0.00003 per share       
+  (Title of Class of Securities)                           
+  03831W108                                                
+  (CUSIP Number)                                           
+  12/31/2024                                               
+  (Date of Event Which Requires Filing of this Statement)  
+                                                           
+                                                   
+  Check the appropriate box to designate the rule  
+  pursuant to which this Schedule is filed:        
+  Rule 13d-1(b)                                    
+  Rule 13d-1(c)                                    
+  Rule 13d-1(d)                                    
+                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                      KKR Denali Holdings L.P.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           PN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                    KKR Denali Holdings GP LLC  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           OO  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                    KKR Americas Fund XII L.P.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                CAYMAN ISLANDS  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           PN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                   KKR Associates Americas XII  
+                                                             L.P.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                CAYMAN ISLANDS  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           PN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                          KKR Americas XII Ltd  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                CAYMAN ISLANDS  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           OO  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                    KKR Group Partnership L.P.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                CAYMAN ISLANDS  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           PN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                      KKR Group Holdings Corp.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           CO  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                            KKR Group Co. Inc.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           CO  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                                KKR & Co. Inc.  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           CO  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                            KKR Management LLP  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                      DELAWARE  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           PN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                               Henry R. Kravis  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                 UNITED STATES  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           IN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                        
+  CUSIP No.  03831W108  
+                        
+                                                                   
+  1                                             George R. Roberts  
+  2                                                         -a)(b  
+  3                                                  Sec Use Only  
+  4                                                 UNITED STATES  
+  Number of Shares Beneficially                           5  0.00  
+  Owned by                                                6  0.00  
+  Each Reporting Person With:                             7  0.00  
+                                                          8  0.00  
+  9                                                          0.00  
+                                       Check box if the aggregate  
+  10                                   amount in row (9) excludes  
+                                              certain shares (See  
+                                                    Instructions)  
+  11                                                          0 %  
+  12                                                           IN  
+                                                                   
+                
+  SCHEDULE 13G  
+                
+                                                                   
+  Item 1.                                                          
+  (a)      AppLovin Corp                                           
+  (b)      1100 Page Mill Road, Palo Alto, California, 94304       
+  Item 2.                                                          
+           This is Amendment No. 4 to the Schedule 13G previously  
+           filed with the Securities and Exchange Commission on    
+           February 10, 2022, as amended on February 13, 2023,     
+           February 12, 2024 and November 13, 2024. Pursuant to    
+           Rule 13d-1(d) under the Securities Exchange Act of      
+           1934, as amended (the "Act"), each of the persons       
+           listed below under Item 2(a) (each a "Reporting         
+           Person," and collectively the "Reporting Persons"),     
+           have agreed to file one statement with respect to       
+           their beneficial ownership of Class A Common Stock,     
+           par value $0.00003 per share, of AppLovin Corporation   
+  (a)      (the "Issuer").                                         
+           (i) KKR Denali Holdings L.P.                            
+           (ii) KKR Denali Holdings GP LLC                         
+           (iii) KKR Americas Fund XII L.P.                        
+           (iv) KKR Associates Americas XII L.P.                   
+           (v) KKR Americas XII Limited                            
+           (vi) KKR Group Partnership L.P.                         
+           (vii) KKR Group Holdings Corp.                          
+           (viii) KKR Group Co. Inc.                               
+           (ix) KKR & Co. Inc.                                     
+           (x)  KKR Management LLP                                 
+           (xi) Henry R. Kravis                                    
+           (xii) George R. Roberts                                 
+           The principal business office for all persons filing    
+           (other than Mr. Kravis                                  
+           and Mr. Roberts) is:                                    
+           30 Hudson Yards                                         
+           New York, NY 10001                                      
+           The principal business office for Mr. Kravis is:        
+  (b)      c/o Kohlberg Kravis Roberts & Co. L.P.                  
+           30 Hudson Yards                                         
+           New York, New York 10001                                
+           The principal business office for Mr. Roberts is:       
+           c/o Kohlberg Kravis Roberts & Co. L.P.                  
+           2800 Sand Hill Road, Suite 200                          
+           Menlo Park, CA 94025                                    
+  (c)      See Item 4 of each cover page.                          
+  (d)      Class A Common Stock, par value $0.00003 per share      
+  (e)      03831W108                                               
+           If this statement is filed pursuant to §§ 240.13d-1(b)  
+  Item 3.  or 240.13d-2(b) or (c), check whether the person        
+           filing is a:                                            
+  (a)      Broker or dealer registered under section 15 of the     
+           Act (15 U.S.C. 78o);                                    
+  (b)      Bank as defined in section 3(a)(6) of the Act (15       
+           U.S.C. 78c);                                            
+  (c)      Insurance company as defined in section 3(a)(19) of     
+           the Act (15 U.S.C. 78c);                                
+  (d)      Investment company registered under section 8 of the    
+           Investment Company Act of 1940 (15 U.S.C. 80a-8);       
+  (e)      An investment adviser in accordance with §              
+           240.13d-1(b)(1)(ii)(E);                                 
+  (f)      An employee benefit plan or endowment fund in           
+           accordance with § 240.13d-1(b)(1)(ii)(F);               
+  (g)      A parent holding company or control person in           
+           accordance with § 240.13d-1(b)(1)(ii)(G);               
+  (h)      A savings associations as defined in Section 3(b) of    
+           the Federal Deposit Insurance Act (12 U.S.C. 1813);     
+           A church plan that is excluded from the definition of   
+  (i)      an investment company under section 3(c)(14) of the     
+           Investment Company Act of 1940 (15 U.S.C. 80a-3);       
+           A non-U.S. institution in accordance with §             
+           240.13d-1(b)(1)(ii)(J). If filing as a non-U.S.         
+  (j)      institution in accordance with §                        
+           240.13d-1(b)(1)(ii)(J),                                 
+           please specify the type of institution:                 
+  (k)      Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K).  
+  Item 4.  Ownership                                               
+           As of December 31, 2024, the Reporting Persons no       
+  (a)      longer beneficially own any shares of Class A Common    
+           Stock.                                                  
+  (b)      0  %                                                    
+  (c)      Number of shares as to which the person has:            
+           Reporting Persons no longer beneficially own any        
+           shares of Class A Common Stock.                         
+           Reporting Persons no longer beneficially own any        
+           shares of Class A Common Stock.                         
+           Reporting Persons no longer beneficially own any        
+           shares of Class A Common Stock.                         
+           Reporting Persons no longer beneficially own any        
+           shares of Class A Common Stock.                         
+  Item 5.  Ownership of 5 Percent or Less of a Class.              
+           Ownership of 5 percent or less of a class               
+  Item 6.  Ownership of more than 5 Percent on Behalf of Another   
+           Person.                                                 
+           Not Applicable                                          
+           Identification and Classification of the Subsidiary     
+  Item 7.  Which Acquired the Security Being Reported on by the    
+           Parent Holding Company or Control Person.               
+           Not Applicable                                          
+  Item 8.  Identification and Classification of Members of the     
+           Group.                                                  
+           Not Applicable                                          
+  Item 9.  Notice of Dissolution of Group.                         
+           Not Applicable                                          
+                                                                   
+                             
+  Item 10.  Certifications:  
+            Not Applicable   
+                             
+                                                                   
+  SIGNATURE                                                        
+             After reasonable inquiry and to the best of my        
+             knowledge and belief, I certify that the information  
+             set forth in this statement is true, complete and     
+             correct.                                              
+                                                                   
+                            
+  KKR Denali Holdings L.P.  
+                            
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary of KKR       
+  Denali                                                           
+                 Holdings GP LLC, See Exhibit 99.1                 
+    Date:        02/12/2025                                        
+                                                                   
+                              
+  KKR Denali Holdings GP LLC  
+                              
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary, See         
+  Exhibit                                                          
+                 99.1                                              
+    Date:        02/12/2025                                        
+                                                                   
+                              
+  KKR Americas Fund XII L.P.  
+                              
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary of KKR       
+                 Americas XII Limited, See Exhibit 99.1            
+    Date:        02/12/2025                                        
+                                                                   
+                                    
+  KKR Associates Americas XII L.P.  
+                                    
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary of KKR       
+                 Americas XII Limited, See Exhibit 99.1            
+    Date:        02/12/2025                                        
+                                                                   
+                        
+  KKR Americas XII Ltd  
+                        
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary, See         
+  Exhibit                                                          
+                 99.1                                              
+    Date:        02/12/2025                                        
+                                                                   
+                              
+  KKR Group Partnership L.P.  
+                              
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Secretary of KKR Group Holdings  
+                 Corp., See Exhibit 99.1                           
+    Date:        02/12/2025                                        
+                                                                   
+                            
+  KKR Group Holdings Corp.  
+                            
+                                                                 
+  Signature:   /s/ Christopher Lee                               
+    Name/Title:  Christopher Lee, Secretary, See Exhibit 99.1    
+    Date:        02/12/2025                                      
+                                                                 
+                      
+  KKR Group Co. Inc.  
+                      
+                                                                 
+  Signature:   /s/ Christopher Lee                               
+    Name/Title:  Christopher Lee, Secretary, See Exhibit 99.1    
+    Date:        02/12/2025                                      
+                                                                 
+                  
+  KKR & Co. Inc.  
+                  
+                                                                 
+  Signature:   /s/ Christopher Lee                               
+    Name/Title:  Christopher Lee, Secretary, See Exhibit 99.1    
+    Date:        02/12/2025                                      
+                                                                 
+                      
+  KKR Management LLP  
+                      
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Assistant Secretary, See         
+  Exhibit                                                          
+                 99.1                                              
+    Date:        02/12/2025                                        
+                                                                   
+                   
+  Henry R. Kravis  
+                   
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Attorney-in-fact, See Exhibit    
+                 99.1                                              
+    Date:        02/12/2025                                        
+                                                                   
+                     
+  George R. Roberts  
+                     
+                                                                   
+  Signature:   /s/ Christopher Lee                                 
+    Name/Title:  Christopher Lee, Attorney-in-fact, See Exhibit    
+                 99.1                                              
+    Date:        02/12/2025                                        
+                                                                   
+                                 
+  Exhibit Information            
+  Exhibit                        
+  Number   Title                 
+  99.1          Signature Pages  
+                                 

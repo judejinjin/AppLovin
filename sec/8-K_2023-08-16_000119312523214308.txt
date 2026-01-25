@@ -1,0 +1,89 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported):      
+August 14, 2023 AppLovin Corporation (Exact name of registrant as specified 
+in its charter)                                                             
+                                                                            
+  Delaware                 001-40325                45-3264542              
+  (State or other          -Commission File         -IRS Employer           
+  jurisdiction of          Number                   Identification No.      
+  incorporation)                                                            
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-Kfiling is intended to simultaneously satisfy the filing         
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class             Trading    Name of each exchange on       
+                                  Symbol     which registered               
+  Class A common stock, par                                                 
+  value of                        APP        The Nasdaq Stock Market LLC    
+  $0.00003 per share                                                        
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2of the Securities Exchange Act of 1934 (17 CFR                    
+§240.12b-2).Emerging growth company ☐ If an emerging growth company,        
+indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐         
+                            
+  Item 8.01  Other Events.  
+                            
+On August 16, 2023, AppLovin Corporation (the “Company”) filed a prospectus 
+supplement, dated August 14, 2023, to the Company’s shelf registration      
+statement on Form S-3(File No. 333-272328)(the “Prospectus Supplement”). The
+Prospectus Supplement covered 10,000,000 shares of the Company’s Class A    
+common stock, par value $0.00003 per share to be sold by KKR Denali Holdings
+L.P. (“KKR Denali”). The Company is filing this report to provide the legal 
+opinion as to the validity of the securities covered by the Prospectus      
+Supplement, which opinion is attached hereto as Exhibit 5.1 and is          
+incorporated herein by reference. On August 14, 2023, the Company issued a  
+press release announcing KKR Denali has entered into a purchase agreement   
+pursuant to which it agreed to sell 10,000,000 shares of the Company’s Class
+A common stock in a direct placement to client accounts managed by GQG      
+Partners LLC, a global equity investment boutique. A copy of the press      
+release is attached hereto as Exhibit 99.1 and incorporated herein by       
+reference.                                                                  
+                                                 
+  Item 9.01  Financial Statements and Exhibits.  
+                                                 
+(d) Exhibits:                                                               
+                                                                            
+  Exhibit No.    Exhibit Description                                        
+  5.1            Opinion of Wilson Sonsini Goodrich & Rosati, P.C.          
+  23.1           Consent of Wilson Sonsini Goodrich & Rosati, P.C.          
+                 (included in Exhibit 5.1).                                 
+  99.1           Press Release, dated August 14, 2023.                      
+  104            Cover Page Interactive Data File (embedded within the      
+                 Inline XBRL document).                                     
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                    
+                           APPLOVIN CORPORATION     
+  Date: August 16, 2023    /s/ Herald Chen          
+ ────────────────────────────────────────────────── 
+                           Herald Chen              
+                           Chief Financial Officer  
+                                                    

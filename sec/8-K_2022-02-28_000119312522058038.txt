@@ -1,0 +1,133 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of The Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported):      
+February 23, 2022 AppLovin Corporation (Exact name of registrant as         
+specified in its charter)                                                   
+                                                                     
+  Delaware                        001-40325      45-3264542          
+  (State or other jurisdiction    -Commission    -IRS Employer       
+  of incorporation)               File Number    Identification No.  
+                                                                     
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-K filing is intended to simultaneously satisfy the filing        
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class             Trading      Name of each exchange        
+                                  Symbol(s)    on which registered          
+  Class A common stock, par                                                 
+  value $0.00003                  APP          The Nasdaq Stock Market LLC  
+  per share                                                                 
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).      
+Emerging growth company ☐ If an emerging growth company, indicate by check  
+mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards        
+provided pursuant to Section 13(a) of the Exchange Act. ☐                   
+                                                                            
+Item 3.02 Unregistered Sales of Equity Securities                           
+In connection with an agreement and plan of reorganization entered into on
+February 23, 2022, AppLovin Corporation (the “Company”) agreed to issue an
+aggregate of approximately 2.7 million shares of its Class A common stock to
+certain security holders of Wurl, Inc. (“Wurl”) as a portion of the
+consideration for all of the outstanding equity of Wurl. The Company
+estimated the aggregate number of shares based on the average of the daily
+volume weighted average price per share of the Company’s Class A common
+stock on the Nasdaq Stock Market for the thirty (30) consecutive trading
+days ending on February 16, 2022. The final number of shares of the
+Company’s Class A common stock to be issued in connection with the
+acquisition is subject to adjustment based on purchase price adjustment
+provisions in the agreement and plan of reorganization.
+
+The proposed issuance of shares of the Company’s Class A common stock to
+certain security holders of Wurl in accordance with the terms and subject to
+the conditions set forth in the acquisition agreement will be made in
+reliance on the private offering exemption of Section 4(a)(2) of the
+Securities Act and/or the private offering safe harbor provisions of Rule
+506 of Regulation D based on the following factors: (i) the number of
+offerees or purchasers, as applicable, (ii) the absence of general
+solicitation, (iii) investment representations obtained from the security
+holders of Wurl, including with respect to their status as accredited
+investors, (iv) the provision of appropriate disclosure, and (v) the
+placement of restrictive legends on the certificates reflecting the
+securities. The proposed issuance of shares will not involve any
+underwriters, any underwriting discounts or commissions, or any public
+offering.
+Item 8.01 Other Events                                                      
+                                                                            
+Share Repurchase Program                                                    
+On February 28, 2022, the Company announced that its board of directors has
+authorized the repurchase of up to $750 million of the Company’s Class A
+common stock. Repurchases may be made from time to time through open market
+purchases or through privately negotiated transactions subject to market
+conditions, applicable legal requirements and other relevant factors. Open
+market repurchases may be structured to occur in accordance with the
+requirements of Rule 10b-18. The Company may also, from time to time, enter
+into Rule 10b5-1 plans to facilitate repurchases of its shares under this
+authorization. The repurchase program does not obligate the Company to
+acquire any particular amount of its Class A common stock, and may be
+suspended at any time at the Company’s discretion.
+2022 Annual Meeting of Stockholders                                         
+The Board has scheduled the Company’s Annual Meeting of Stockholders (the
+“Annual Meeting”) for June 8, 2022. Because the Company did not hold an
+annual meeting of stockholders in 2021, the Company has set a deadline of
+March 10, 2022 for the receipt of any stockholder proposals for inclusion in
+the proxy materials to be distributed in connection with the Annual Meeting
+pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), which the Company believes to be a reasonable time
+before it expects to begin to print and distribute its proxy materials for
+the Annual Meeting. Any Exchange Act Rule 14a-8 proposal received after this
+date will be considered untimely. Stockholders should send any such proposal
+to AppLovin Corporation, Attn: Corporate Secretary, 1100 Page Mill Road,
+Palo Alto, California 94304, and such proposal must comply with all
+applicable requirements set forth in the rules and regulations of the
+Securities and Exchange Commission, including Exchange Act Rule 14a-8, in
+order to be eligible for inclusion in the Company’s proxy materials for the
+Annual Meeting.
+
+Pursuant to the Company’s amended and restated bylaws (the “Bylaws”), any
+stockholder seeking to raise a proposal outside the processes of Exchange
+Act Rule 14a-8 or make a nomination for consideration at the Annual Meeting,
+but not included in the proxy materials for the Annual Meeting, must comply
+with the requirements of the Bylaws, including by delivering notice of their
+proposal or nomination to AppLovin Corporation, Attn: Corporate Secretary,
+1100 Page Mill Road, Palo Alto, California 94304, no later than 5:00 p.m.,
+Pacific time, on March 10, 2022. Any proposal or nomination received after
+such date will be considered untimely and will not be considered at the
+Annual Meeting.
+
+An adjournment, rescheduling or postponement of the Annual Meeting date, or
+any announcement of such action, will not commence a new time period (or
+extend any time period) for giving such notice under the Bylaws or
+submitting a proposal pursuant to Exchange Act Rule 14a-8.
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                      
+                             APPLOVIN CORPORATION     
+  Date: February 28, 2022    /s/ Herald Chen          
+ ──────────────────────────────────────────────────── 
+                             Herald Chen              
+                             Chief Financial Officer  
+                                                      

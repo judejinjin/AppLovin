@@ -1,0 +1,274 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C.  
+20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of   
+The Securities Exchange Act of 1934 Date of Report (Date of        
+earliest event reported): December 5, 2024 AppLovin Corporation    
+(Exact name of registrant as specified in its charter)             
+                                                                   
+  Delaware              001-40325              45-3264542          
+  (State or other       -Commission File       -IRS Employer       
+  jurisdiction of       Number                 Identification No.  
+  incorporation)                                                   
+                                                                   
+1100 Page Mill Road Palo Alto, California 94304 (Address of        
+principal executive offices, including zip code) (800) 839-9646    
+(Registrant’s telephone number, including area code) Not Applicable
+(Former name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-Kfiling is intended to     
+simultaneously satisfy the filing obligation of the registrant     
+under any of the following provisions:                             
+                                                                   
+  ☐  Written communications pursuant to Rule 425 under the         
+     Securities Act (17 CFR 230.425)                               
+                                                                   
+                                                                   
+  ☐  Soliciting material pursuant to Rule 14a-12 under the         
+     Exchange Act (17 CFR 240.14a-12)                              
+                                                                   
+                                                                   
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b)     
+     under the Exchange Act (17 CFR 240.14d-2(b))                  
+                                                                   
+                                                                   
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c)     
+     under the Exchange Act (17 CFR 240.13e-4(c))                  
+                                                                   
+Securities registered pursuant to Section 12(b) of the Act:        
+                                                                   
+  Title of each                              Name of each          
+  class                 Trading Symbol(s)    exchange on which     
+                                             registered            
+  Class A common                                                   
+  stock, par value      APP                  The Nasdaq Stock      
+  $0.00003                                   Market LLC            
+  per share                                                        
+                                                                   
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17   
+CFR §230.405) or Rule 12b-2of the Securities Exchange Act of 1934  
+(17 CFR §240.12b-2).Emerging growth company ☐ If an emerging growth
+company, indicate by check mark if the registrant has elected not  
+to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐                                       
+                                                                   
+Item 1.01 Entry into a Material Definitive Agreement.              
+                                                                   
+Indenture and the Notes                                            
+                                                                   
+On December 5, 2024, AppLovin Corporation (the “Company”),         
+completed a public offering of $1,000 million aggregate principal  
+amount of 5.125% Senior Notes due 2029 (the “2029 Notes”), $1,000  
+million aggregate principal amount of 5.375% Senior Notes due 2031 
+(the “2031 Notes”), $1,000 million aggregate principal amount of   
+5.500% Senior Notes due 2034 (the “2034 Notes”) and $550 million   
+aggregate principal amount of 5.950% Senior Notes due 2054 (the    
+“2054 Notes” and, collectively with the 2029 Notes, the 2031 Notes 
+and the 2034 Notes, the “Notes”). The Notes were offered and sold  
+pursuant to the Company’s automatically effective shelf            
+registration statement on Form S-3 (No. 333-272328) (the           
+“Registration Statement”) filed with the Securities and Exchange   
+Commission (the “SEC”) under the Securities Act of 1933, as amended
+(the “Securities Act”), on June 1, 2023. The net proceeds from the 
+sale of the Notes were approximately $3,519 million after deducting
+the underwriters’ discount but before other expenses and will be   
+used to repay in full its senior secured term loan facility due    
+2028 and its senior secured term loan facility due 2030.           
+                                                                   
+The Notes are governed by the Indenture, dated as of December 5,   
+2024 (the “Base Indenture”), between the Company and Wilmington    
+Trust, National Association, as trustee (the “Trustee”), as        
+supplemented by the First Supplemental Indenture, dated as of      
+December 5, 2024, between the Company and the Trustee (the “First  
+Supplemental Indenture” and, together with the Base Indenture, the 
+“Indenture”).                                                      
+                                                                   
+The Notes will accrue interest from December 5, 2024 and will be   
+payable semi-annually in arrears on June 1 and December 1 of each  
+year, beginning on June 1, 2025. The 2029 Notes will accrue        
+interest at a rate of 5.125% per annum and will mature on December 
+1, 2029. The 2031 Notes will accrue interest at a rate of 5.375%   
+per annum and will mature on December 1, 2031. The 2034 Notes will 
+accrue interest at a rate of 5.500% per annum and will mature on   
+December 1, 2034. The 2054 Notes will accrue interest at a rate of 
+5.950% per annum and will mature on December 1, 2054.              
+                                                                   
+Prior to (i) November 1, 2029 for the 2029 Notes (one month prior  
+to the maturity date for the 2029 Notes), (ii) October 1, 2031 for 
+the 2031 Notes (two months prior to the maturity date for the 2031 
+Notes), (iii) September 1, 2034 for the 2034 Notes (three months   
+prior to the maturity date for the 2034 Notes) and (iv) June 1,    
+2054 for the 2054 Notes (six months prior to the maturity date for 
+the 2054 Notes) (each such date, a “par call date”), the Company   
+may redeem the applicable series of Notes at the Company’s option, 
+in whole or in part, at any time and from time to time, at a       
+redemption price (expressed as a percentage of principal amount and
+rounded to three decimal places) equal to the greater of: (1) (a)  
+the sum of the present values of the remaining scheduled payments  
+of principal and interest on the Notes to be redeemed discounted to
+the redemption date (assuming that such Notes matured on their     
+applicable par call date), on a semi-annual basis (assuming a      
+360-day year composed of twelve 30-day months) at a rate equal to  
+the Treasury Rate (as defined in the First Supplemental Indenture),
+plus 15 basis points in the case of the 2029 Notes, 20 basis points
+in the case of the 2031 Notes, 20 basis points in the case of the  
+2034 Notes and 25 basis points in the case of the 2054 Notes less  
+(b) interest accrued to the date of redemption; and (2) 100% of the
+principal amount of the Notes to be redeemed; plus, in either case,
+accrued and unpaid interest on the applicable Notes to the         
+redemption date. On or after the applicable par call date for each 
+series of Notes, the Company may redeem the Notes of such series in
+whole or in part, at any time and from time to time, at a          
+redemption price equal to 100% of the principal amount of the Notes
+being redeemed, plus accrued and unpaid interest thereon to the    
+redemption date.                                                   
+                                                                   
+The foregoing description of the Base Indenture, the First         
+Supplemental Indenture and the Notes do not purport to be complete 
+and are qualified in their entirety by reference to the full text  
+of the Base Indenture, the First Supplemental Indenture and the    
+form of global notes representing the 2029 Notes, the 2031 Notes,  
+the 2034 Notes and the 2054 Notes, which are attached hereto as    
+Exhibits 4.1, 4.2, 4.3, 4.4, 4.5 and 4.6, respectively, and are    
+incorporated by reference herein.                                  
+                                                                   
+In connection with the offering of the Notes, the Company is filing
+as Exhibit 5.1 hereto an opinion of counsel addressing the validity
+of the Notes. Such opinion is incorporated by reference into the   
+Registration Statement.                                            
+                                                                   
+Credit Agreement                                                   
+                                                                   
+On December 5, 2024, the Company entered into an unsecured credit  
+agreement, with JPMorgan Chase Bank, N.A., as administrative agent,
+JPMorgan Chase Bank, N.A., BofA Securities, Inc., Citibank, N.A.,  
+Goldman Sachs Bank USA and Morgan Stanley Senior Funding, Inc. as  
+joint lead arrangers and joint bookrunners and with certain other  
+financial institutions, as lenders (the “Unsecured Revolving Credit
+Facility”). The obligations of the Company under the Unsecured     
+Revolving Credit Facility are unsecured and will not be guaranteed 
+by any of our subsidiaries. Aggregate commitments under the        
+Unsecured Revolving Credit Facility total $1,000 million (with a   
+$100 million letter of credit sublimit). The Unsecured Revolving   
+Credit Facility matures on December 5, 2029 (subject to two one-   
+year extensions that may be requested under the terms of the       
+Unsecured Revolving Credit Facility). The Unsecured Revolving      
+Credit Facility also provides for an uncommitted accordion feature 
+that allows the Company to request an increase in commitments under
+the Unsecured Revolving Credit Facility by up to an additional     
+$1,000 million.                                                    
+                                                                   
+The Company may voluntarily repay outstanding loans under the      
+Unsecured Revolving Credit Facility, subject to prior written      
+notice, minimum amount requirements and customary “breakage” costs.
+Amounts prepaid under the Unsecured Revolving Credit Facility may  
+subsequently be reborrowed.                                        
+                                                                   
+Borrowings under the Unsecured Revolving Credit Facility will bear 
+interest, with respect to U.S. Dollar borrowings, based on our     
+election of either (1) a base rate per annum equal to the highest  
+of (i) the prime rate then in effect, (ii) the federal funds rate, 
+plus 0.500% and (iii) the Term SOFR rate for a one-month interest  
+period, plus 1.100%, in each case subject to a 1.000% floor, plus  
+the Applicable Margin or (2) the Term SOFR rate for the applicable 
+interest period plus the Applicable Margin plus 0.100%. The        
+Applicable Margin in connection with base rate borrowings will     
+range, based on the applicable public debt credit rating of the    
+Company, from 0.125% to 1.000%. The Applicable Margin in connection
+with Term SOFR rate borrowings will range, based on the applicable 
+public debt credit rating of the Company, from 1.125% to 2.000%.   
+The fee for unused commitments under the Unsecured Revolving Credit
+Facility will range, based on the applicable public debt credit    
+rating of the Company, from 0.100% to 0.325%.                      
+                                                                   
+The Unsecured Revolving Credit Facility includes usual and         
+customary provisions for unsecured revolving credit agreements of  
+this type, including covenants limiting, with certain exceptions   
+(1) incurrence of indebtedness by our subsidiaries, (2) liens, (3) 
+fundamental changes and (4) sale and leaseback transactions;       
+provided that the foregoing covenants will allow for subsidiary    
+indebtedness, liens and attributable debt in respect of outstanding
+sale and leaseback transactions in an aggregate amount of up to the
+greater of (i) 15% of Consolidated Total Assets and (ii) $1,000    
+million. In addition, the Unsecured Revolving Credit Facility      
+requires that we maintain a ratio of Consolidated Total Debt (net  
+of up to $1,000 million of Unrestricted cash and Permitted         
+Investments) to Consolidated EBITDA (each as defined in the        
+Unsecured Revolving Credit Facility) not to exceed 3.50 to 1.00    
+that shall be tested as of the end of any fiscal quarter for the   
+four fiscal quarter period ending on such date, provided that at   
+the option of the Company in connection with an acquisition in     
+which the aggregate cash consideration therefor (including assumed 
+or refinanced debt and deferred purchase price obligations) exceeds
+$1,500 million, such ratio may be increased to 4.00 to 1.00 for the
+four fiscal quarter periods ending with the fiscal quarter in which
+such acquisition occurs and with the three fiscal quarters         
+thereafter.                                                        
+                                                                   
+The foregoing description of the Unsecured Revolving Credit        
+Facility does not purport to be complete and is qualified in its   
+entirety by reference to the full text of the Unsecured Revolving  
+Credit Facility, which is attached hereto as Exhibit 10.1 and is   
+incorporated by reference herein.                                  
+                                                                   
+Item 1.02. Termination of a Material Definitive Agreement. In      
+connection with the Company’s entry into the Unsecured Revolving   
+Credit Facility and concurrently with the sale of the Notes, on    
+December 5, 2024, the Company terminated all outstanding           
+commitments and repaid all outstanding obligations, as applicable, 
+under the Credit Agreement, dated as of August 15, 2018, by and    
+among the Company, as borrower, the other parties thereto from time
+to time and Bank of America, N.A., as administrative agent and     
+collateral agent (as amended by Amendment No. 1 to the Credit      
+Agreement, dated as of April 23, 2019, Amendment No. 2 to the      
+Credit Agreement, dated as of April 27, 2020, Amendment No. 3 to   
+the Credit Agreement, dated as of May 6, 2020, Amendment No. 4 to  
+the Credit Agreement, dated as of October 27, 2020, Amendment No. 5
+to the Credit Agreement, dated as of February 12, 2021, Amendment  
+No. 6 to the Credit Agreement, dated as of October 25, 2021,       
+Amendment No. 7 to the Credit Agreement, dated as of January 3,    
+2023, Amendment No. 8 to the Credit Agreement, dated as of June 12,
+2023, Amendment No. 9 to the Credit Agreement, dated as of August  
+18, 2023 and Amendment No. 10 to the Credit Agreement, dated as of 
+March 14, 2024) (the “Credit Agreement”). Item 2.03 Creation of a  
+Direct Financial Obligation or an Obligation under an Off-         
+BalanceSheet Arrangement of a Registrant. The information in Item  
+1.01 under the subheading Credit Agreementabove is incorporated by 
+reference into this Item 2.03. Item 9.01 Financial Statements and  
+Exhibits (d) Exhibits:                                             
+                                                                   
+             Exhibit Description                                   
+             Indenture, dated December 5, 2024, by and between     
+             AppLovin Corporation and Wilmington Trust, National   
+  Exhibit    Association, as trustee.                              
+  No.        First Supplemental Indenture, dated as of December    
+  4.1        5, 2024, by and between AppLovin Corporation and      
+  4.2        Wilmington Trust, National Association, as trustee.   
+ ───────────────────────────────────────────────────────────────── 
+  4.3        Form of Global Note for 5.125% Senior Notes due 2029  
+             (included as Exhibit A to 4.2).                       
+  4.4        Form of Global Note for 5.375% Senior Notes due 2031  
+             (included as Exhibit B to 4.2).                       
+  4.5        Form of Global Note for 5.500% Senior Notes due 2034  
+             (included as Exhibit C to 4.2).                       
+  4.6        Form of Global Note for 5.950% Senior Notes due 2054  
+             (included as Exhibit D to 4.2).                       
+  5.1        Opinion of Proskauer Rose LLP.                        
+             Credit Agreement, dated as of December 5, 2024, by    
+  10.1       and between AppLovin Corporation, JPMorgan Chase      
+             Bank, N.A., as administrative agent, and the lenders  
+             party thereto.                                        
+  23.1       Consent of Proskauer Rose LLP (included in Exhibit    
+             5.1).                                                 
+  104        Cover Page Interactive Data File (embedded within     
+             the Inline XBRL document).                            
+                                                                   
+SIGNATURE Pursuant to the requirements of the Securities Exchange  
+Act of 1934, the registrant has duly caused this report to be      
+signed on its behalf by the undersigned hereunto duly authorized.  
+                                                     
+                            APPLOVIN CORPORATION     
+  Date: December 5, 2024    /s/ Matthew A. Stumpf    
+ ─────────────────────────────────────────────────── 
+                            Matthew A. Stumpf        
+                            Chief Financial Officer  
+                                                     

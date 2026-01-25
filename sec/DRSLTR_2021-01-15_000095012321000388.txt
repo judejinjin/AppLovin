@@ -1,0 +1,483 @@
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83
+                                    
+  Wilson Sonsini Goodrich & Rosati  
+  Professional Corporation          
+  650 Page Mill Road                
+  Palo Alto, California 94304-1050  
+  O: 650.493.9300                   
+  F: 650.493.6811                   
+                                    
+January 15, 2021 Via EDGAR and Overnight Delivery U.S. Securities and
+Exchange Commission Division of Corporation Finance Office of Technology 100
+F Street, N.E. Washington, D.C. 20549 Attention: Larry Spirgel Alexandra
+Barone Robert Littlepage Claire DeLabar
+                             
+  Re:  Applovin Corporation  
+                             
+Draft Registration Statement on Form S-1 Submitted December 7, 2020 CIK No.
+0001751008 Ladies and Gentlemen: On behalf of our client, Applovin
+Corporation (“ AppLovin” or the “ Company”), we submit this letter in
+response to comments from the staff (the “ Staff”) of the Securities and
+Exchange Commission (the “ Commission”) contained in its letter dated
+December 31, 2020, relating to the above referenced Draft Registration
+Statement on Form S-1(the “ Registration Statement”). We are concurrently
+submitting via EDGAR this letter and a revised draft of the Registration
+Statement for non-public review by the Staff. For the Staff’s reference, we
+are providing to the Staff by overnight delivery copies of this letter as
+well as both a clean copy of the Registration Statement and a copy marked to
+show all changes from the version confidentially submitted on December 7,
+2020. The Company has advised us that the registration statement will be
+publicly filed and all nonpublic draft submissions will be publicly
+available on the EDGAR system (i) at least 15 days prior to the Company
+conducting its road show or (ii) in the event the Company does not conduct a
+roadshow, at least 15 days prior to the requested effective date. Pursuant
+to 17 C.F.R. § 200.83 of the Commission’s Rules on Information and Requests,
+the Company is also requesting that confidential treatment be afforded to
+this letter and the revised draft of the Registration Statement being
+submitted. As instructed by the Commission, each page of the Draft
+Registration Statement has been marked with the following legend:
+“Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. Section 200.83.” In this letter, we have recited the comments from
+the Staff in italicized, bold type and have followed each comment with the
+Company’s response. Except for page references appearing in the headings and
+Staff comments below (which are references to the original Registration
+Statement submitted on December 7, 2020) and as specifically noted, all page
+references herein correspond to the page of the revised draft of the
+Registration Statement. AUSTIN BEIJING BOSTON BRUSSELS HONG KONG LONDON LOS
+ANGELES NEW YORK PALO ALTO SAN DIEGO SAN FRANCISCO SEATTLE SHANGHAI
+WASHINGTON, DC WILMINGTON, DE
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 2 Prospectus Summary, page 2
+                                                                            
+      Include the basis for your estimate “that a year after joining our    
+  1.  portfolio, acquired Apps have                                         
+      increased their quarterly revenue over 100% on average.”              
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on pages 2, 77, and 95 to address the Staff’s comment. Dilution,
+page 65
+                                                                            
+      Please clarify that there was a net tangible deficit, not book        
+      value, at                                                             
+  2.  December 31, 2019.                                                    
+ ────────────────────────────────────────────────────────────────────────── 
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page 65 to address the Staff’s comment. Management’s
+Discussion and Analysis of Financial Condition and Results of Operations Our
+Business Model Business Revenue, page 72
+                                                                            
+      We note on page 72 that you derive revenue from business clients      
+      that purchase advertising inventory                                   
+  3.  and you are able to grow your Business Revenue by improving your      
+      Software, adding more Apps and increasing engagement on existing      
+      Apps. Please discuss the changes in revenues due to each of these     
+      reasons for the periods presented.                                    
+                                                                            
+The Company respectfully advises the Staff that it has supplemented the
+disclosure on page 81 to add a discussion of the changes in Business Revenue
+from Apps and Software and to discuss the impact of adding more Apps and
+increasing engagement on existing Apps.
+                                                                            
+      We also note that you record Software revenue typically on a          
+      performance-based, cost-per-install basis and MAX revenue as a        
+      percentage of client spend. Please expand the discussion of Business  
+      Revenue to quantify the changes in revenue from period to period      
+  4.  from each of these sources due to                                     
+      changes in price and changes in volume. Please see Financial          
+      Reporting Codification Section 501.04 for guidance. Metrics such as   
+      RPEC can be used to support your analysis but should not replace a    
+      discussion of price                                                   
+      and volume changes from period to period.                             
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that it has supplemented the disclosure on page 81 to provide
+additional disclosure regarding the changes in Software revenue. The Company
+supplementally advises the Staff that it does not manage its business based
+on how changes in cost-per-installand number of installs impact Business
+Revenue because it focuses on overall revenue growth. The Company views the
+number of Enterprise Clients and their engagement with its offerings, as
+expressed through Revenue Per Enterprise Client (“ RPEC”), as the primary
+drivers of its Business Revenue. The Company notes that approximately 97% of
+its Business Revenue in 2019 came from the Company’s Enterprise Clients. The
+Company believes that focusing on cost-per-installor number of installs
+could be misleading to investors as such measures do not necessarily align
+with its focus on Enterprise Clients and RPEC, which drive its overall
+Business Revenue. The Company further advises the Staff that MAX revenue was
+not material for the periods presented.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 3 Consumer Revenue, page 73
+                                                                            
+      Refer to your Risk Factor disclosure on page 47 in which you state    
+      that the accounting for revenue                                       
+      derived from free-to-play mobile games, particularly with regard to   
+      revenue generated from digital storefronts, is still evolving and,    
+  5.  in some cases, uncertain. Please                                      
+      expand your discussion of Consumer Revenue to address current issues  
+      regarding revenue generated from digital storefronts, clarifying      
+      your accounting policy and the impact of any changes that may         
+      evolve.                                                               
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page 48 to clarify that there is no current uncertainty
+regarding accounting policies related to revenue generated from digital
+storefronts.
+                                                                            
+      Please expand the discussion of changes in Consumer Revenues to       
+      quantify the changes in revenue due to                                
+      increases in the per-transaction price of digital goods and the       
+  6.  number of digital goods transactions during the periods presented.    
+      Metrics such as MAPs and ARPMAP should support your discussion of     
+      changes in                                                            
+      revenues rather than being used as the sole measures of changes in    
+      revenues.                                                             
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that it does not believe that the per-transactionprice of virtual
+goods and the number of virtual goods transactions will give investors
+helpful insight into changes in its Consumer Revenue. The Company believes
+that the value of, and the cost to provide, virtual goods in the gaming
+environment are not comparable to real-world products, and therefore does
+not find it meaningful to classify virtual goods by type nor attribute the
+revenue impact to any specific mix of virtual goods sold. Further, the
+Company believes that information such as the per-transactionprice, the
+number of virtual goods transactions and the categories of virtual goods
+sold would not be helpful in managing or understanding the Company’s
+business. Instead, as described in the following paragraph and the Company’s
+response to Staff comment #7, the Company believes that Monthly Active
+Payers (“ MAPs”) and Average Revenue Per Monthly Active Payer (“ ARPMAP”)
+are the most effective metrics to measure and manage the Company’s Consumer
+Revenue. As disclosed in the Registration Statement, the Company’s App
+business is relatively new, and has been rapidly growing. In recent periods,
+the Company has determined that the most effective method for managing its
+Apps is to focus on the number of MAPs and ARPMAP. The Company’s focus is to
+increase Consumer Revenue in a sustainable manner. As such, the Company
+believes that focusing on the number of virtual goods transactions or the
+per-transactionprice of virtual goods transactions could be misleading to
+investors as such measures do not necessarily align with the Company’s focus
+on MAPs and ARPMAP, which drive its overall Consumer Revenue. As disclosed
+on page 74 of the Registration Statement, and as discussed in more detail in
+response to Staff comment #7 the Company did not retain user-level data
+related to Consumer Revenue until recently, but intends to include a
+discussion of trends in MAPs and ARPMAP on a go-forwardbasis as key metrics
+and as part of its analysis of its results of operations. For historical
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 4 periods, since the Company has not retained Consumer Revenue
+data related to the volume and price of virtual goods transactions, the
+Company has provided disclosure explaining how the increase in Consumer
+Revenue in 2019 was attributable to increases in revenue from new Apps and
+Apps that were already part of the Company’s portfolio as of the beginning
+of 2019. Key Metrics Monthly Active Payers, page 74
+                                                                            
+      We note that you state that until July 2020, you did not retain MAP   
+      information. Please tell us                                           
+      whether this information can be derived from your revenue             
+      recognition transactions and if so, why you have chosen not to        
+  7.  disclose this metric prior to July 2020, as you believe the metric    
+      is important for investors. If you cannot derive MAP                  
+      information from your revenue recognition transactions, please tell   
+      us what information you utilize to determine that an individual       
+      revenue transaction has occurred from a unique mobile device.         
+                                                                            
+The Company respectfully advises the Staff that in-apppurchases (“ IAPs”)
+include fees collected from users of its Apps for virtual goods that can be
+spent to obtain hints, solutions, advantages or other benefits within a
+game. The IAPs also include fees collected from a user for removing
+advertisements. The identified performance obligation is a promise to
+enhance the game experience through the virtual goods that are consumed in
+gameplay (consumable virtual goods) or a promise to not present
+advertisements within the game (durable virtual goods). Payment, which is
+made through the Company’s distribution partners, is required at the time of
+purchase and the purchase price is a fixed amount and non-refundable.The
+Company considers each purchasing decision (e.g., the purchase of hints
+and/or solutions) to result in the creation of an enforceable contract with
+a customer. The contract has an estimated term of a few weeks based on
+actual transfer of the enhanced gaming experience. This corresponds to the
+duration in which the parties have present enforceable rights and
+obligations, which is the enhanced game experience as a result of IAPs.
+Payments received that result in the origination of a contract are initially
+recorded to deferred revenue and recognized as the enhanced gaming
+experience is transferred over the contract term. Each subsequent IAP is
+considered to be a separate contract, as IAPs are generally made once prior
+purchases have been consumed (i.e., once the Company has transferred the
+promised enhanced gaming experience and the contract is complete). The
+Company respectfully advises the Staff that, prior to July 2020, based on
+how the Company identifies the individual contract and correspondingly
+records revenue, it is not able to derive MAP information from its revenue
+recognition transactions as the Company did not retain unique player
+identification because revenue is based on individual contracts that are
+established for each IAP, not based on unique user information. The Company
+did not retain user information to help aggregate an individual user playing
+multiple Apps or making multiple purchases within the same App, but since
+late July 2020 the Company has retained such MAP information and the Company
+intends to include a discussion of trends in MAPs and ARPMAP on a go-
+forwardbasis as key metrics and as part of its analysis of its results of
+operations.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 5 Results of Operations Extinguishment of acquisition-related
+contingent consideration, page 83
+                                                                            
+      Please expand the discussion to clarify the reason that this gain     
+      was recognized for the amendment of earn-out payments rather than     
+  8.  recording the change as a purchase price adjustment, i.e. disclose    
+      the timing of the acquisition and the timing of the amendment and     
+      the reason for accounting for the amendment.                          
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page 83 to address the Staff’s comment. Business, page 99
+                                                                        
+  9.  Please revise to include your basis for the following estimates:  
+                                                                        
+                                                                            
+       “For example, PeopleFun was acquired in March 2018 and after a       
+  •    year, we estimate PeopleFun had                                      
+       increased its quarterly revenue by over five times and monthly       
+       installs on AppDiscovery by nearly seven times.” (See page 99).      
+                                                                            
+                                                                            
+       “Similarly, in November 2019, we acquired Clipwire Games, which was  
+       not a business client. After                                         
+  •    its first year using our Software, we estimate Clipwire Games        
+       increased its quarterly revenue by four times and monthly installs   
+       on AppDiscovery from zero to 254,000.” (See page 100).               
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on pages 99 and 100 to address the Staff’s comment. Financial
+Statements – Applovin Corporation Note 2 – Basis of Presentation and Summary
+of Significant Accounting Policies Revenue from Contracts with Customers,
+page F-10
+                                                                            
+       Refer to your disclosure of Risk Factors on page 29. We note that    
+       you may offer discounts for virtual                                  
+  10.  items and give away virtual items, which may impact the perceived    
+       value of the virtual items. Please expand your accounting policies   
+       revenue recognition and impairment to address these discounts and    
+       giveaways, if material.                                              
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that discounts for virtual goods and giving away virtual goods have
+not been material in any of the periods presented in the Registration
+Statement.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 6 Asset Acquisitions and Business Combinations, page F-13
+                                                                            
+       We note on page 77 that since 2018 you have invested over $1         
+       billion in 15 strategic acquisitions                                 
+       and partnerships with mobile app developers and for technologies to  
+       enhance your Core Technologies. We note on page F-22 that in 2019    
+       you acquired certain intangible assets for $480.6 million. We also   
+       note on page 137 that you describe the transaction underlying the    
+       issuance of the convertible note of $40 million in October and       
+  11.  November 2020 as a strategic partnership with Athena FZE. Please     
+       expand your accounting policy to address your                        
+       accounting for the various partnerships that you have entered into   
+       since 2018. Please describe the terms and rights of each partner     
+       for all material investments that involve strategic partnerships     
+       and whether there are related performance targets                    
+       for the partnerships. Please also expand your MD&A discussion on     
+       pages 86 and 89 accordingly.                                         
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on pages 86, 90, F-13, F-23, F-44,and F-45to address the Staff’s
+comment. Intangible Assets, page F-14
+                                                                            
+       Refer to your disclosure in Risk Factors on page 22 that states      
+       that a number of mobile apps that                                    
+       achieved early popularity have since seen their user bases or user   
+       engagement levels decline. We also note on pages 95 and 99 that      
+       since 2018, 31 of your games have ranked in the Top 10 Free Games    
+  12.  overall, which implies a rather rapid rise and                       
+       decline of game popularity. Please expand your accounting policies   
+       for estimated useful lives of intangible assets and impairment of    
+       long-lived assets to address how you incorporate estimates of user   
+       bases or user engagement in your accounting                          
+       policies. Also, specifically address how these estimates impact the  
+       lives of virtual items when recognizing Consumer Revenue.            
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on pages 90, 91, and F-14to address the Staff’s comment. The
+Company supplementally advises the Staff that estimates of user bases and
+user engagement did not materially impact revenue attributable to virtual
+goods in 2018 and 2019 due to a very short consumption period for consumable
+virtual goods. Additionally, the Company notes that revenue generated by
+durable virtual goods was not material in 2018 and 2019. Note 6. Commitments
+and Contingencies Commitments, page F-19
+                                                                            
+       We note on page F-80 that Machine Zone has entered into a            
+       license agreement that has been extended through December 2021.      
+  13.  Please expand the disclosure of commitments to disclose the future   
+       payments and expected future amortization as of December 31, 2019    
+       totaling                                                             
+       $35.3 million.                                                       
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that all commitments of future payments and expected future
+amortization disclosed on page F-19of the Registration Statement are as of
+December 31, 2019, which is the latest audited balance sheet period. The
+Company respectfully advises the Staff that it has revised the disclosure on
+page F-43regarding the acquisition of Machine Zone Inc. (“ Machine Zone”) in
+May 2020 to address the Staff’s comment. The Company will disclose
+commitments of future payments and expected future amortization in
+connection with the acquired IP license agreement in its consolidated
+financial statements for the year ending December 31, 2020, when available.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 7 Note 7. Acquisitions, page F-20
+                                                                            
+       We note that you acquired PeopleFun on March 31, 2018 and in         
+       December                                                             
+       2018 amended the terms of the earn-out agreement. Since the          
+       amendment to the earn-out agreement occurred during the twelve       
+       months following the acquisition, please                             
+       expand the disclosure to explain the reason you did not consider     
+  14.  this change to be an adjustment to the purchase price.               
+ ────────────────────────────────────────────────────────────────────────── 
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on pages F-21and F-22to address the Staff’s comment. Note 10.
+Credit Agreement and Convertible Notes Credit Agreement, page F-27
+                                                                            
+       We note on page 144 that the Amended Credit Agreement includes       
+       Mandatory Prepayments. Please expand                                 
+  15.  the disclosure of the Credit Agreement to disclose these mandatory   
+       prepayments and the conditions that trigger such mandatory           
+       prepayments.                                                         
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page F-28to address the Staff’s comment. Note 16. Income
+Taxes, page F-36
+                                                                            
+       Please expand the disclosure of the year end restructuring of the    
+       foreign entity to explain the nature                                 
+       of the restructuring, the foreign jurisdiction that included the     
+       restructured entity and more detail regarding the decrease in the    
+  16.  deferred tax liability in 2019.                                      
+ ────────────────────────────────────────────────────────────────────────── 
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page F-38to address the Staff’s comment. Note 20. Subsequent
+Events, page F-42
+                                                                            
+       We note that the exit by the Company from one of the Machine Zone    
+       real estate leases was effected                                      
+       contemporaneously with the closing of the acquisition. Please        
+  17.  expand the disclosure to explain why this was considered to be a     
+       separate transaction and not accounted for in conjunction with the   
+       acquisition. Please tell us the basis in ASC 805 for                 
+       your accounting for this lease termination.                          
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page F-43to address the Staff’s comment. The Company
+supplementally advises the Staff that in determining whether the exit from
+one of the Machine Zone real estate leases should be considered to be a
+separate transaction it evaluated the factors in ASC 805-10-55-18.The
+Company concluded that the lease amendment is not part of the business
+combination based on the following facts and circumstances: (i) the lease
+amendment was negotiated primarily for the benefit of the combined entity;
+(ii) the Company was the primary party negotiating the lease amendment
+directly with the lessor; and (iii) the negotiations of the lease amendment
+and the acquisition of Machine Zone took place contemporaneously.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 8 Financial Statements – Machine Zone, Inc. Note 2 – Summary of
+Significant Accounting Policies Liquidity, page F-66
+                                                                            
+  18.  Please revise to clarify when Machine Zone, Inc. became a            
+       wholly-owned subsidiary of Applovin.                                 
+                                                                            
+The Company respectfully advises the Staff that it has revised the
+disclosure on page F-69to address the Staff’s comment. Revenue Recognition,
+page F-70
+                                                                            
+       We note on page F-71 that the estimated average playing period       
+       (“EAPP”) is estimated to be generally between six and nine months.   
+       We also note on page F-68 that Internal-Use Software Development     
+  19.  Costs are amortized over an                                          
+       estimated useful life of generally two to three years. Please        
+       explain in greater detail how you determine the estimated useful     
+       life of game-related software and how that useful life relates to    
+       your EAPP.                                                           
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that it has revised the disclosure on page F-71to address the Staff’s
+comment. The Company supplementally advises the Staff that Machine Zone
+determined the estimated useful life of game-related software based on the
+period for which the game-related software is expected to contribute to
+future cash flows. When estimating the period for which the game-related
+software is expected to contribute to future cash flows, Machine Zone
+primarily relied on its analysis of historical performance of its existing
+games and the most recent trends in bookings. The Company further
+supplementally advises the Staff that the estimated average playing period
+(“ EAPP”) is based on the best estimate of the average playing life of
+paying players, which is shorter than the average life of the game-related
+software. Unaudited Pro Forma Condensed Combined Statement of Operations,
+page F-101
+                                                                            
+       We note on page F-71 that Machine Zone, Inc. has recognized          
+       digital advertising services on a gross basis as Machine Zone acted  
+  20.  as a principal. Please provide a note to the pro forma financial     
+       information detailing how the continuing revenue from digital        
+       advertising services from previous Machine Zone                      
+       customers will be recorded following the acquisition.                
+                                                                            
+The Company acknowledges the Staff’s comment and respectfully advises the
+Staff that there was no continuing revenue from digital advertising services
+from previous Machine Zone customers following the acquisition. As disclosed
+on page F-73,Machine Zone had ceased to provide digital advertising services
+as of December 31, 2018.
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 9 General
+                                                                            
+       Please supplementally provide us with copies of all written          
+       communications, as defined in Rule 405                               
+       under the Securities Act, that you, or anyone authorized to do so    
+  21.  on your behalf, present to potential investors in reliance on        
+       Section 5(d) of the Securities Act, whether or not they retain       
+       copies of the                                                        
+       communications.                                                      
+                                                                            
+The Company respectfully advises the Staff that, under separate cover, it
+has concurrently herewith supplementally provided the Staff with a copy of
+the written materials that have been presented visually, but not
+distributed, to potential investors in “testing-the-waters”meetings in
+reliance on Section 5(d) of the Securities Act of 1933, as amended. The
+Company respectfully requests that the Staff destroy such materials upon
+completion of its review. To the extent that any written communications may
+in the future be presented to additional potential investors, the Company
+will provide the Staff with copies of any such written communications. *****
+
+Confidential Treatment Requested by Applovin Corporation Pursuant to 17
+C.F.R. SECTION 200.83 U.S. Securities and Exchange Commission January 15,
+2021 Page 10 Please direct any questions regarding the Company’s responses
+or the revised draft of the Registration Statement to me at (650) 565-3574or
+rpavri@wsgr.com.
+                                    
+  Sincerely,                        
+  WILSON SONSINI GOODRICH & ROSATI  
+  Professional Corporation          
+  /s/ Rezwan D. Pavri               
+  Rezwan D. Pavri                   
+                                    
+                                            
+  cc:  Adam Foroughi, Applovin Corporation  
+                                            
+Herald Chen, Applovin Corporation Victoria Valenzuela, Applovin Corporation
+Lonnie Huang, Applovin Corporation Andrew T. Hill, Wilson Sonsini Goodrich &
+Rosati, P.C. Lang Liu, Wilson Sonsini Goodrich & Rosati, P.C. Michael T.
+Esquivel, Fenwick & West LLP Ran D. Ben-Tzur,Fenwick & West LLP James D.
+Evans, Fenwick & West LLP Jennifer J. Hitchcock, Fenwick & West LLP

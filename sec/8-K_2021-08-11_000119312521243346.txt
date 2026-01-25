@@ -1,0 +1,164 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of The Securities        
+Exchange Act of 1934 Date of Report (Date of earliest event reported):      
+August 10, 2021 AppLovin Corporation (Exact name of registrant as specified 
+in its charter)                                                             
+                                                                            
+  Delaware                   001-40325                  45-3264542          
+  (State or other                                       -IRS Employer       
+  jurisdiction of            -Commission File Number    Identification No.  
+  incorporation)                                                            
+                                                                            
+1100 Page Mill Road Palo Alto, California 94304 (Address of principal       
+executive offices, including zip code) (800) 839-9646 (Registrant’s         
+telephone number, including area code) Not Applicable (Former name or former
+address, if changed since last report) Check the appropriate box below if   
+the Form 8-K filing is intended to simultaneously satisfy the filing        
+obligation of the registrant under any of the following provisions:         
+                                                                            
+  ☐  Written communications pursuant to Rule 425 under the Securities Act   
+     (17 CFR 230.425)                                                       
+                                                                            
+                                                                            
+  ☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act     
+     (17 CFR 240.14a-12)                                                    
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the    
+     Exchange Act (17 CFR 240.14d-2(b))                                     
+                                                                            
+                                                                            
+  ☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the    
+     Exchange Act (17 CFR 240.13e-4(c))                                     
+                                                                            
+Securities registered pursuant to Section 12(b) of the Act:                 
+                                                                            
+  Title of each class        Trading Symbol(s)    Name of each exchange on  
+                                                  which registered          
+  Class A common stock,                           The Nasdaq Stock Market   
+  par value $0.00003         APP                  LLC                       
+  per share                                                                 
+                                                                            
+Indicate by check mark whether the registrant is an emerging growth company 
+as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or   
+Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).      
+Emerging growth company ☐ If an emerging growth company, indicate by check  
+mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards        
+provided pursuant to Section 13(a) of the Exchange Act. ☐                   
+                                                            
+  Item 2.02  Results of Operations and Financial Condition  
+                                                            
+On August 11, 2021, AppLovin Corporation (the “Company”) issued a press     
+release announcing its financial results for the quarter ended June 30, 2021
+and issued a letter to its shareholders. A copy of the press release and the
+shareholder letter are attached as Exhibits 99.1 and 99.2 to this current   
+report on Form 8-Kand is incorporated by reference herein. The information  
+in this Item 2.02 of this current report on Form 8-Kand the related exhibits
+attached hereto shall not be deemed “filed” for purposes of Section 18 of   
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or     
+otherwise subject to the liabilities of that section, nor shall it be deemed
+incorporated by reference in any filing under the Securities Act of 1933, as
+amended, or the Exchange Act, regardless of any general incorporation       
+language in such filing.                                                    
+                                                                            
+              Departure of Directors or Certain Officers; Election of       
+  Item 5.02.  Directors; Appointment of Certain Officers; Compensatory      
+              Arrangements of Certain Officers.                             
+                                                                            
+(d) Election of Directors On August 10, 2021, the board of directors (the   
+“Board”) of the Company appointed Asha Sharma to the Board. Since February  
+2021, Ms. Sharma has served as Chief Operating Officer of Maplebear Inc.    
+(d/b/a Instacart), a leading provider of online grocery services.           
+Previously, she served in several roles at Facebook, a global technology    
+company, including VP of Product for Messenger and Head of Product for      
+Social Impact. She also served as Chief Operating Officer from 2013 to 2017 
+at Porch Group, Inc., a home services software provider, and served in      
+marketing and operations roles from 2011 to 2013 at Microsoft, a computer   
+software provider. She has served on the board of directors of Porch Group  
+since December 2020 and previously served on the board of directors of      
+HelpScout, a private company, and Virginia Mason Medical Center. She holds a
+Bachelor of Science in Business from the University of Minnesota, Carlson   
+School of Management. There are no arrangements or understandings between   
+Ms. Sharma, on the one hand, and the Company or any other persons, on the   
+other hand, pursuant to which Ms. Sharma was selected as a director. There  
+are no related party transactions between the Company and Ms. Sharma (or any
+of her immediate family members) requiring disclosure under Item 404(a) of  
+Regulation S-K.Ms. Sharma does not have any family relationships with any of
+the Company’s directors or executive officers. Ms. Sharma will participate  
+in the director benefit arrangements applicable to the Company’s non-       
+employeedirectors as described in the Company’s final prospectus dated April
+14, 2021. In addition, the Company will enter into its standard form of     
+indemnification agreement with Ms. Sharma.                                  
+                           
+  Item 8.01  Other Events  
+                           
+Earnings-Related Lock-UpRelease Date In connection with the Company’s       
+initial public offering of Class A common stock (the “IPO”), the Company’s  
+executive officers, directors and holders of substantially all of its       
+capital stock and securities convertible into or exchangeable for such      
+capital stock as of the IPO were parties to market standoff agreements with 
+the Company or entered into lock-up agreementswith the underwriters that    
+restrict their ability to sell or transfer their shares, or otherwise engage
+in certain transactions related to their shares (the “lock-upagreements”),  
+for a period of 180 days after April 14, 2021. Such period is referred to as
+the lock-up period. Pursuant to the lock-upagreements, 20% of the shares of 
+the Company’s common stock held as of April 14, 2021 (and including shares  
+issuable upon the exercise of options that are scheduled to be vested as of 
+the date that is 90 days thereafter provided, however, the lock-upsignatory 
+continues to be a service provider to the Company through such date) shall  
+be released from the lock-upagreements at the commencement of trading on the
+second trading day after the Company announces earnings for its second      
+quarter of 2021. Such release will occur at the commencement of trading on  
+August 13, 2021.                                                            
+                                                                            
+The Company estimates that approximately 69 million shares of Class A common
+stock (including approximately 30 million shares of Class B common stock    
+convertible into Class A common stock) may become eligible for sale in the  
+public market at the open of trading on August 13, 2021, subject to volume  
+limitations, manner of sale provisions and notice provisions under Rule 144 
+in the case of our affiliates. The Company will also release the market     
+standoff agreements with respect to these shares on August 13, 2021.        
+Expected Early Lock-Up ReleaseDate Pursuant to the lock-up agreements,if (i)
+at least 120 days have elapsed since April 14, 2021, (ii) the Company has   
+publicly released earnings results for the quarterly period during which the
+IPO occurred and (iii) such lock-upperiod is scheduled to end during or     
+within five trading days prior to a broadly applicable and regularly        
+scheduled period during which trading in the Company’s securities would not 
+be permitted under its insider trading policy (the “blackout period”), such 
+lock-upperiod will end ten trading days prior to the commencement of such   
+blackout period. The lock-up periodis scheduled to end on October 11, 2021, 
+which falls within the Company’s quarterly blackout period that commences at
+the end of the day on September 14, 2021. Therefore, in accordance with the 
+lock-up agreements, the lock-up periodwill end at the open of trading on    
+August 31, 2021, which is ten trading days prior to the commencement of the 
+Company’s quarterly blackout period. The Company will also release the      
+market standoff agreements when the lock-up periodexpires. The Company      
+estimates that approximately 261 million shares of Class A common stock     
+(including approximately 118 million shares of Class B common stock         
+convertible into Class A common stock) may become eligible for sale in the  
+public market at the open of trading on August 31, 2021, subject to volume  
+limitations, manner of sale provisions and notice provisions under Rule 144 
+in the case of our affiliates.                                              
+                                                
+  Item 9.01  Financial Statements and Exhibits  
+                                                
+(d) Exhibits:                                                               
+                                                                            
+  Exhibit No.    Exhibit Description                                        
+  99.1           Press Release, dated August 11, 2021.                      
+  99.2           Letter to Shareholders, dated August 11, 2021.             
+ ────────────────────────────────────────────────────────────────────────── 
+  104            Cover Page Interactive Data File (embedded within the      
+                 Inline XBRL document).                                     
+                                                                            
+SIGNATURE Pursuant to the requirements of the Securities Exchange Act of    
+1934, the registrant has duly caused this report to be signed on its behalf 
+by the undersigned hereunto duly authorized.                                
+                                                    
+                           APPLOVIN CORPORATION     
+  Date: August 11, 2021    /s/ Herald Chen          
+ ────────────────────────────────────────────────── 
+                           Herald Chen              
+                           Chief Financial Officer  
+                                                    

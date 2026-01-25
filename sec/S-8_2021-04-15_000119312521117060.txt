@@ -1,0 +1,612 @@
+As filed with the Securities and Exchange Commission on April 15, 2021
+Registration No. 333- UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES
+ACT OF 1933 APPLOVIN CORPORATION (Exact name of registrant as specified in
+its charter)
+                                                         
+  Delaware                           45-3264542          
+  (State or other jurisdiction of    -I.R.S. Employer    
+  incorporation or organization)     Identification No.  
+                                                         
+1100 Page Mill Road Palo Alto, California 94304 (800) 839-9646 (Address of
+principal executive offices, including zip code) 2021 Equity Incentive Plan
+2021 Employee Stock Purchase Plan 2011 Equity Incentive Plan (Full title of
+the plan) Adam Foroughi Co-Founder,Chief Executive Officer, and Chairperson
+Herald Chen President and Chief Financial Officer 1100 Page Mill Road Palo
+Alto, California 94304 (800) 839-9646 (Name, address and telephone number,
+including area code, of agent for service) Copies to:
+                                                                            
+  Rezwan D. Pavri                                                           
+  Lisa L. Stimmell Andrew T. Hill      Victoria Valenzuela                  
+  Lang Liu Wilson Sonsini Goodrich     Lonnie Huang Applovin Corporation    
+  &                                    1100 Page Mill Road Palo Alto,       
+  Rosati, P.C. 650 Page Mill Road      California                           
+  Palo                                 94304 (800) 839-9646                 
+  Alto, California 94304 (650)                                              
+  493-9300                                                                  
+                                                                            
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-acceleratedfiler, a smaller reporting company or
+an emerging growth company. See the definitions of “large accelerated
+filer,” “accelerated filer,” “smaller reporting company,” and “emerging
+growth company” in Rule 12b-2of the Exchange Act.
+                                                                  
+  Large accelerated filer    ☐    Accelerated filer            ☐  
+  Non-accelerated filer      ☒    Smaller reporting company    ☐  
+                                  Emerging growth company      ☐  
+                                                                  
+If an emerging growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section
+7(a)(2)(B) of the Securities Act. ☐ CALCULATION OF REGISTRATION FEE
+                                                                            
+  Title of                      Proposed           Proposed                 
+  Securities          Amount    Maximum             Maximum      Amount of  
+  to be                to be    Offering          Aggregate    Registrati…  
+  Registered    Registered(…    Price Per          Offering            Fee  
+                                Share                 Price                 
+  Class A                                                                   
+  common                                                                    
+  stock, par                                                                
+  value                                                                     
+  $0.00003                                                                  
+  per                                                                       
+  share:                                                                    
+  —2021                                                                     
+  Equity        39,000,000(…    $80.00(5)      $3,120,000,…       $340,392  
+  Incentive                                                                 
+  Plan                                                                      
+  —2021                                                                     
+  Employee                                                                  
+  Stock         7,800,000(3)    $68.00(6)      $530,400,00…        $57,867  
+  Purchase                                                                  
+  Plan                                                                      
+  —2011                                                                     
+  Equity                                                                    
+  Incentive     19,192,152(…    $6.44(7)       $123,597,45…        $13,485  
+  Plan                                                                      
+  (Options)                                                                 
+  TOTAL:          65,992,152                   $3,773,997,…       $411,744  
+                                                                            
+                                                                            
+       Pursuant to Rule 416(a) of the Securities Act of 1933, as amended    
+       (the “Securities Act”), this                                         
+       Registration Statement covers any additional shares of the           
+       registrant’s Class A common stock that become issuable under the     
+       registrant’s 2021 Equity Incentive Plan (the “2021 Plan”), the       
+       registrant’s 2021                                                    
+  (1)  Employee Stock Purchase Plan (the “2021 ESPP”) and the registrant’s  
+       2011 Equity Incentive Plan (the “2011 Plan”), by reason of any       
+       stock dividend, stock split, recapitalization or other similar       
+       transaction                                                          
+       effected without the registrant’s receipt of consideration which     
+       results in an increase in the number of the outstanding shares of    
+       Class A common stock.                                                
+                                                                            
+                                                                            
+       Represents shares of Class A common stock reserved for issuance      
+       pursuant to future awards under the 2021 Plan.                       
+       The number of shares of Class A common stock available for issuance  
+       under the 2021 Plan will be increased by any shares of Class A       
+       common stock subject to awards outstanding under the 2011 Plan that  
+  (2)  expire or otherwise terminate without                                
+       having been exercised or issued in full, are tendered to or          
+       withheld by the registrant for payment of an exercise price or for   
+       satisfying tax withholding obligations, or are forfeited to or       
+       repurchased by the registrant due to failure to vest. See            
+       footnote 4 below.                                                    
+                                                                            
+                                                                            
+  (3)  Represents shares of Class A common stock reserved for issuance      
+       under the 2021 ESPP.                                                 
+                                                                            
+                                                                            
+       Represents shares of Class A common stock reserved for issuance      
+       pursuant to stock options outstanding under the                      
+       2011 Plan as of the date of this Registration Statement. Any stock   
+       options outstanding under the 2011 Plan that, on or after the date   
+       of this Registration Statement, expire or otherwise terminate        
+  (4)  without having been exercised in full, are tendered                  
+       to or withheld by the registrant for payment of an exercise price    
+       or for satisfying tax withholding obligations, or are forfeited to   
+       or repurchased by the Registrant due to failure to vest will become  
+       available for issuance as shares of Class A                          
+       common stock under the 2021 Plan, subject to the maximum limit set   
+       forth in the 2021 Plan. See footnote 2 above.                        
+                                                                            
+                                                                            
+       Estimated in accordance with Rule 457(h) of the Securities Act       
+       solely for the purpose of calculating the registration               
+  (5)  fee on the basis of $80.00 per share, which is the initial public    
+       offering price per share of Class A common stock as set forth in     
+       the registrant’s registration statement on Form S-1 (File No.        
+       333-253800), as amended, declared effective on April 14, 2021.       
+                                                                            
+                                                                            
+       Estimated in accordance with Rule 457(h) of the Securities Act       
+       solely for the purpose of calculating the registration               
+       fee on the basis of 85% of $80.00 per share, which is the initial    
+       public offering price per share of Class A common stock as set       
+       forth in the registrant’s registration statement on Form S-1 (File   
+  (6)  No. 333-253800), as amended, declared effective on April 14, 2021.   
+       Pursuant to the 2021 ESPP, the purchase price of the shares of       
+       Class A common stock reserved for issuance thereunder will be 85%    
+       of                                                                   
+       the lower of the fair market value of Class A common stock on the    
+       Enrollment Date or the Exercise Date (as such terms are defined in   
+       the 2021 ESPP).                                                      
+                                                                            
+                                                                            
+       Estimated in accordance with Rule 457(h) of the Securities Act       
+       solely for the purpose of calculating the registration               
+  (7)  fee on the basis of $6.44 per share, which is the weighted-average   
+       exercise price of options to purchase Class A common stock           
+       outstanding under the 2011 Plan as of the date of this Registration  
+       Statement.                                                           
+                                                                            
+PART I
+
+INFORMATION REQUIRED IN THE PROSPECTUS
+
+The information specified in Item 1 and Item 2 of Part I of Form S-8 is
+omitted from this
+Registration Statement on Form S-8 (the “Registration Statement”) in
+accordance with the provisions of Rule 428 under the Securities Act of 1933,
+as amended (the “Securities Act”) and the introductory note to Part I of
+Form S-8. The documents containing the information specified in Part I of
+Form S-8 will be delivered to the
+participants in the equity benefit plans covered by this Registration
+Statement as specified by Rule 428(b)(1) under the Securities Act.
+
+PART II
+
+INFORMATION REQUIRED IN REGISTRATION STATEMENT
+
+Item 3. Incorporation of Documents by Reference.
+
+Applovin Corporation (the “Registrant”) hereby incorporates by reference
+into this Registration Statement the following
+documents previously filed with the Securities and Exchange Commission (the
+“Commission”):
+
+(1) Amendment No. 2 to the Registrant’s registration statement on Form
+S-1filed with the Commission on April 7, 2021 (File No. 333-253800),which
+contains the Registrant’s audited financial statements for the latest fiscal
+year for which such statements have been filed; (2) The Registrant’s
+prospectus to be filed on or about April 15, 2021 pursuant to Rule 424(b)
+under the Securities Act, relating to the Registrant’s Registration
+Statement on Form S-1,as amended (File No. 333-253800);and (3) The
+description of the Registrant’s Class A common stock contained in the
+Company’s Registration Statement on Form 8-A(File No. 001-40325) filed with
+the Commission on April 12, 2021, pursuant to Section 12(b) of the
+Securities Exchange Act of 1934, as amended (the “ Exchange Act”), including
+any amendment or report filed for the purpose of updating such description.
+All documents filed by the Registrant pursuant to Sections 13(a), 13(c), 14
+and 15(d) of the Exchange Act on or after the date of this Registration
+Statement and prior to the filing of a post-effective amendment to this
+Registration Statement that indicates that all securities offered have been
+sold or that deregisters all securities then remaining unsold shall be
+deemed to be incorporated by reference in this Registration Statement and to
+be part hereof from the date of filing of such documents; provided, however,
+that documents or information deemed to have been furnished and not filed in
+accordance with the rules of the Commission shall not be deemed incorporated
+by reference into this Registration Statement. Any statement contained in a
+document incorporated or deemed to be incorporated by reference herein shall
+be deemed to be modified or superseded for purposes of this Registration
+Statement to the extent that a statement contained herein or in any
+subsequently filed document which also is deemed to be incorporated by
+reference herein modifies or supersedes such statement. Any such statement
+so modified or superseded shall not be deemed, except as so modified or
+superseded, to constitute a part of this Registration Statement. Item 4.
+Description of Securities. Not applicable. Item 5. Interests of Named
+Experts and Counsel. Not applicable. Item 6. Indemnification of Directors
+and Officers. Section 145 of the Delaware General Corporation Law authorizes
+a corporation’s board of directors to grant, and authorizes a court to
+award, indemnity to officers, directors, and other corporate agents. The
+Registrant has adopted an amended and restated certificate of incorporation,
+which will become effective immediately prior to the completion of the
+Registrant’s initial public offering and which will contain provisions that
+limit the liability of its directors for monetary damages to the fullest
+extent permitted by the Delaware General Corporation Law. Consequently, the
+Registrant’s directors will not be personally liable to the Registrant or
+its stockholders for monetary damages for any breach of fiduciary duties as
+directors, except liability for the following:
+                                                                            
+  •    any breach of their duty of loyalty to the Registrant or its         
+       stockholders;                                                        
+                                                                            
+                                                                            
+  •    any act or omission not in good faith or that involves intentional   
+       misconduct or a knowing violation of law;                            
+                                                                            
+                                                                            
+       unlawful payments of dividends or unlawful stock repurchases or      
+  •    redemptions as provided in Section 174 of the                        
+       Delaware General Corporation Law; or                                 
+                                                                            
+                                                                            
+  •    any transaction from which they derived an improper personal         
+       benefit.                                                             
+                                                                            
+Any amendment to, or repeal of, these provisions will not eliminate or
+reduce the effect of these provisions in respect of any act, omission, or
+claim that occurred or arose prior to that amendment or repeal. If the
+Delaware General Corporation Law is amended to provide for further
+limitations on the personal liability of directors of corporations, then the
+personal liability of the Registrant’s directors will be further limited to
+the greatest extent permitted by the Delaware General Corporation Law. In
+addition, the Registrant’s amended and restated bylaws, which will become
+effective immediately prior to the completion of the Registrant’s initial
+public offering, and which will provide that the Registrant will indemnify,
+to the fullest extent permitted by law, any person who is or was a party or
+is threatened to be made a party to any action, suit, or
+
+proceeding by reason of the fact that he or she is or was one of the
+Registrant’s directors or officers or is or was serving at the Registrant’s
+request as a director or officer of
+another corporation, partnership, joint venture, trust or other enterprise.
+The Registrant’s amended and restated bylaws will provide that the
+Registrant may indemnify to the fullest extent permitted by law any person
+who is or was a party or
+is threatened to be made a party to any action, suit, or proceeding by
+reason of the fact that he or she is or was one of the Registrant’s
+employees or agents or is or was serving at the Registrant’s request as an
+employee or agent of
+another corporation, partnership, joint venture, trust, or other enterprise.
+The Registrant’s amended and restated bylaws will also provide that the
+Registrant must advance expenses incurred by or on behalf of a director or
+officer in advance
+of the final disposition of any action or proceeding, subject to limited
+exceptions.
+
+Further, the Registrant has entered into
+indemnification agreements with each of its directors and executive officers
+that may be broader than the specific indemnification provisions contained
+in the Delaware General Corporation Law. These indemnification agreements
+require the Registrant,
+among other things, to indemnify its directors and executive officers
+against liabilities that may arise by reason of their status or service.
+These indemnification agreements also require the Registrant to advance all
+expenses incurred by the
+directors and executive officers in investigating or defending any such
+action, suit, or proceeding. The Registrant believes that these agreements
+are necessary to attract and retain qualified individuals to serve as
+directors and executive
+officers.
+
+The limitation of liability and indemnification provisions will be included
+in the Registrant’s amended and restated
+certificate of incorporation, amended and restated bylaws and the
+indemnification agreements that the Registrant has entered into with its
+directors and executive officers may discourage stockholders from bringing a
+lawsuit against the
+Registrant’s directors and executive officers for breach of their fiduciary
+duties. They may also reduce the likelihood of derivative litigation against
+the Registrant’s directors and executive officers, even though an action, if
+successful, might benefit the Registrant and other stockholders. Further, a
+stockholder’s investment may be adversely affected to the extent that the
+Registrant pays the costs of settlement and damage awards against directors
+and executive
+officers as required by these indemnification provisions. At present, the
+Registrant is not aware of any pending litigation or proceeding involving
+any person who is or was one of the Registrant’s directors, officers,
+employees, or other agents
+or is or was serving at its request as a director, officer, employee, or
+agent of another corporation, partnership, joint venture, trust or other
+enterprise, for which indemnification is sought, and the Registrant is not
+aware of any threatened
+litigation that may result in claims for indemnification.
+
+The Registrant has obtained insurance policies under which, subject to
+the limitations of the policies, coverage is provided to the Registrant’s
+directors and executive officers against loss arising from claims made by
+reason of breach of fiduciary duty or other wrongful acts as a director or
+executive officer,
+including claims relating to public securities matters, and to the
+Registrant with respect to payments that may be made by the Registrant to
+these directors and executive officers pursuant to its indemnification
+obligations or otherwise as a matter
+of law.
+
+Certain of the Registrant’s non-employee directors may, through their
+relationships with their employers, be insured or indemnified against
+certain liabilities incurred in their capacity as members of the
+Registrant’s Board of Directors.
+
+Insofar as indemnification for liabilities arising under the Securities Act
+may be permitted to directors, officers or persons
+controlling the Registrant pursuant to the foregoing provisions, the
+Registrant has been informed that, in the opinion of the Commission, such
+indemnification is against public policy as expressed in the Securities Act
+and is therefore
+unenforceable.
+
+Item 7. Exemption from Registration Claimed.
+
+Not applicable.
+
+Item 8. Exhibits. EXHIBIT INDEX
+                                                                            
+                                Incorpo…                                    
+  Exhibit                       by                                          
+                                Referen…                                    
+  Number     Exhibit     Form             File No.    Exhibit    Filing     
+             Descrip…                                            Date       
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Certifi…                                                       
+             of                                                             
+             Incorpo…                                                       
+  4.1        of the      S-1              333-253…        3.1    March 2,   
+             registr…                                            2021       
+             as                                                             
+             amended                                                        
+             and                                                            
+             current…                                                       
+             in                                                             
+             effect.                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Bylaws                                                         
+             of the                                                         
+  4.2        registr…    S-1              333-253…        3.3    March 2,   
+             as                                                  2021       
+             amended                                                        
+             and                                                            
+             current…                                                       
+             in                                                             
+             effect.                                                        
+             Form of                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Certifi…                                                       
+             of                                                             
+             Incorpo…                                            March 22,  
+  4.3        of the      S-1/A            333-253…        3.2    2021       
+             registr…                                                       
+             to be in                                                       
+             effect                                                         
+             upon                                                           
+             complet…                                                       
+             of this                                                        
+             offerin…                                                       
+             Form of                                                        
+             Amended                                                        
+             and                                                            
+             Restated                                                       
+             Bylaws                                                         
+             of the                                              March 22,  
+  4.4        registr…    S-1/A            333-253…        3.4    2021       
+             to be in                                                       
+             effect                                                         
+             upon                                                           
+             complet…                                                       
+             of this                                                        
+             offerin…                                                       
+             Form of                                                        
+             Class                                                          
+             A common                                            March 2,   
+  4.5        stock       S-1              333-253…        4.1    2021       
+             certifi…                                                       
+             of the                                                         
+             registr…                                                       
+             Opinion                                                        
+             of                                                             
+             Wilson                                                         
+  5.1*       Sonsini                                                        
+             Goodrich                                                       
+             &                                                              
+             Rosati,                                                        
+             P.C.                                                           
+             Consent                                                        
+             of                                                             
+             Deloitte                                                       
+             & Touche                                                       
+  23.1*      LLP,                                                           
+             Indepen…                                                       
+             Registe…                                                       
+             Public                                                         
+             Account…                                                       
+             Firm.                                                          
+             Consent                                                        
+  23.2*      of KPMG,                                                       
+             Indepen…                                                       
+             Auditor…                                                       
+             Consent                                                        
+             of                                                             
+             Wilson                                                         
+             Sonsini                                                        
+             Goodrich                                                       
+             &                                                              
+  23.3*      Rosati,                                                        
+             P.C.                                                           
+             (includ…                                                       
+             in                                                             
+             Exhibit                                                        
+             5.1                                                            
+             hereto).                                                       
+             Power of                                                       
+             Attorney                                                       
+             (includ…                                                       
+  24.1*      on the                                                         
+             signatu…                                                       
+             page                                                           
+             hereto).                                                       
+             Applovin                                                       
+             Corpora…                                                       
+             2011                                                           
+             Equity                                              March 2,   
+  99.1       Incenti…    S-1              333-253…       10.2    2021       
+             Plan and                                                       
+             related                                                        
+             form                                                           
+             agreeme…                                                       
+             Applovin                                                       
+             Corpora…                                                       
+             2021                                                           
+             Equity                                              March 22,  
+  99.2       Incenti…    S-1/A            333-253…       10.3    2021       
+             Plan and                                                       
+             related                                                        
+             form                                                           
+             agreeme…                                                       
+             Applovin                                                       
+             Corpora…                                                       
+             2021                                                           
+             Employee                                                       
+  99.3       Stock       S-1/A            333-253…       10.5    March 22,  
+             Purchase                                            2021       
+             Plan and                                                       
+             related                                                        
+             form                                                           
+             agreeme…                                                       
+                                                                            
+                      
+  *  Filed herewith.  
+                      
+Item 9. Undertakings.
+                                                     
+  A.  The undersigned Registrant hereby undertakes:  
+                                                     
+                                                                            
+       To file, during any period in which offers or sales are being made,  
+  (1)  a post-effective amendment to this Registration                      
+       Statement:                                                           
+                                                                            
+                                                                            
+  (i)  To include any prospectus required by Section 10(a)(3) of the        
+       Securities Act;                                                      
+                                                                            
+                                                                            
+        To reflect in the prospectus any facts or events arising after the  
+        effective date of the Registration Statement (or                    
+        the most recent post-effective amendment thereof) which,            
+        individually or in the aggregate, represent a fundamental change    
+        in the information set forth in the Registration Statement.         
+        Notwithstanding the foregoing, any increase or decrease in volume   
+        of securities offered (if the total dollar value of securities      
+  (ii)  offered would not exceed that which was registered) and any         
+        deviation from the low or high end of the estimated maximum         
+        offering range may be reflected in the form of prospectus filed     
+        with the Commission pursuant to Rule 424(b) if, in the aggregate,   
+        the changes in volume and price represent no more than a 20         
+        percent change in the maximum aggregate offering price set forth    
+        in the “Calculation of Registration Fee”                            
+        table in the effective Registration Statement; and                  
+                                                                            
+                                                                            
+         To include any material information with respect to the plan of    
+  (iii)  distribution not previously disclosed in the                       
+         Registration Statement or any material change to such information  
+         in the Registration Statement.                                     
+                                                                            
+Provided, however, that paragraphs (A)(1)(i) and (A)(1)(ii) do not apply if
+the information required to be included in a post-effective amendment by
+those paragraphs is contained in reports filed with or furnished to the
+Commission by the Registrant pursuant to Section 13 or Section 15(d) of the
+Exchange Act that are incorporated by reference in this Registration
+Statement.
+                                                                            
+       For the purpose of determining any liability under the Securities    
+       Act, each such post-effective amendment shall be                     
+  (2)  deemed to be a new registration statement relating to the            
+       securities offered therein, and the offering of such securities at   
+       that time shall be deemed to be the initial bona fide offering       
+       thereof.                                                             
+                                                                            
+                                                                            
+       It will remove from registration by means of a post-effective        
+  (3)  amendment any of the securities being registered which               
+       remain unsold at the termination of the offering.                    
+                                                                            
+                                                                            
+      The undersigned Registrant hereby undertakes that, for purposes of    
+      determining any liability under the Securities Act,                   
+      each filing of the Registrant’s annual report pursuant to Section     
+      13(a) or Section 15(d) of the Exchange Act (and, where applicable,    
+      each filing of an employee benefit plan’s annual report pursuant to   
+  B.  Section 15(d) of the                                                  
+      Exchange Act) that is incorporated by reference in the Registration   
+      Statement shall be deemed to be a new registration statement          
+      relating to the securities offered therein, and the offering of such  
+      securities at that time shall be deemed to be the                     
+      initial bona fide offering thereof.                                   
+                                                                            
+                                                                            
+      Insofar as indemnification for liabilities arising under the          
+      Securities Act may be permitted to directors, officers                
+      and controlling persons of the Registrant pursuant to the foregoing   
+      provisions, or otherwise, the Registrant has been advised that in     
+      the opinion of the Commission such indemnification is against public  
+      policy as expressed in the Securities Act and                         
+      is, therefore, unenforceable. In the event that a claim for           
+      indemnification against such liabilities (other than the payment by   
+  C.  the Registrant of expenses incurred or paid by a director, officer    
+      or controlling person of the Registrant in the                        
+      successful defense of any action, suit or proceeding) is asserted by  
+      such director, officer or controlling person in connection with the   
+      securities being registered, the Registrant will, unless in the       
+      opinion of its counsel the matter has been                            
+      settled by controlling precedent, submit to a court of appropriate    
+      jurisdiction the question whether such indemnification by it is       
+      against public policy as expressed in the Securities Act and will be  
+      governed by the final adjudication of such issue.                     
+                                                                            
+SIGNATURES Pursuant to the requirements of the Securities Act of 1933, the
+registrant certifies that it has reasonable grounds to believe that it meets
+all of the requirements for filing on Form S-8and has duly caused this
+Registration Statement to be signed on its behalf by the undersigned,
+thereunto duly authorized in the City of Palo Alto, State of California, on
+the 15th day of April, 2021.
+                                                            
+       APPLOVIN CORPORATION                                 
+  By:                        /s/ Adam Foroughi              
+                             Adam Foroughi Chief Executive  
+                             Officer                        
+                                                            
+POWER OF ATTORNEY KNOW ALL PERSONS BY THESE PRESENTS, that each person whose
+signature appears below constitutes and appoints Adam Foroughi, Herald Chen
+and Victoria Valenzuela, and each one of them, as their true and lawful
+attorneys-in-factand agents, with full power of substitution and
+resubstitution, for them and in their name, place and stead, in any and all
+capacities, to sign any and all amendments (including post-effective
+amendments) to this registration statement on Form S-8,and to file the same,
+with all exhibits thereto and other documents in connection therewith, with
+the Securities and Exchange Commission, granting unto said attorneys-in-
+factand agents, and each of them, full power and authority to do and perform
+each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as they might or
+could do in person, hereby ratifying and confirming all that said attorneys-
+in-factand agents or any of them, or their substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof. Pursuant to the
+requirements of the Securities Act of 1933, this registration statement on
+Form S-8has been signed by the following persons in the capacities and on
+the dates indicated.
+                                                                            
+                             Title                                          
+                             Chief Executive Officer and                    
+                             Chairperson                                    
+                             (Principal Executive                           
+  Signature                  Officer)                                       
+  /s/ Adam Foroughi          Chief Financial Officer,                       
+  Adam Foroughi              President, and Director        Date            
+  /s/ Herald Chen            (Principal Financial           April 15, 2021  
+  Herald Chen                Officer)                       April 15, 2021  
+ ────────────────────────────────────────────────────────────────────────── 
+  /s/ Elena Arutunian        Chief Accounting Officer                       
+  Elena Arutunian            (Principal Accounting          April 15, 2021  
+                             Officer)                                       
+  /s/ Craig Billings         Director                       April 15, 2021  
+  Craig Billings                                                            
+  /s/ Margaret Georgiadis    Director                       April 15, 2021  
+  Margaret Georgiadis                                                       
+  /s/ Edward Oberwager       Director                       April 15, 2021  
+  Edward Oberwager                                                          
+  /s/ Cathy Sun              Director                       April 15, 2021  
+  Cathy Sun                                                                 
+  /s/ Eduardo Vivas          Director                       April 15, 2021  
+  Eduardo Vivas                                                             
+                                                                            

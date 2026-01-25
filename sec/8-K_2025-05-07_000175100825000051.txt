@@ -1,0 +1,324 @@
+                                                                   
+                           UNITED STATES                           
+                                                                   
+                                                                   
+                SECURITIES AND EXCHANGE COMMISSION                 
+                                                                   
+                                                                   
+                      Washington, D.C. 20549                       
+                                                                   
+                                                                   
+                             FORM 8-K                              
+                                                                   
+                                                                   
+                          CURRENT REPORT                           
+                                                                   
+                                                                   
+                  Pursuant to Section 13 or 15(d)                  
+                                                                   
+                                                                   
+              of The Securities Exchange Act of 1934               
+                                                                   
+   Date of Report (Date of earliest event reported): May 7, 2025   
+                                                                   
+                       AppLovin Corporation                        
+                                                                   
+      (Exact name of registrant as specified in its charter)       
+                                                                   
+  Delaware                      001-40325      45-3264542          
+  (State or other               -Commission    -IRS Employer       
+  jurisdiction                  File Number    Identification No.  
+  of incorporation)                                                
+                                                                   
+                                                                   
+                        1100 Page Mill Road                        
+                                                                   
+                                                                   
+                    Palo Alto, California 94304                    
+                                                                   
+   (Address of principal executive offices, including zip code)    
+                                                                   
+                          ( 800) 839-9646                          
+                                                                   
+       (Registrant’s telephone number, including area code)        
+                                                                   
+                          Not Applicable                           
+                                                                   
+   (Former name or former address, if changed since last report)   
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR
+
+240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                                                   
+  Title of each class       Trading      Name of each exchange     
+                            Symbol(s)    on which registered       
+  Class A common stock,                  The Nasdaq Stock Market   
+  par value $0.00003        APP          LLC                       
+  per share                                                        
+                                                                   
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17
+CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
+(17 CFR §240.12b-2). Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 1.01 Entry into a Material Definitive Agreement
+                                                                   
+  Purchase Agreement                                               
+                                                                   
+On May 7, 2025, AppLovin Corporation (“AppLovin” or the “Company”)
+and its subsidiaries Morocco, Inc. and AppLovin GmbH (collectively,
+the “Sellers”) entered into a Purchase Agreement (the “Agreement”)
+with Tripledot (“Purchaser Parent”) and its subsidiaries Eton Games
+Inc. and Tripledot Group Holdings Limited (collectively, with
+Purchaser Parent, the “Purchasers”). On the terms and subject to
+the conditions set forth in the Agreement, Sellers will transfer
+the equity interests of certain wholly-owned subsidiaries that are
+engaged in the Company’s mobile gaming business (the “Gaming
+Business”) to Purchasers, for total consideration (the “Purchase
+Price,” and such sale, together with the other transactions
+contemplated by the Agreement, the “Transactions”) consisting of
+(i) $400.0 million in cash consideration, comprised of (a) $150.0
+million to be paid in cash at the closing of the Transactions (the
+“Closing”) and (b) a $250.0 million secured promissory note to be
+issued by Eton Games Inc. (collectively with any other U.S.
+subsidiaries of Purchaser Parent designated as a co-Borrower
+thereunder, “Borrowers”) to the Company or its designated affiliate
+at the Closing (the “Promissory Note”), and (ii) equity
+consideration comprised of ordinary shares of Purchaser Parent
+representing approximately 20% of the fully-diluted equity
+capitalization of Purchaser Parent at the Closing. Purchaser Parent
+anticipates financing a portion of the cash Purchase Price payable
+at the Closing with debt.
+
+The terms of the Promissory Note provide for a maturity of 18
+months from the Closing, with no amortization. The Borrowers are
+permitted to voluntarily prepay the outstanding principal amount of
+the Promissory Note, in whole or in part, without premium or
+penalty. The advance under the Promissory Note bears interest at a
+rate per annum equal to eleven percent (11%). As of the Closing,
+the obligations of the Borrowers under the Promissory Note will be
+guaranteed by all U.S. and U.K. subsidiaries of the Purchaser
+Parent, subject to certain exceptions, and secured by (i)
+substantially all assets of the Borrowers and the U.S. guarantors
+and (ii) a pledge by Tripledot Group Holdings Limited of the equity
+interests held by it in each Borrower and U.S. guarantor, in each
+case subject to permitted liens and certain customary exceptions.
+Within 90 days after the Closing, the obligations of the Borrowers
+under the Promissory Note will also be guaranteed by Purchaser
+Parent and secured by (a) substantially all assets of the U.K.
+guarantors and (b) a share pledge by Purchaser Parent of the equity
+interests held by it in each U.K. guarantor and U.S. guarantor, in
+each case subject to permitted liens and certain customary
+exceptions. The Promissory Note includes negative covenants
+limiting, with certain exceptions, (1) dispositions, (2) changes in
+business, (3) mergers or acquisitions, (4) indebtedness, (5) liens,
+(6) distributions and investments and (7) transactions with
+affiliates; provided that the foregoing covenants allow redemptions
+and repurchases of a certain series of stock of Purchaser Parent up
+to an aggregate amount of $205 million. The Promissory Note also
+contains certain customary affirmative covenants and events of
+default.
+
+The board of directors of the Company and Purchaser Parent each
+unanimously approved the Agreement and the Transactions. In
+addition, at an extraordinary meeting held on May 7, 2025,
+shareholders of Purchaser Parent, constituting the requisite
+shareholder approval under Purchaser Parent’s Amended and Restated
+Memorandum and Articles of Association, approved, among other
+things, the Agreement and the Transactions.
+
+The Agreement contains customary representations, warranties and
+covenants of the parties, including, among others, covenants by the
+Sellers regarding the conduct of the Gaming Business prior to the
+Closing.
+
+The Company has agreed to indemnify Purchaser Parent for losses
+resulting from (i) any breach of any of the covenants to be
+performed by the Sellers in the Agreement, (ii) any fraud by the
+Sellers, (iii) certain pre-closing tax matters as set forth in the
+Agreement, and (iv) certain other specified matters, in each case,
+subject to the limitations set forth in the Agreement. Purchasers’
+sole recourse for breaches of the representations and warranties
+will be a buyer-side representations and warranties insurance
+policy.
+
+The consummation of the Transactions is subject to the satisfaction
+or waiver of certain customary closing conditions, including (i)
+the approval of the Agreement and the Transactions by the requisite
+shareholders of Purchaser Parent and the occurrence of certain pre-
+Closing actions with respect to Purchaser Parent’s capitalization
+structure, (ii) the absence of any law or order preventing or
+prohibiting the consummation of the Transactions, (iii)
+
+expiration of the waiting period under the Hart-Scott-Rodino
+Antitrust Improvements Act of 1976, as amended, (iv) the accuracy
+of each party’s representations and warranties (subject to
+customary materiality and other qualifiers), (v) each party’s
+performance and compliance with its covenants contained in the
+Agreement, (vi) the absence of a material adverse effect on the
+Gaming Business or on Purchaser Parent, and (vii) other closing
+deliverables. The Transactions are not subject to any financing
+condition.
+
+Either Purchaser Parent or the Company may terminate the Agreement
+if (i) the Closing has not occurred before 11:59 p.m. (Pacific
+time) on November 3, 2025, (ii) any final and non-appealable order,
+decree or injunction has been issued by a governmental entity
+permanently prohibiting the consummation of the Transactions, or
+(iii) the other party is in breach under the Agreement such that
+certain conditions to the Closing would not be satisfied and such
+breach is not cured within the time period specified in the
+Agreement. The Agreement may also be terminated by the mutual
+written consent of Purchaser Parent and the Company.
+
+Subject to the satisfaction or waiver of the foregoing conditions
+and the other terms and conditions contained in the Agreement, the
+Transactions are expected to close in the second quarter of 2025.
+
+The Agreement also contemplates that, at the Closing, the Company
+and Purchaser Parent (or their respective affiliates) will enter
+into a number of ancillary agreements. These agreements include:
+(i) an intercompany arrangement agreement (the “Intercompany
+Arrangement Agreement”), which shall govern certain rights and
+obligations between the Company and Purchaser Parent with respect
+to the Gaming Business, including with respect to control of
+certain specified litigation matters, termination of certain
+intercompany agreements and shared services, compliance with
+certain prior agreements, settlement of certain intercompany
+balances, treatment and access to certain records, mail and other
+communications, and repayment of certain payments to the Company as
+necessary, in each case subject to the terms of the Intercompany
+Arrangement Agreement, (ii) a transition services agreement,
+pursuant to which the Company will provide certain transition
+services to Purchaser Parent for the Gaming Business for a period
+of up to six months from the Closing, and pursuant to which
+Purchaser Parent will reimburse the Company for certain costs
+incurred under the transition services agreement during the term,
+(iii) a support agreement pursuant to which certain shareholders of
+Purchaser Parent have agreed, among other things, to vote all of
+their shares in favor of the Agreement and the Transactions at any
+meeting of Purchaser Parent’s shareholders, or in any action by
+written consent of Purchaser Parent’s shareholders, and (iv) an
+information rights agreement pursuant to which Purchaser Parent has
+agreed to provide the Company with certain information rights in
+connection with the Company’s financial reporting.
+
+The foregoing description of the Agreement and the Transactions
+does not purport to be complete and is qualified in its entirety by
+reference to the Agreement, which is filed as Exhibit 2.1 and
+incorporated by reference. The Agreement has been attached as an
+exhibit to this report to provide investors and security holders
+with information regarding its terms. The representations,
+warranties and covenants in the Agreement were made solely for the
+benefit of the parties to the Agreement for the purpose of
+allocating contractual risk between those parties, do not establish
+these matters as facts, and in certain cases are subject to
+separately scheduled exceptions and qualifications. Investors
+should not rely on the representations, warranties and covenants as
+characterizations of the actual state of facts or condition of the
+Sellers, Purchasers or any of their respective subsidiaries or
+affiliates.
+Item 2.02 Results of Operations and Financial Condition
+On May 7, 2025, the Company issued a press release announcing its
+financial results for the quarter ended March 31, 2025. A copy of
+the press release is attached as Exhibit 99.1 to this current
+report on Form 8-K and is incorporated by reference herein.
+
+The information in this Item 2.02 of this current report on Form
+8-K and Exhibit 99.1 attached hereto shall not be deemed “filed”
+for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”) or otherwise subject to the
+liabilities of that section, nor shall it be deemed incorporated by
+reference in any filing under the Securities Act of 1933, as
+amended, or the Exchange Act, regardless of any general
+incorporation language in such filing.
+                                                                   
+  Item 9.01 Financial Statements and Exhibits                      
+                                                                   
+(d) Exhibits:
+                                                                   
+                 Exhibit Description                               
+                 Purchase Agreement, dated May 7, 2025, by and     
+                 among Tripledot, Eton Games Inc., Tripledot       
+  Exhibit No.    Group Holdings Limited, AppLovin Corporation,     
+  2.1†           Morocco, Inc., and AppLovin GmbH.                 
+  99.1           Press Release, dated May 7, 2025.                 
+ ───────────────────────────────────────────────────────────────── 
+  104            Cover Page Interactive Data File (embedded        
+                 within the Inline XBRL document).                 
+                                                                   
+† Certain of the exhibits and schedules to this Exhibit have been
+omitted in accordance with Regulation S-K
+
+Item 601(a)(5). The registrant agrees to furnish a copy of all
+omitted exhibits and schedules to the SEC
+
+upon its request.
+                                                                   
+  Forward Looking Statements                                       
+                                                                   
+This Current Report on Form 8-K contains forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as
+amended, and Section 21E of the Exchange. Forward-looking
+statements in this Current Report on Form 8-K include statements
+regarding the sale of the Company’s Gaming Business and the
+expected closing date of the transactions contemplated by the
+Agreement. These forward-looking statements speak only as of the
+date hereof, and are based on management’s current assumptions,
+beliefs and information. As such, the Company’s actual results
+could differ materially and adversely from those expressed in any
+forward-looking statement as a result of various factors. With
+respect to the Transactions, important factors that could cause
+such differences include, among other things, the risk that a
+condition to closing of the proposed Transactions may not be
+satisfied (or waived), that either party may terminate the
+Agreement or that the closing of the Transactions might be delayed
+or not occur at all; potential adverse reactions or changes to
+business or employee relationships, including those resulting from
+the announcement or completion of the Transactions; the diversion
+of management time on transaction-related issues; and the response
+of competitors to the Transactions, which are difficult or
+impossible to predict accurately and many of which are beyond the
+control of the Company. These forward-looking statements are also
+subject to the risks described in the Company’s filings with the
+SEC. In light of the significant uncertainties inherent in the
+forward-looking information included herein, the inclusion of such
+information should not be regarded as a representation by the
+Company or any other person that the Company’s objectives or plans
+will be achieved. The forward-looking statements in this Current
+Report on Form 8-K are based on information available to the
+Company as of the date hereof, and the Company disclaims any
+obligation to update any forward-looking statements, except as
+required by law.
+                                                                   
+                             SIGNATURE                             
+                                                                   
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+                                                
+                       APPLOVIN CORPORATION     
+  Date: May 7, 2025    /s/ Matthew A. Stumpf    
+ ────────────────────────────────────────────── 
+                       Matthew A. Stumpf        
+                       Chief Financial Officer  
+                                                

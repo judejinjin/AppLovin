@@ -1,0 +1,547 @@
+June 12, 2025
+
+AppLovin (APP): Behind the Red Curtain
+CCP Intelligence, Human Trafficking, Money Laundering; Undisclosed Stock Pledges; Secret Chinese e-Commerce Deals
+
+We are short AppLovin (“APP”, “the Company”) because we believe the Company has blatantly misrepresented the scope of both its Chinese shareholders and its Chinese operations, posing not only risks to shareholders, but national security.
+
+Since our initial February 2025 report, AppLovin has announced its desire to merge with TikTok’s ex-China business, promoting itself as a natural buyer, invoking the patriotic ideals of “national security” and “data security.” Investors, meanwhile, have bid shares higher on the prospect of S&P 500 inclusion, even as insiders continue to dump stock, with $4.6 billion in sales and zero insider purchases in the LTM.
+
+ 
+
+Against this backdrop, AppLovin CEO Adam Foroughi has repeatedly denied AppLovin’s Chinese ownership and operational ties to China. In April 2025, he told Fox News host Bret Baier in response to a question about the Company’s Chinese ownership that “I don’t know any [investors] that make up a material part of our cap table. Everyone’s small.” At the April 2025 Jefferies conference, he claimed that KKR’s 2018 investment in the Company was made “to clear out the Chinese investor.”
+
+ 
+
+We believe AppLovin has been backed since at least 2017 by Chinese national Hao Tang, who – through a web of offshore shell companies and aided by AppLovin’s vague if not deliberately obfuscated disclosures – controlled up to 28% of AppLovin Class A shares ahead of the Company’s 2021 IPO, and continues to control at least 9.8% of Class A shares.1 Further, our research reveals Hao Tang’s numerous ties to the CCP, money laundering, illegal gambling, and human trafficking operations. Finally, undisclosed to AppLovin investors, Tang has entered into various margin loan agreements and share forward transactions that our checks indicate remain open as of at least May 2025.
+
+ 
+
+On the Company’s May 2025 call, CEO Foroughi stated of AppLovin’s e-commerce operations that, “we don’t operate inside China.” Yet we uncovered that in January 2025, AppLovin formed agency agreements with two Chinese AdTech companies – BlueFocus Intelligence (SZ 300058) and eClickTech (SZ 301171) to expand its cross-border e-commerce operations in China. AppLovin has not disclosed either agreement to U.S. investors, even as these Chinese groups now state that, with AppLovin, they will “provide DTC brands with full-link solutions” and “expand the Greater China market” hence “opening up a new growth channel for cross-border e- commerce customers” which “is mainly participated by Chinese companies.” In turn, BlueFocus and eClickTech have been linked to alleged unauthorized data collection, consumer surveillance, and ad fraud.
+
+ 
+
+AppLovin’s covert Chinese ownership and operations raise not only concerns for shareholders, but for national security and data security – the very concerns AppLovin purports to address by acquiring TikTok’s ex-China operations. We suspect AppLovin’s pursuit of TikTok represents the Company’s final “Hail Mary” attempt to alchemize its stock promotion into something lasting. It’s desperate, and doomed.
+
+Summary of Culper Research Opinions
+
+ 
+
+AppLovin Has Been Secretly Backed Since 2017 by Chinese National Hao Tang; the Company Has Obscured His Involvement – Including Undisclosed Stock Pledges – with False or Misleading Disclosures
+In April 2025, in response to a question from Fox News host Bret Baier, Foroughi claimed that “I don’t know any [investors] that make up a material part of our cap table. Everyone’s small.” Similarly, at the April 2025 Jefferies Growth Conference, Foroughi stated that although the Company had issued a convertible note to a Chinese investor, that had “no rights to the Chinese investor”, KKR’s July 2018 investment was made “to clear out the Chinese investor.” In short, Foroughi portrays AppLovin’s Chinese investor as a mere blip – ancient history.
+ 
+
+Hao Tang’s involvement in AppLovin traces back to Chinese private equity group Orient Hontai’s 2016 attempt to acquire AppLovin, which was blocked by the Committee on Foreign Investment (“CFIUS”) citing national security concerns. Instead, in 2017, Orient Hontai and its affiliates invested via a minority equity stake and convertible notes, which were then also issued warrants such that by AppLovin’s 2021 IPO, two entities – Angel Pride Holdings and Hontai App Fund – owned 28% of AppLovin’s Class A shares. In late 2023, Hontai App Fund distributed the vast majority of its stake to a new offshore entity, Midterm Success.
+AppLovin disclosures suggest that Angel Pride and Midterm Success are independent, and yet both entities link back to Hao Tang: (a) Angel Pride’s BVI filings disclose “Mr. Tang Hao” as guarantor of its undisclosed margin loan agreement, (b) Angel Pride’s directors include Tang proxies, (c) its shareholder, Prominence Trust, shares an address and personnel with Tang’s vehicle Goldenway (d) Angel Pride and related entities list addresses co-occupied by other Tang vehicles, like Southwind Media and Goldenway Japan, (e) disclosed individuals including Hong Wai Cheng and Lewis Ho serve similar roles across Tang’s network, (f) Hao Tang is the sole director of an HK-registered company that registered a trademark for “Angel Pride Holdings Limited” in October 2021.
+ 
+
+We uncovered BVI filings which reveal that from 2022 through at least May 2025, both Angel Pride and Midterm Success entered into various margin loan agreements and share forward transactions. These same filings explicitly name Hao Tang as guarantor of Angel Pride’s margin loan. None of this has been disclosed to AppLovin investors, but we believe this violates SEC reporting and disclosure rules. For example in August 2024, Carl Icahn settled SEC charges alleging similar failures.
+We believe that across all of Tang’s offshore entities – Angel Pride Holdings Ltd, Midterm Success Ltd, Hontai App Fund Ltd, and Discovery Key Investments – Tang effectively controlled 28% of Class A shares ahead of AppLovin’s 2021 IPO and at least 9.8% today, if not more through undisclosed stakes. In our view, this history defies any suggestion that Foroughi is somehow unaware of “any investors that make up a material part of our cap table.”
+ 
+
+AppLovin’s historical disclosures surrounding Tang are riddled with irregularities. For example, in 2021, AppLovin described 14% shareholder Angel Pride Limited as being run by Canadian citizen “Mr. Tang Ling.” AppLovin later corrected this to “Ms. Ling Tang.” AppLovin then inexplicably removed all references to Angel Pride in its 2022 and 2023 proxy statements, despite continued shareholdings that should have triggered disclosures. Finally, AppLovin claimed in 2024 that it repurchased 3 million shares from Angel Pride, but in the same filing conflated Angel Pride with Midterm Success, undermining their claims to independence.
+In January 2025, less than two weeks after the U.S. Supreme Court upheld the TikTok ban-or-divest law, Tang’s entities abruptly reported that their AppLovin ownership had fallen to 9.8% – just below the 10%
+
+ 
+
+disclosure threshold. In light of what we believe to be AppLovin’s numerous reporting failures – including disclosure irregularities, its failure to properly recognize Hao Tang’s holdings as a group, and undisclosed margin loans – we find it plausible, if not incredibly likely that this reported decline reflects transfers to undisclosed entities, meant to “clean up” AppLovin’s shareholder register ahead of its TikTok push.
+
+Hao Tang Holds Numerous Ties to Chinese Intelligence, CCP Propaganda Outlets, Human Trafficking, and Money Laundering Operations
+ 
+
+We believe Hao Tang is a bad actor with extensive direct and indirect ties to Chinese espionage, CCP state-sponsored propaganda, human trafficking, and money laundering operations. Indeed, seemingly every piece of Hao Tang’s empire we peeled back revealed either CCP interests or nefarious activity.
+In 2024, a UK tribunal ruled in favor of a whistleblower at Hao Tang’s Goldenway Group, who exposed Goldenway’s attempt to launder money and sponsor a Chinese intelligence agent for UK citizenship. Numerous Chinese media outlets reported that Goldenway operated a fraudulent forex platform. One source reported that investors who protested Goldenway in Hong Kong found themselves beaten by hired
+ 
+
+In 2023, Chinese diplomat Qin Gang and state-backed media host Fu Xiaotian disappeared after reports that they had a child via U.S. surrogate. Fu was last seen boarding a jet to Beijing. The jet was registered to a Utah trust, disguising its ownership. However, our review of purchase records, FAA records, and ADS-B logs reveal that Tang’s Goldenway Investments operated the jet, suggesting he retains high level CCP
+In 2021, Hao Tang appears to have lent money to Huang Youlong via JC International Finance (formerly Goldenway Finance). Youlong was later linked to Myanmar’s infamous KK Industrial Park – called a “fraud factory, and a human trafficking hub” run in part by Youlong’s cousin, She Zhijiang,
+
+and associated with former Chinese triad leader “Broken Tooth.”
+ 
+
+Tang appears to control BVI-based Southwind Media. Southwind’s website explicitly refers to AppLovin one of its “discreet investments.” AppLovin SEC filings never mention Southwind, raising questions of potential further undisclosed ownership and of Southwind’s intentions. In 2023, Southwind executed a takeover of Spain’s Mediapro, and in August 2024, Mediapro signed a deal with China Media Group – the de facto propaganda arm of the CCP.
+ 
+
+Tang is linked to the FortuneGate casino network, while the Chairman of FortuneGate’s primary investor is Chinese national Liduan Wang, who in May 2025 was denied Filipino citizenship amid accusations of backing illegal offshore gaming (“POGO”) operations. In 2023 and 2024, raids on Wang-linked POGO operations uncovered “love scams, online game manipulations and other forms of investment fraud” as well as “kidnapping, illegal detention, and human and sex trafficking activities.”
+Tang is linked to the failed acquisition of EFL football club Hull City. An EFL announcement implies Tang’s co-ownership of the team was the reason for its failure. Tang’s partner went on to acquire a different club, Reading City, without him. If Tang’s potential ownership can derail the takeover of a second-tier English football club, it should easily disqualify AppLovin from merging with TikTok’s ex- China operations.
+ 
+
+AppLovin Claims No e-com Operations in China, But In January 2025, Formed Two Undisclosed Partnerships with Chinese Operators, Each of Which Have Been Tied to Fraud and Illegal Surveillance
+ 
+
+AppLovin CEO Foroughi claimed on the Company’s Q1 2025 conference call in May 2025 of the Company’s fledgling e-commerce operation that, “We don’t operate inside China.”
+However, we uncovered that in January 2025, AppLovin signed deals with two Chinese AdTech companies – BlueFocus (SZ 300058) and eClickTech (SZ 301171) – to expand e-commerce operations in China. AppLovin has not disclosed either agreement to U.S. investors.
+ 
+
+According to eClickTech and BlueFocus, they will “work closely” with AppLovin to “be able to provide DTC brands with full-link ..” and “expand the Greater China market” hence “opening up a new growth channel for cross-border e-commerce customers.” EClickTech calls out that “cross-border e- commerce is mainly participated by Chinese companies. Therefore, AppLovin hopes to expand the Greater China market through the agency model, and we have become its first first-level e-commerce agency.”
+In April 2024, cybersecurity firm Silent Push published research showing that domains linked to eClickTech were collecting unauthorized analytics data from dozens of UK government websites.
+ 
+
+In 2018, eClickTech was banned from Google, flagged as a “malicious ad network” after its SDKs were found responsible for fraudulent app install tracking.
+In September 2017, BlueFocus attempted to merge with the then Michael Brauser and Phil Frost controlled Cogint (which became Fluent). The deal fell through – incredibly similarly to AppLovin’s deal with Orient Hontai – blocked by CFIUS. Brauser and Frost earned SEC charges several months later.
+ 
+
+In 2019, BlueFocus came under scrutiny for its 20% ownership of Behe Technology, which was exposed for having deployed “probe boxes” that captured device mobile device IMEIs, allowing for large-scale surveillance. BlueFocus disclaimed knowledge of the probe box operation.
+
+In 2020, a subsidiary of BlueFocus attempted go public in the U.S. via a SPAC The deal once again fell through, and the merger partner took Parts ID public instead. Parts ID is now bankrupt.
+ 
+
+These deals raise alarm bells especially in the context of AppLovin’s own privacy policy, which allows the Company to share information with any of its service providers, affiliates, and advertising partners.
+AppLovin markets itself as a strategic alternative to Chinese ownership of TikTok, but the substance and disclosures around the Company’s ownership and its deals in China suggests otherwise. Indeed, these issues raise not only concerns about AppLovin’s business, but national security. If the Company is genuinely concerned with national security, it should begin by fully disclosing the very relationships it claims don’t even exist.
+
+ 
+
+AppLovin CEO Foroughi Claims No Major Chinese Shareholders, “Cleared” From the Cap Table in 2018 – False.
+In an April 2025 interview with Fox News’s Bret Baier, CEO Adam Foroughi claimed in response to a question about AppLovin’s Chinese shareholders that, “I don’t know any [investors] that make up a material part of our cap table. Everyone’s small.”
+
+ 
+
+Similarly, at the Jefferies Growth Conference in April 2025, CEO Foroughi was asked to “skim the chapter” about how the Company “almost sold to a Chinese buyer,” CEO Foroughi claimed that the Chinese had “no rights” and that KKR’s later investment was “to clear out the Chinese investor.” Foroughi paints the picture that the Chinese are gone, as if this chapter was a blip in ancient history.
+
+ 
+
+“We ended up restructuring the deal to be a convertible note, no rights to the Chinese investor, the money comes in, I dividend it to the team, and everyone gets the liquidity they desire, but then I’m stuck with a messy cap table situation… At the same time as letting the Chinese get in on this convertible note, I went and started talking to KKR, got to know the partner there Herald Chen well. They ended up coming in and investing $400 million plus $800 million term loan debt, to clear out the Chinese investor, redo the cap table. We put the first board: myself, Herald Chen, and then Eduardo Vivas, the business partner I said I’d had since 2008. So finally, we now looked like a typical Silicon Valley company for the first time.”2
+
+ 
+
+We can’t find any evidence to suggest that KKR “cleared out” the Chinese investor. Rather, we believe that Chinese national Hao Tang continued to control upwards of 28% of AppLovin’s Class A shares ahead of the Company’s 2021 IPO, and 15% as of 2024. Hao Tang’s stake has been obscured not only by supposedly independent offshore shells, but AppLovin’s vague and irregular if not intentionally obfuscated disclosures.
+
+In our view, this defies any suggestion that Foroughi is somehow unaware of “any investors that make up a material part of our cap table.”
+
+ 
+
+Hao Tang’s involvement traces back to September 2016, when AppLovin agreed to be acquired by Chinese private equity group Orient Hontai for $1.4 billion.3 However, the deal was blocked by the U.S. Treasury’s CFIUS, citing national security concerns. Thus, in September and November 2017, Orient Hontai circumvented the full purchase by taking a $140 million equity stake (9.98% at the time) and investing another $841 million into newly issued convertible notes.4 In July 2018, AppLovin paid off the convertible notes, realizing a loss of
+
+$423 million. It seems that this transaction is what Foroughi referred to as “clearing out” the Chinese investor. Yet this supposed clearance triggered the release of warrants, which AppLovin granted to two entities: Angel Pride Holdings Limited and Hontai App Fund Limited Partnership.5 Thus, ahead of AppLovin’s 2021 IPO, Angel Pride and Hontai App Fund controlled 52.2 million shares, or 28.1% of total Class A shares:
+
+Angel Pride’s BVI filings reveal that “Mr. Tang Hao” is the guarantor of Angel Pride’s undisclosed stock pledge / margin agreement, as we show on pages 11 and 12 of this report.
+ 
+
+In October 2021, AP Investment Capital Company Limited registered a trademark for “Angel Pride Holdings Limited.” Hao Tang is the sole director of AP, according to Hong Kong records.8
+AppLovin discloses Angel Pride’s sole shareholder as Prominence Trust, which lists an address at 18/F Three Exchange Square, Hong Hao Tang and Discovery Key Investments have both previously
+listed their own locations at the same address.9 Hao Tang is also listed as a Director of Worthy Corporation (H.K.) Limited, which shares the same address.
+
+Prominence Trust names Lewis Ho as “Director/Operations Manager.” Lewis Ho names himself as serving in the same role for Goldenway Group. Lewis Ho is also named as a Director of JC International Finance Limited, previously known as Goldenway Finance Limited. Goldenway, as we will discuss in full, is one of Hao Tang’s primary corporate vehicles.
+ 
+
+Prominence Trust and Angel Pride both name Hong Wai Cheng as signatory.10 Hong Wai Cheng is also Director and Chair of the Audit Committee at International Entertainment Corporation (“IEC”) which was funded in part by Goldenway. Hong Wai Cheng serves on IEC’s board alongside Min Yan “Melvin” Zhang, COO of Goldenway Group.11 Hong Wai Cheng was also listed as the Executive Chairman and CEO of FortuneGate Holdings Philippines, a holding company with an 18% stake in former ASX-listed Fortune Capital Group (ASX:FCG), which once inadvertently and “mistakenly” disclosed that it had fallen under control of Hao Tang’s Goldenway Group.12
+ 
+
+Angel Pride’s BVI filings list its directors as Hong Wai Cheng (an accountant) and Chung Kiu Kevin Shum (a lawyer), both of whom are Hao Tang proxies.13
+Angel Pride and Ling Tang (or Tang Ling) list an address at Unit 11, 22/F Global Gateway Tower, 61
+– 63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong. This address is shared by Southwind Media Holdings, Goldenway Japan, and Kunshan Technology Investment (HK) Limited, each of which are Hao Tang affiliated entities.
+
+ 
+
+Further, AppLovin’s own historical disclosures of Angel Pride contain glaring irregularities, bolstering our concerns both of Hao Tang’s undisclosed ownership and the Company’s current reporting.
+ 
+
+In the 2021 Form 3 disclosing Angel Pride’s initial ownership, the Company describes one “Mr. Tang Ling” as the “shareholder and sole director” of Angel Pride.
+
+However, five months later, Angel Pride filed an amended Form 3 which stated instead that “Ms. Ling Tang” held discretion over the shares. Ling Tang was later described as being a citizen of Canada.
+
+Angel Pride disappears and reappears in AppLovin’s proxy statement disclosures without explanation. In both November 2021 and in May 2023 (representing ownership as of December 2022), Angel Pride reported
+
+9 See addresses listed by both Midterm Success and Discovery Key.
+
+10 See Angel Pride Schedule 13G.
+
+11 Hao Tang also appointed Min Yan Zhang as a board observer of The Stars Group Inc (formerly TSG) in connection with Tang’s 2018 investment into the company.
+
+12 See page 21 of this report.
+
+13 See Appendix for BVI screenshot. Both Shum and Cheng also appear alongside Hao Tang at UK-based Tier One Advisory.
+
+ 
+
+holding 25,362,775 shares (over 5% of total Class A).14 Yet neither AppLovin’s April 2022 nor April 2023 proxy statements contain any disclosures of Angel Pride’s ownership – the entity simply disappears.
+
+Source: April 2022 Proxy Statement
+
+Source: April 2023 Proxy Statement
+
+In AppLovin’s April 2024 proxy statement, Angel Pride re-appears with 20,493,747 shares (7.5%), suggesting that Angel Pride’s stake had always remained above 5%, and should have been disclosed by AppLovin as such.
+
+Source: April 2024 Proxy Statement
+
+AppLovin has also mistakenly referred to Angel Pride as Midterm Success, even as the two groups are disclosed as if they are independent. In AppLovin’s April 2024 proxy, the Company claimed that Angel Pride’s then 20,493,747 share ownership was based on an earlier 13G filing which had then been “adjusted to give effect to our subsequent repurchase of 3,000,000 shares of Class A common stock from Angel Pride on March 7, 2024.” Yet Angel Pride’s total ownership didn’t change from February to April 2024. Elsewhere in the proxy, AppLovin reveals that it actually repurchased the shares from Midterm Success, not from Angel Pride.
+
+Source: April 2024 Proxy Statement
+
+BVI Filings Reveal Undisclosed Margin Loans from both Angel Pride and Midterm Success; Hao Tang Named as the Guarantor
+We uncovered BVI filings that reveal Angel Pride and Midterm Success also appear to have – undisclosed to AppLovin investors – pledged their AppLovin holdings against margin loan and structured equity trade agreements.15 These same filings reveal Hao Tang as the guarantor of Angel Pride’s agreement, shattering any remaining illusion of independence.
+
+ 
+
+As of our May 2025 checks, charges remained outstanding against both Angel Pride and Midterm Success.
+ 
+
+In January 2022, (8 months after APP’s IPO) JP Morgan filed a charge against Angel Pride for a margin loan collateralized by a “continuing security interest in and right of set-off as to… securities, cash, and any other property of every kind maintained in or credited to the Account” held at JPMorgan.16
+
+Source: BVI Financial Services Commission
+
+Similarly, in April 2024, HSBC filed a charge to Midterm Success, secured by “stocks, shares…and all other assets and property” in exchange for a banking facility consisting of “loans…margin trading…or other financial accommodation[s] extended to the Customer.” This charge also remained open as of our May 2025 inquiry.17
+
+In addition to the undisclosed margin loans, both Angel Pride and Midterm Success signed account control and ISDA agreements with JP Morgan, providing for share forward transactions.
+
+Angel Pride’s first such charge was registered in June 2023, secured by “any and all securities and instruments delivered by the Company [Angel Pride].” The filing specifies a “transaction” as a “share forward transaction.”
+
+Source: BVI Financial Services Commission18
+
+In August 2024, JP Morgan filed an additional charge to Angel Pride for the margin loan, ISDA, and account control agreements.
+
+Source: BVI Financial Services Commission19
+
+Angel Pride’s Amended Memorandum of Association – available via BVI filings – reveals that its margin loan was guaranteed by Hao Tang.
+Source: BVI Financial Services Commission20
+
+Per APP’s 2024 proxy statement, Angel Pride and Midterm Success respectively owned 7.5% and 7.4% of the Company’s shares outstanding as of March 2024. These combined shareholdings would push Hao Tang well above the “insider” classification triggered by a position of more than 10% in the Company’s shares. AppLovin filings never reflect this shared control.
+
+ 
+
+Per our own review of the SEC’s Rule 13d-5(b)(1), Hao Tang’s guarantee would almost certainly qualify as an “agreement to act together for the purpose of holding the issuer’s equity.” In this case, Hao Tang and his entities would have been classified as a greater than 10% shareholder, making him a de facto Company insider and triggering required Form 4/5 filings related to any derivative or swap transactions taken in the Company’s shares21 – which appears to be the case here.22
+
+ 
+
+In April 2024, Carl Icahn was fined by the SEC for failing to properly disclose his pledged IEP shares guaranteeing billions in personal loans.
+
+ 
+
+January 2025: Chinese Ownership Coincidentally Falls Below 10% Ownership as AppLovin Preps TikTok Push
+In light of AppLovin’s disclosure irregularities and the mountain of evidence linking Hao Tang to Angel Pride, we view AppLovin’s recent ownership disclosures with incredible skepticism.
+
+ 
+
+Consider that as of the latest 2024 disclosures available, Angel Pride owned 20,493,747 shares, and Midterm Success owned 20,167,242 shares, for a total of 40.6 million shares, or 14.8% of total Class A shares.23
+
+ 
+
+On January 17, 2025, the Supreme Court upheld the TikTok “divest-or-ban” law, setting the stage for TikTok to either be banned in the U.S. or acquired by a third party.
+
+On January 30, 2025 – less than two weeks later – Angel Pride and Midterm Success filed updated 13G filings reporting ownership of 17.2 million shares (5.8%) and 9.97 million shares (3.3%), respectively.24 Midterm also disclosed that it transferred a portion of its shares to Discovery Key Investments Limited, another Hao Tang entity, which now holds 2.0 million shares (0.7%).25 This represented the single largest reported decline in the group’s shareholdings, and put their collective ownership at 29.2 million shares, or 9.8% of Class A shares outstanding, just below 10% disclosure thresholds.
+
+In light of what we believe to be AppLovin’s numerous reporting failures – including disclosure irregularities, its failure to properly recognize Hao Tang’s holdings as a group, and undisclosed margin loans – we find it plausible, if not incredibly likely that this reported decline reflects transfers to undisclosed entities, meant to “clean up” AppLovin’s shareholder register ahead of its TikTok push.
+
+Hao Tang’s Ties to CCP, Money Laundering, Human Trafficking, and Data Harvesting Operations
+So who is Hao Tang – AppLovin’s longtime Chinese backer tied to Angel Pride, Midterm Success, and Discovery Key? In what follows, we detail – using entirely public sources – Hao Tang’s numerous connections tie to Chinese espionage, propaganda, data harvesting, human trafficking, money laundering, murder-for-hire, and other such unsavory operations. The below is a visual summary of a few of our most salient views.
+
+Hao Tang’s Goldenway Group: UK Tribunal Rules in Favor of Whistleblower Who Alleged Money Laundering and Chinese Espionage
+One of Hao Tang’s primary investment and operating vehicles is the Goldenway group of companies, including as founder and CEO of Goldenway, Inc.26 Goldenway claimed to offer online forex and precious metals trading services to Chinese nationals.
+
+ 
+
+In 2011 – the heyday of the “China Hustle” era – Tang looked to take Goldenway public via a reverse takeover of a Nevada shell company, Cyber Informatix, Inc. The U.S. listing was short-lived. In 2012, the company filed a Form F-4 to redomicile to Hong Kong, and voluntarily delisted in 2014. Ownership filings suggest that Tang’s stake – held through a series of offshore trusts – was as high as 95% prior to the delisting, suggesting that he remained in control of the company after its delisting.27
+
+In 2017, the U.K.’s Financial Conduct Authority (FCA) imposed restrictions on Goldenway’s UK arm after a whistleblower alleged that the company engaged in money laundering, fraudulent intercompany loans, and had attempted to secure a work visa for a Chinese intelligence agent. In 2024, the UK employment tribunal ruled in the whistleblower’s favor, validating the claims and awarding the whistleblower £560,000.
+
+Source: UK Employment Tribunal Judgement
+
+The whistleblower alleged that he found a “multi-million sum” that the company had attempted to send to a Vanuatu-based company, GWFX Global.28 In 2020, Malaysian authorities identified GWFX Global as an “online investment scam” in connection with a crackdown on fraudulent FX trading platforms. Numerous victims alleged that GWFX wouldn’t allow withdrawals and accused it of being a scam. Some victims reportedly traveled to Hong Kong to seek redress, to find themselves beaten to the point of needing hospitalization.
+Source: Sohu
+
+Whistleblower documents also alleged that Goldenway made fraudulent intercompany loans to Goldenway Japan Co (GWJ), also known as FXTF Holdings, an FX trading platform. In May 2018, Singaporean entrepreneur Eric Cheng acquired FXTF and its affiliate cryptocurrency trading platform, BitTrade Co., Ltd. Just four months later, Cheng sold a majority stake in BitTrade to Huobi Global (“HTX”). In April 2019, Huobi Japan was raided by Japanese authorities, citing oversight, customer protection, and money laundering concerns. Goldenway manager Ng Yat Fan remains named on FXTF’s Singapore filings to this day.
+Source: FXTF Singapore Filings
+
+Goldenway Operated the Jet on which Now Disappeared CCP Journalist Fu Xiaotian was Last Seen
+Hao Tang also appears to be linked to the 2023 disappearance of former CCP state journalist Fu Xiaotian and State Councilor Qin Gang, suggesting he retains high-level CCP connections.
+
+In 2022, Fu Xiaotian, a Chinese state media journalist, reportedly developed a relationship with Qin Gang, a Chinese diplomat later promoted to State Councilor. Qin then reportedly fathered a child with Fu via U.S. surrogate. WSJ reports suggested that China began an investigation into Qin, concerned with potential national security compromises. Fu and Qin both disappeared shortly thereafter. In June 2023, Fu reportedly stopped responding to messages from personal friends, while Qin similarly disappeared from public view. In July 2023, the Chinese foreign ministry announced that Qin Gang had stepped down, citing “lifestyle issues.” Their whereabouts remain unknown to this day.
+
+Fu’s last public postings were in front of a Gulfstream 650 set to fly from Los Angeles to Beijing. The aircraft (N333GW) was registered to a Utah trust, obscuring its ownership. However, we uncovered FAA records that reveal Goldenway Investments Holdings Limited was the operator of the N333GW at the time of Fu’s disappearance, confirmed as a Gulfstream 650, checked via ADS-B and AGHME in July and August 2023.29 This suggests to us that Tang retains high-level connections within the CCP.
+
+Source: X, citing Fu Xiaotian social media
+
+Hao Tang’s Southwind Media: Self Described “Discreet” Investor in AppLovin, While Also Partnering with CCP Propaganda Arm
+Southwind Media appears to be a private holding company also controlled or otherwise affiliated with Hao Tang: Tang appears as a director in Southwind’s Hong Kong filings;30 Southwind’s British Virgin Islands filings list an address that overlaps with other Tang entities;31 Southwind’s Japanese subsidiary is named as the parent company of Goldenway Japan, another Tang entity.32
+
+Southwind’s website names AppLovin as a “discreet investment” alongside other investments including Mediapro, Pony.ai, and WeDoctor – groups with ties to the CCP. AppLovin never mentions Southwind in any of its SEC filings.
+
+Source: Southwind Media
+
+Southwind’s history with Joye Media a.k.a. Mediapro is concerning particularly in light of AppLovin’s ownership history and what appear to be AppLovin’s current undisclosed eCommerce agency agreements in China.33
+
+In 2017, Orient Hontai reportedly purchased a majority stake in Spain-based Imagina, known locally as Mediapro, for $1 billion. By 2021, Mediapro was forced to restructure its debt, and was reportedly set to receive a capital injection from a fund set up by Orient Hontai. However, the deal was questioned by Mediapro creditors who alleged that Hao Tang was the primary investor in the fund – they did not want to cede control to Tang. Nevertheless, in July 2022, Southwind acquired a majority stake in Mediapro.34
+
+ 
+
+In 2023, Mediapro’s long-time CEO Jaume Roures was reportedly ousted at the request of Southwind. Spanish media outlets claimed Roures and Southwind disagreed over the future direction of the Company.
+
+ 
+
+In August 2024, Mediapro signed an agreement with China Media Group – widely known as the CCP’s propaganda arm. The deal allows the groups to “cooperate at the global level in sharing media equipment and resources; launching exchanges of personnel; joining hands in producing and broadcasting news, TV shows, documentaries and special programs; and enhancing cooperation in sports and other sectors.”
+
+ 
+
+Source: Cronica Global
+
+Hao Tang’s Ties to HongShan, ByteDance, and CCP-Censored RedNote
+Despite layers of shell companies that obscure control, Hao Tang appears to be connected to HongShan (Sequoia China) and by extension, ByteDance and the CCP-censored TikTok alternative RedNote, through shared holdings of Hong Kong-based Montclair Trustees Limited. Filings reveal that Montclair Trustees (Hong Kong) Limited is the owner of Fenton Capital Inc. and the trustee of the Fenton Trust, of which Hao Tang is “the sole” beneficiary.
+
+Source: Goldenway Investments Holdings / Prosperous Future HKEX filings
+
+ 
+
+According to Hong Kong filings35, Montclair’s shareholders also include Green Frontier Limited – affiliated with Xu Xiaoping, who founded ZhenFund alongside Sequoia Capital China.36
+
+In June 2023, Sequoia China split from its U.S. core amid mounting pressure from Washington, and rebranded as HongShan. In October 2023, the United States House Select Committee on Strategic Competition between the United States and the Chinese Communist Party accused HongShan of funneling U.S. capital into investments that have contributed to human rights abuses and the CCP’s military modernization.
+
+ 
+
+Notably, HongShan and ZhenFund have invested in ByteDance (HongShan’s Neil Shen holds a board seat) and in TikTok/Instagram alternative RedNote, which follows CCP censorship guidelines.
+
+Hao Tang Lent Millions to Huang Youlong, an Investor in Myanmar’s Infamous “KK Park” Human Trafficking Hub Raided in February 2025
+Hao Tang also appears to have lent money to Huang Youlong, who was reportedly involved with the infamous “KK Park” human trafficking operation in Myanmar.37
+
+ 
+
+In June 2021, Chinese media reported that Youlong and his ex-wife, Chinese actress Vicky Zhao, were sued after failing to repay debts owed to JC International Finance Limited. JC was previously known as Goldenway Finance Limited, while Tang-affiliated Lewis Ho lists himself as being a director of JC, further linking JC back to Hao Tang.38
+
+ 
+
+In January 2025, a probe into the disappearance of Chinese actor Wang Xing led to speculation that Huang Youlong was also involved in the KK Industrial Park – called a “fraud factory, and a human trafficking hub” where workers are lured or kidnapped into forced labor. The park was raided in February 2025.
+
+“When Huang Youlong and Zhao Wei were having difficulties in business, She Zhijiang invited his cousin to invest in the project… Many sources said that Zhao Wei was involved in the illegal activities… In fact, Zhao Wei and Huang Youlong have always made money in the gray area. Many of the companies they own in China are just shells, with no real business activities.”
+
+ 
+
+Source: Lao Dong News, Vietnam
+
+In February 2025, Myanmar soldiers raided KK Park, rescuing trafficked workers. The park was run by She Ziajing – the cousin of Youlong – who is now being held in a Bangkok prison.
+
+ 
+
+Source: The Nation, Thailand
+
+Hao Tang’s Ties to FortuneGate: Linked to CCP Espionage, Money Laundering, and Human Trafficking Operations
+Hao Tang and his associates are also tied to FortuneGate (aka Frontier Capital Group), a Philippines casino operator tied to Chinese national Liduan Wang, who in turn has been linked to multiple Chinese espionage and human trafficking operations.
+
+ 
+
+Frontier Capital Group (formerly ASX FCG) went public in 2011 as a mining company. In 2016, the company acquired the Stotsenberg Hotel and Casablanca casino in the Philippines, rebranded the casino as FortuneGate, and formed a partnership with E!xcite Gaming and Entertainment Inc. to manage the casino.
+
+In 2017, the casino was shuttered by local authorities after failing to pay for its gaming license.39 The announcement stated that FortuneGate Holdings Philippines (“FHP”) had been appointed managers of the casino:
+
+ 
+
+“FortuneGate Holdings Philippines Inc, part of Hong Kong’s Goldenway Investment Holdings Limited Group, have been appointed managers of the casino on customary commercial terms.”
+
+ 
+
+Two days later, however, FCG issued a correction which claimed that FHP was not a part of Goldenway, but instead an “independent casino operator… majority owned by Tech Innovation Management Limited, a BVI registered company.”40 This seems to us less like a clerical error and more like an attempt to distance Goldenway from the casino.41 In either event, FCG’s 2020 annual report reveals by year-end 2019, its major holders included
+
+StarCap Management Inc and FortuneGate Holdings Philippines Inc (“FHP”) – each of which not only traces back to Hao Tang despite FCG’s ‘correction’ but raises a new set of concerns.42
+
+FHP’s filings name (“Henri”) Ho Wong Meng as CEO, tying the group back to Hao Tang via IEC.43 Henri also signed as director of StarCap Management Inc.
+
+Source: Philippines SEC
+
+ 
+
+Signing for FHP as Chairman was Liduan Wang – a Chinese businessman who has been repeatedly tied to Chinese espionage and POGO-enabled criminal operations.
+In March 2025, Wang was reportedly found in a raided POGO operation, and in April 2025, Philippines President Ferdinand Marcos Jr. vetoed Wang’s pending citizenship.
+
+ 
+
+–     Liduan Wang was incorporator of New Oriental Club 88 Corporation, a massive POGO operator that was shut down in 2019 after allegations of tax evasion and reliance on de facto slave labor.
+
+Source: Twitter/X
+
+Liduan Wang was also reportedly tied to the Nine Dynasty Casino In May 2025, Philippines media widely reported that the junket was used to launder ransom payments and the paid murder of Chinese steel magnate Anson Que.
+Source: PhilStar Global
+
+ 
+
+The Nine Dynasty junket also shares directors with Rivendell Gaming Corp, a POGO that was raided in August 2023 for “various forms of scams” including “love scams, online game manipulations and other forms of investment fraud” according to the Philippines DOJ.
+ 
+
+According to January 2025 media reports, Liduan Wang also owns Avia International Club, a nightclub located above a the Yatai Spa. The spa is being monitored for connections to the similarly-named Yatai International Holding Group. Yatai, in turn, is owned by self-confessed Chinese spy She Zhijiang, the cousin of Youlong whose operations were linked to human trafficking and extortion scams.
+ 
+
+In August 2024, authorities arrested Liduan Wang’s 25-year-old granddaughter, Cassandra Li Ong, as director of Lucky South 99, yet another POGO that was reportedly “used by its incorporators and Chinese big bosses for illegal activities, including scams, kidnapping, illegal detention, and human and sex trafficking activities.” The raids reportedly found Chinese military uniforms, SIM cards, torture devices, and videos recording kidnappings, torture, and human trafficking – a bloodied man chained to a bedpost, a woman being sold online, and other atrocities.44
+Hao Tang’s Bid For Hull City: Rejected by EFL
+Hao Tang also appears as director of UK-based Renhe Goldenway Sports Management Co Limited alongside Dai Yongge and Yongge’s sister Dai Xiu Li.45 The entity appears to have been formed with the intent to purchase English Football League (“EFL”) team Hull City AFC – a purchase that was blocked by the EFL seemingly on account of Hao Tang’s involvement. Yongge went on to purchase Reading FC via a new entity, Renhe Sports Management Co Limited – formed just four months after Renhe Goldenway – without Hao Tang. According to a statement by the EFL:
+
+ 
+
+“The reason Mr Dai did not procced with a purchase at Hull City was related to the involvement of a separate individual. This individual was not involved in the subsequent purchase of Reading…”
+
+Dai Yongge also appears to hold CCP connections. Chinese media reports that Yongge:
+
+ 
+
+“had close ties with the family of former Chinese Vice President Zeng Qinghong, and Zeng Qinghong’s daughter-in-law Jiang Mei and Dai Yongge had engaged in illegal fundraising and money laundering activities, suspected of laundering more than 100 billion yuan.”
+
+In March 2025, the EFL disqualified Dai Yongge from ownership of the team under the EFL Owners and Directors Test, with media reports citing his disqualification stemmed from “business matters in China.” In May 2025, the club was sold to American businessmen Todd Trosclair and Rob Couhig.
+
+ 
+
+If Tang’s potential ownership can derail the takeover of a second-tier English football club, it should easily disqualify AppLovin from merging with TikTok’s ex-China operations.
+
+January 2025: AppLovin’s Two Undisclosed Chinese Agency Agreements
+On AppLovin’s Q1 2025 earnings call on May 7, 2025, CEO Foroughi claimed explicitly that “we don’t operate inside China.”
+
+Yet in January 2025, AppLovin formed agreements with two Chinese AdTech companies – EClickTech (SZ 301171) and BlueFocus (SZ 300058) to serve as AppLovin’s eCommerce agents in China – and has never disclosed these agreements to U.S. investors.
+
+We find these agreements especially alarming in the context potential data being sent to China, and AppLovin’s own disclosures, which permit the Company to share user information with any of its service providers, affiliates, and advertising partners.
+
+ 
+
+EClickTech: AppLovin Partner Alleged to be Engaged in Data Harvesting
+In January 2025, Chinese AdTech firm eClickTech (SZ 301171) announced that “it has become the first first-level e-commerce agent of AppLovin in Greater China” which the company called a “milestone cooperation” in which “the two parties will work closely together in the future and provide DTC brands with more new paths for global growth through innovative in-app advertising solutions.”46 AppLovin has never disclosed this partnership, nor mentioned Cyberklick, Yeahmobi, or EClickTech in any SEC filings.
+
+Source: eClickTech
+
+According to a subsequent January 2025 interview with Cyberklick SVP Yaya Yang,
+
+ 
+
+“I am very honored to be the first Tier 1 agent of AppLovin in Greater China at this point in time. In 2024, Cyberklick released the AI+BI+CI full-link digital solution for going global. I believe that with this as a basis and the new capabilities of AppLovin, Cyberklick will be able to provide DTC brands with full- link solutions…”
+
+ 
+
+In a February 2025 interview, Wang Ping, Secretary of Cyberklick / YiDianTianXia, stated, in part:
+
+“In 2024, AppLovin began to explore the e-commerce track. Considering the scattered e-commerce customers, the huge market potential, and relying on China’s supply chain advantages, cross-border e- commerce is mainly participated by Chinese companies. Therefore, AppLovin hopes to expand the Greater China market through the agency model, and we have become its first first-level e-commerce agency with the rich e-commerce customer resources accumulated over the years.”
+
+ 
+
+In responses to investor questions in March 2025 and May 2025, eClickTech confirmed the partnership is “proceeding smoothly.” This should alarm AppLovin investors not only as it seems to contradict Foroughi’s insistence that AppLovin isn’t operating in China, but also because eClickTech has faced past allegations of unsavory conduct.
+
+ 
+
+In late 2018 on the back of a Buzzfeed investigation into Cheetah Mobile, Google identified eClickTech as a “malicious ad network” whose SDKs were responsible for fraudulent app install tracking. Google requested that developers remove Yeahmobi’s SDK from apps.47
+
+ 
+
+In April 2024, cyber intelligence firm Silent Push published an investigation alleging that EClickTech’s ad exchange was harvesting visitor data, including visitors to UK government websites.
+
+BlueFocus: AppLovin Partner with Ties to Illegal Surveillance, Failed to go Public in the U.S., Blocked by CFIUS
+In January 2025, AppLovin also signed a similar “e-commerce strategic co-operation” with BlueFocus Intelligent Communications Group (SZ 300058). According BlueFocus in April 2025, “the company’s cooperation with AppLovin is also proceeding closely.” AppLovin never disclosed the agreement to U.S. investors.
+
+Source: BlueFocus 2024 Annual Report
+
+BlueFocus has its own ties to bad actors, alleged illegal data gathering, and has twice tried and failed to go public in the U.S., each time under questionable circumstances.48
+
+In September 2017, BlueFocus attempted to merge with Cogint (NASDAQ:COGT), which was formerly known as IDI, Inc. and has since become Fluent (FLNT). Longtime fans will recall that Cogint was majority-owned by insiders including Michael Brauser and Phillip Frost, who later settled SEC charges for stock manipulation. In February 2018, CFIUS blocked the deal.
+In 2019, BlueFocus came under scrutiny as its 20% ownership of Behe Technology, which was exposed for having deployed “probe boxes” that captured device mobile device IMEIs, allowing for large-scale surveillance. BlueFocus disclaimed knowledge of the probe box operation.
+ 
+
+“According to the CCTV report, a ‘probe box’ detects mobile devices when they reach out to detect nearby wireless networks. The machine can decipher the smartphone’s IMEI (international mobile equipment identity) number, which can then be referenced with other data sources to determine the user’s phone number and other data.”
+
+ 
+
+In 2020, BlueFocus subsidiary Blue Valor attempted to go public in the U.S., this time through a SPAC transaction with Legacy Acquisition Corp. The deal was terminated in July 2020, and the SPAC instead merged with PARTS iD Inc, which filed for bankruptcy less than 3 years later.
+ 
+
+More broadly, BlueFocus’s CCP sympathies should be obvious. In 2021, the company launched a short video contest which called for employees to shoot and share videos that “express their blessings and love for the Party and the motherland.”
+
+ 
+
+Source: BlueFocus 2021 annual report
+
+Tang’s network is involved in money laundering, human trafficking, illegal gambling and data-harvesting. These are all activities the U.S. government has time and time again called out in China. In our view, Tang’s background disqualifies AppLovin’s pursuit of TikTok’s ex-China business, and AppLovin’s misleading disclosures around Tang’s ownership suggests a cover-up. Regulators must determine whether a Big Tech corporation entwined with CCP-connected actors can ever be trusted with user data of Americans. We are short.
+
+ 
+
+Appendix: Angel Pride BVI Filing: Kevin Shum, Hong Wai Cheng
+
+DISCLAIMER
+By downloading from or viewing material on this website you agree to the following Terms of Service. Use of Culper Research’s (“Culper”) research is at your own risk. In no event should Culper or any affiliated party be liable for any direct or indirect trading losses caused by any information on this site. You further agree to do your own research and due diligence, consult your own financial, legal, and tax advisors before making any investment decision with respect to transacting in any securities covered herein. You should assume that Culper (possibly along with or through our members, partners, affiliates, employees, and/or consultants) along with our clients and/or investors has a position in any securities covered herein. You should assume that following publication of any research, we are likely to immediately transact in these securities (by increasing and/or decreasing positions and/or risk exposure), continue to trade in these securities for an undefined time period thereafter, and be long, short, or neutral at any time hereafter regardless of our initial recommendation, conclusions, or opinions. We trade securities in conjunction with risk tolerances and management practices, and such trading may result in the derisking of some or all of the positions in the securities covered herein, at any time following publication of any report, depending on security-specific, market, portfolio, or other relevant conditions. Culper does not undertake to update or supplement this report to reflect changes in its position. Research may contain estimated fair values of securities, utilizing various valuation methods. Estimated fair values are not price targets, and Culper does not commit to hold securities until such time as the estimated fair values are reached. Culper may change its estimates of fair values at any time hereafter without updating its research or otherwise disclosing updated fair values publicly. We may transact in the covered securities for various reasons, none of which may relate to Culper’s estimates of fair value. Research is not investment advice nor a recommendation or solicitation to buy securities. To the best of our ability and belief, all information contained herein is accurate and reliable, and has been obtained from public sources we believe to be accurate and reliable, and who are not insiders or connected persons of the securities covered herein or who may otherwise owe any fiduciary duty or duty of confidentiality to the issuer. However, such information is presented “as is,” without warranty of any kind – whether express or implied. Culper makes no representation, express or implied, as to the accuracy, timeliness, or completeness of any such information or with regard to the results to be obtained from its use. Research may contain forward-looking statements, estimates, projections, and opinions with respect to among other things, certain accounting, legal, and regulatory issues the issuer faces and the potential impact of those issues on its future business, financial condition and results of operations, as well as more generally, the issuer’s anticipated operating performance, access to capital markets, market conditions, assets and liabilities. Such statements, estimates, projections and opinions may prove to be substantially inaccurate and are inherently subject to significant risks and uncertainties beyond Culper’s control. All expressions of opinion are subject to change without notice, and Culper does not undertake to update or supplement this report or any of the information contained herein. You agree that the information on this website is copyrighted, and you therefore agree not to distribute this information (whether the downloaded file, copies / images / reproductions, or the link to these files) in any manner other than by providing the following link — http://www.culperresearch.com The failure of Culper to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of this right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision and rule that the other provisions of these Terms of Service remain in full force and effect, in particular as to this governing law and jurisdiction provision. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or the material herein must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+REFERENCES
+1   If we, Company-favorably assume that those shares figures are accurate, notwithstanding AppLovin’s historical disclosure irregularities, undisclosed margin loans, and the presence of “discreet” shareholder Southwind Media, which goes unnamed in AppLovin’s SEC filings.
+
+2   See video at 16:30
+
+3   Hao Tang and Orient Hontai appear to be closely affiliated. We discovered an HK entity, Kunshan Technology Investment (HK) Limited, that names Hao Tang and Orient Hontai CEO Yuntao Ma as directors (see Hong Kong registry). Further, in 2022, an investment firm linked to Hao Tang “took control” of Joye Media from Orient Hontai, per S&P Global
+
+4   In September 2017, AppLovin issued convertible notes to AppLovin Holdings LLC and Kuntai Technology Investment (“HK”) Limited, for $233.3 million and $8.4 million, respectively. In November 2017, the Company issued another $600 million in convertible notes. See AppLovin’s Form S-1 filings.
+
+5   Via the same Form S-1, page F-33, citing, “the transfer of the Warrant to Angel Pride Holdings Limited and Hontai App Fund Limited Partnership in the amount of 26,021,583 shares and 8,794,734 shares of Class A common stock, respectively.”
+
+6   Neither AppLovin nor the owners appear to disclose the beneficial owners of the other 3 million shares.
+
+7   Hontai App Fund’s updated SC 13G/A filed on February 8, 2024 confirmed it “had distributed all shares of Class A Common Stock held by it to its limited partners...”
+
+8   See trademark (pg. 275) and Hong Kong records and partial HKID (R909).
+
+9   See addresses listed by both Midterm Success and Discovery Key.
+
+10   See Angel Pride Schedule 13G.
+
+11   Hao Tang also appointed Min Yan Zhang as a board observer of The Stars Group Inc (formerly TSG) in connection with Tang’s 2018 investment into the company.
+
+12   See page 21 of this report.
+
+13   See Appendix for BVI screenshot. Both Shum and Cheng also appear alongside Hao Tang at UK-based Tier One Advisory.
+
+14   Angel Pride also filed an updated Form 13G in February 2024 disclosing ownership of 20,493,747 shares.
+
+15   Neither Angel Pride nor Midterm Success appear as significant shareholders of any other US-listed companies, while both entities secured ISDA agreements with JP Morgan, suggesting that the pledged assets are APP shares valued in the tens of millions of dollars.
+
+16   Charge ID HJDK9W; Margin loan transaction ID T220027038; Registered January 17, 2022. Account control agreement (closed) Transaction # T220029918; IDs 3AL0PD, SHDJ64
+
+17   Charge ID X91U9N; Transaction # T240205270; Registered April 17, 2024
+
+18   Charge IDs: ISDA master confirmation 7AI6OE; Account control agreement I9UQQ5. Charges released in January 2025, appear to have been replaced by new charges, IDs: 31TA90, 55818Z. Transaction numbers T240549398 and T240549399 registered on August 26, 2024.
+
+19   Charge IDs: ISDA master confirmation I4J7TX; Account control agreement WRODZ5; transaction # T240602705
+
+20   Angel Pride amended articles of association, resolution dated January 12, 2022, filed January 14, 2022, transaction # T220023310
+
+21   APP’s insider trading policy also claims to “prohibit our employees, including our executive officers and the members of our Board of Directors, from hedging any company securities and from pledging more than 10% of any company securities as collateral for a loan.” It also forbids trading in “derivative securities” and “holding AppLovin’s common stock in margin accounts.”
+
+22   In May 2025, AppLovin director Eduardo Vivas entered into a similar share forward transaction, effectively locking in the sale of 550,000 APP shares for an astounding $131.1 million.
+
+23   Angel Pride Form 13G/A filed October 15, 2024; Midterm Success as disclosed in Proxy filed April 30, 2024. Based on 273,970,847 shares outstanding.
+
+24   We find it telling that both Angel Pride and Midterm Success filed updated disclosures on the same day. They must be made annually, but other owners filed Jan 30, but also February 4, Feb 7, Feb 7, and Feb 12.
+
+25   Hao Tang is named by Discovery Key Investments Limited in connection with Discovery Key’s previous stake in The Stars Group Inc.
+
+26   We refer to Goldenway’s various subsidiaries and affiliates interchangeably. Goldenway, Inc.’s disclosed subsidiaries include (i) Goldenway Precious Metals Limited (HK), (ii) Goldenway Global Investments (UK) Limited, (iii) Goldtop Success Limited (HK) and (iv) Goldenway Financial Holdings Limited (HK).
+
+27   Goldenway Investments Holdings Limited, Fenton Capital Inc., and SMP Trustees (NZ) Limited.
+
+28   Vanuatu is considered a high-risk jurisdiction for money laundering and terrorist financing, and known for selling citizenships to fugitives, fraudsters, sanctioned politicians, and disgraced businessmen.
+
+29   Purchase records also suggest that Goldenway acquired the aircraft in December 2016.
+
+30   By way of additional confirmation, H.K. filings also name Hao Tang as a director of Worthy Corporation (H.K.) Limited. Worthy shares an address with International Entertainment Corporation and Discovery Key Limited at 18/F, Three Exchange Square, 8 Connaught Place, Central Hong Kong.
+
+31   See Southwind’s address at: Unit 11, 22/F Global Gateway Tower, Nos. 61 - 63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong.
+
+32   See Japanese filings.
+
+33   Kevin Shum appears as signatory of Midterm Success, Asian Creative Capital, and Discovery Key in AppLovin ownership filings. He was also a director of Joye Media.
+
+34   According to some media reports, Orient Hontai effectively transferred its stake in Mediapro to SOUTHWIND MEDIA HOLDINGS via a capital injection, diluting other shareholders. S&P describes the transaction as a stake transfer.
+
+35   Carol Gaw also appears as director of Montclair. Gaw is a lawyer who often appears on Hao Tang affiliated companies.
+
+36   Montclair shareholder Metro Harvest Limited also appears affiliated with Henderson Land Development Company Limited, one of the largest real estate developers in Hong Kong, whose founder Lee Shau-kee is described as being “friends” with the infamous Cheng family. Lee attended the elder Cheng’s funeral and Adrian Cheng’s wedding. Shau-Kee has also attended meetings with Xi Jinping himself.
+
+37   In March 2021, Huang Youlong was arrested in France after Dongguan prosecutors issued an Interpol red notice. The notice referenced Youlong’s involvement in Tuandai – a purported P2P lending platform that acted as a front for criminal activity. Tuandai had been shut down, its founder sentenced to 20 years in prison, and its funds seized. Youlong had invested in the platform, allegedly on behalf of Xiao Jianhua, who in turn is known for managing the assets of high-level CCP officials. An April 2025 expose by the ICIJ detailed “how China weaponizes [Interpol] for political ends.”
+
+38   Goldenway Investments Holdings (China) Limited is also listed as a shareholder of JC International Finance Limited.
+
+39   The casino re-opened in 2019, and shares were delisted in May 2020.
+
+40   Tech Innovation Management was listed as a POGO licensee until its license was cancelled in January 2024.
+
+41   According to a 2019 Philippines SEC filing, Tech Innovation Management Limited is listed as the controlling shareholder of FortuneGate Holdings Philippines.
+
+42   Finally, FortuneGate Holdings Philippines also held a stake in DigiPlus (PLUS PH), which was later replaced by Profit Tone Global Investments Ltd. Profit Tone also held a stake in Playtech, signed by long-time Hao Tang associate Ricky Lai. The name Ricky Lai also appears on archived web page of Noah Growth Capital, an entity apparently affiliated with Tang Ling and Angel Pride Holdings.
+
+43   In 2020, Wong Meng was appointed CEO of IEC. IEC Board member Melvin Zhang was the COO of Tang’s Goldenway; Angel Pride lists Cheng Hong Wai as signatory, while Cheng Hong Wai was also a board member at IEC; Tang’s Goldenway Japan extended a loan to IEC in 2019.
+
+44   Li Ong was arrested alongside the sister of dismissed and disgraced Philippine mayor Alice Guo, as the Justice Secretary reportedly “found a connection” between Alice Guo and Li Ong. Footage shows Alice Guo with Lucky 99 officials. Guo is an admitted Chinese national who now faces decades in prison after 62 charges related to money laundering and human trafficking through POGO hubs. In one instance, formerly enslaved workers presented signs of torture and physical abuse, including electrocution in what was described as a “torture chamber.”
+
+45   We identify that this Hao Tang is the same individual in question as Tang’s address in UK filings is House 5, Bel-Air Peak Rise Villa, Bel-Air, Bel-Air On The Peak, Island South (Phase V), Pok Fu Lam, Hong Kong. This address is also listed as Hao Tang’s address at Hong Kong-based Eternal Lead Limited, where Hao is the sole director, confirmed as the same individual via Hong Kong records and partial HKID (R909).
+
+46   eClickTech / Easy Click Worldwide Network Technology Co., Ltd. operates the Cyberklick and Yeahmobi brands, and is also known as YiDianTianXia.
+
+47   eClickTech’s SDKs appear to have been at least partially restored as of late 2024.
+
+48   Some Chinese media reports suggest that BlueFocus took a $35 million USD equity stake in AppLovin. The veracity of this claim is unclear to us.
+

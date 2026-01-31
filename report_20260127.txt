@@ -1,0 +1,168 @@
+Question 1 of the “Nine-Question Series
+for AppLovin”: Hao Tang and Ling
+Tang—who is really calling the shots at
+AppLovin?
+Foreword
+While AppLovin’s (NASDAQ: APP) stock price continues its aggressive ascent, the
+fog surrounding its equity structure has never fully dissipated. Aside from founder
+Adam Foroughi, the market’s biggest questions have consistently revolved around
+two names: Ling Tang and Hao Tang. They hold massive stakes through entities like
+Angel Pride Holdings Limited, yet remain virtually invisible in the public market.
+While speculation about their close relationship is rife, "hard evidence" at the legal
+level has been lacking.
+By excavating underlying documents from the Hong Kong Companies Registry,
+Capitalwatch has, for the first time, uncovered definitive legal proof connecting these
+two mysterious shareholders. We have discovered that they not only share the same
+business network but also exhibit a synchronization in core asset operations that
+resembles a "sleight of hand" between left and right.
+
+I. Target Locked: From "Angel Pride" to "AP
+Investment"
+Amidst the vast ocean of companies registered in Hong Kong, an entity named AP
+Investment Capital Company Limited (Company Number: 3051446) caught our
+attention.
+According to the Form NNC2 (Notice of Change of Company Name) we obtained,
+this company’s predecessor was none other than ANGEL PRIDE CAPITAL (HK)
+LIMITED. On August 25, 2021, the company passed a special resolution to change its
+name to AP Investment Capital Company Limited. ANGLE PRIDE CAPITAL (HK)
+Limited is the entity that held as much as 14% of AppLovin’s shares at the time of
+its IPO.
+This renaming record is the crucial starting point of the evidentiary chain: it directly
+locks this Hong Kong entity to AppLovin’s major shareholder—Angel Pride Holdings
+Limited (BVI)—through both naming logic and brand identity. This company serves
+as a window into the capital operations of the Tang family.
+
+Screenshot: Form NNC2 (Notice of Change of Company Name) shows that ANGEL PRIDE CAPITAL (HK)
+LIMITED changed its name to AP Investment Capital Company Limited.
+
+II. The Critical Moment: The "Seamless Handover" of
+November 12, 2024
+By interpreting the company’s latest Form ND2A (Notice of Change of Company
+Secretary and Director), we captured a moment of power transfer that is extremely
+difficult to detect through public channels. The document records a key personnel
+change that occurred on November 12, 2024:
+
+1. The Depicting Director: Ling Tang
+
+
+
+
+Identity Confirmation: The document explicitly records the ceasing director
+as TANG Ling, holding a Hong Kong Identity Card (M636***).
+Date of Cessation: November 12, 2024.
+Reason for Cessation: Resignation/Others.
+
+2. The Incoming Director: Hao Tang
+
+
+
+Identity Confirmation: The director appointed on the same day is TANG Hao,
+holding a Hong Kong Identity Card (R909***).
+Date of Appointment: November 12, 2024.
+
+Deep Insight: Manifestation of a Single Will
+
+
+
+
+Zero-Day Handover: Ling Tang’s resignation and Hao Tang’s appointment
+occurred on the exact same day. In director replacements involving
+independent third parties, processes such as due diligence and shareholder
+approval typically create a time lag. This "immediate handover" is a classic
+characteristic of power transfer within a family business or a tight-knit interest
+group, proving that both individuals represent the exact same will and interest.
+Spelling and Identity: The documents confirm that both hold Hong Kong
+Identity Cards and use the same English surname spelling "TANG".
+Combined with their parallel status on AppLovin’s shareholder list, this is
+sufficient to lock them together as related parties in the chain of legal
+evidence.
+
+Screenshot: The Truth Behind the “Zero-Day Handover”: A Family-Style Transfer of Power and
+Conclusive Related-Party Evidence
+
+III. Overlap in Physical Space: Sharing a "Legal Avatar"
+The Form ND2A reveals another critical detail—the politics of address.
+When declaring director particulars, the newly appointed director, Hao Tang,
+provided the following correspondence address: Unit 11, 22/F, Global Gateway
+Tower, Nos. 61-63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong.
+This address is identical to that of the document’s submitter (Presentor)—CEO
+Corporate Services Limited.
+This implies:
+1. No Independent Office: The capital company controlled by the Tang duo does
+not possess an independent physical office space. Instead, it relies on a
+corporate secretarial firm to act as its "Legal Avatar" in Hong Kong.
+2. High Dependence on Intermediaries: From the tenure of director Chen Wei Jie
+in 2021 to Hao Tang’s takeover in 2024, this operational mode has been
+consistent. They are accustomed to hiding beneath the compliance cloak
+provided by professional agencies.
+
+IV. Iteration of Concealment Technology: From BVI to
+Trust
+Combining historical SEC filings with the latest Hong Kong regulatory declarations
+described above, we can clearly map the complex equity maze constructed by Hao
+Tang and Ling Tang to evade look-through regulation. This is not simple holding; it is
+a meticulously planned "vanishing act."
+
+Phase 1: Direct Holding and the Vistra Channel (Amaya Era)
+As early as 2017, Hao Tang held shares in Amaya Inc. (later The Stars Group)
+through Discovery Key Investments Limited. At that time, he used an address at 18/F,
+Three Exchange Square, a landmark building in Hong Kong. Verification confirms
+this as the office of the top-tier corporate service provider Vistra (Hong Kong)
+Limited. Since then, Hao Tang has been accustomed to using "virtual headquarters"
+provided by premier service providers to manage his billions in offshore assets.
+
+Phase 2: Angel Pride and Family Proxy (AppLovin IPO Era)
+Around the time of AppLovin’s IPO, the Tang family’s holding platform changed to
+Angel Pride Holdings Limited (BVI). SEC filings once showed Ling Tang as the sole
+director. The evidence from the Form ND2A demonstrates that this "singularity" can
+be swapped between Ling Tang and Hao Tang at any moment.
+
+Phase 3: Trustification and Depersonalization (2024-2025)
+The latest SEC Schedule 13G amendments reveal a deeper structural
+change: Prominence Trust Limited has replaced natural persons as the shareholder of
+Angel Pride.
+
+
+
+
+Asset Isolation: Placing equity into a Hong Kong trust (Prominence Trust)
+legally severs the direct ownership relationship between the natural persons
+(Hao Tang/Ling Tang) and the assets. If faced with external legal recourse
+(such as related investigations within China), trust assets often provide an
+additional firewall.
+Information Blocking: The public can only see the institutional name
+"Prominence Trust" and cannot penetrate it to see the Beneficiaries and
+Protector behind it.
+
+Conclusion
+
+Through an inconspicuous Form ND2A, AP Investment Capital Company Limited
+has surfaced, becoming the key puzzle piece connecting Ling Tang and Hao Tang.
+The signature change on November 12, 2024, was not merely an administrative
+formality; it is ironclad proof of the internal circulation within the Tang family's
+capital map.
+AppLovin investors must clearly recognize: although the company is listed in the
+United States, the shareholders wielding massive voting power are an opaque force
+hidden behind layers of offshore companies, Hong Kong trusts, and corporate
+secretarial firms. Ling Tang and Hao Tang are merely two masks presented to the
+world by this force—and behind the masks, there may be only one voice.
+Preview:
+In the ND2A filing of AP Investment Capital Company Limited, we identified a director
+named Chen Wei Jie. Further checks indicate that he is also linked to a highly consequential
+financial fraud case (AGK/FCD game-based financial investment & trading platform) in
+Singapore—described in public sources as one in which “3 million people were drawn in,
+and RMB 6 billion disappeared.”
+We have completed deeper, cross-jurisdictional tracing and obtained new, up-to-date
+documentary evidence. In the coming releases, we will disclose key findings point by
+point—explaining why we believe Hao Tang and Ling Tang (of AP Investment Capital
+Company Limited, and widely regarded as core shareholders around the AppLovin IPO)
+play central roles in the relevant cross-border capital network, and mapping the pathways
+connecting it to systematic operations involving illegal gambling and illegal fundraising.
+At the same time, we have obtained, through internal whistleblower channels, materials
+relevant to identity verification for Hao Tang and Ling Tang, including images and key data
+elements from government-issued identification documents (e.g., passports and national ID
+cards). These materials have been preserved as evidence and cataloged with unique reference
+numbers, and have been submitted to the SEC and the DOJ to support their lawful efforts to
+verify identities, trace related financial flows, and pursue subsequent asset seizure.
+
+

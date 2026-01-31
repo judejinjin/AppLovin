@@ -3797,3 +3797,388 @@ Fuzzy Panda draws parallels to Digital Turbine, which fell >95% from peak:
 | **Tang/Chinese ownership** | Parts 13-14, 17 | Gaming studios sale may involve Chinese buyer again |
 | **Cheetah Mobile comparison** | Part 15 (Muddy Waters) | Digital Turbine (APPS) as additional precedent (-95%) |
 
+
+---
+
+## Part 19: CapitalWatch "Nine-Question Series" - Tang Family Director Swap Evidence (January 27, 2026)
+
+### 19.1 Report Overview
+
+**Source:** CapitalWatch  
+**Date:** January 27, 2026  
+**Series:** Question 1 of "Nine-Question Series for AppLovin"  
+**Primary Focus:** Documentary proof connecting Ling Tang and Hao Tang as related parties through Hong Kong Companies Registry filings
+
+---
+
+### 19.2 Key Discovery: AP Investment Capital Company Limited
+
+CapitalWatch uncovered Hong Kong company **AP Investment Capital Company Limited** (Company Number: 3051446):
+
+**Critical Finding - Form NNC2:**
+- Previous name: **ANGEL PRIDE CAPITAL (HK) LIMITED**
+- Name changed: August 25, 2021
+- New name: AP Investment Capital Company Limited
+
+**Significance:** This directly links the Hong Kong entity to AppLovin's major shareholder Angel Pride Holdings Limited (BVI), which held ~14% of shares at IPO.
+
+---
+
+### 19.3 The "Zero-Day Handover" - November 12, 2024
+
+Form ND2A (Notice of Change of Company Secretary and Director) reveals a critical power transfer:
+
+#### Departing Director: Ling Tang
+
+| Detail | Information |
+|--------|-------------|
+| **Name** | TANG Ling |
+| **ID** | Hong Kong Identity Card (M636***) |
+| **Cessation Date** | November 12, 2024 |
+| **Reason** | Resignation/Others |
+
+#### Incoming Director: Hao Tang
+
+| Detail | Information |
+|--------|-------------|
+| **Name** | TANG Hao |
+| **ID** | Hong Kong Identity Card (R909***) |
+| **Appointment Date** | November 12, 2024 |
+
+### 19.4 Analysis: "Single Will" Evidence
+
+**Zero-Day Handover Implications:**
+
+| Observation | Significance |
+|-------------|--------------|
+| **Same-day transfer** | No due diligence gap typical of independent third-party transfers |
+| **Immediate handover** | Classic characteristic of family business or tight-knit interest group |
+| **Same surname spelling** | Both use "TANG" with Hong Kong ID cards |
+| **Parallel shareholder status** | Both appear on AppLovin shareholder list |
+
+**CapitalWatch Conclusion:**
+> "This 'immediate handover' is a classic characteristic of power transfer within a family business or a tight-knit interest group, proving that both individuals represent the exact same will and interest."
+
+---
+
+### 19.5 Shared Address - "Legal Avatar"
+
+**Hao Tang's Correspondence Address:**
+> Unit 11, 22/F, Global Gateway Tower, Nos. 61-63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong
+
+**Same as:** Document submitter (Presentor) - CEO Corporate Services Limited
+
+**Implications:**
+1. **No independent office** - Tang-controlled entities rely on corporate secretarial firms
+2. **High intermediary dependence** - Consistent pattern from 2021 to 2024
+3. **Compliance cloak** - Hidden beneath professional agency cover
+
+---
+
+### 19.6 Evolution of Concealment Structure
+
+CapitalWatch maps three phases of the Tang family's "vanishing act":
+
+#### Phase 1: Direct Holding & Vistra Channel (Amaya Era ~2017)
+
+| Element | Detail |
+|---------|--------|
+| **Vehicle** | Discovery Key Investments Limited |
+| **Target** | Amaya Inc. (later The Stars Group) |
+| **Address** | 18/F, Three Exchange Square (Vistra Hong Kong Limited) |
+| **Method** | "Virtual headquarters" via top-tier corporate service provider |
+
+#### Phase 2: Angel Pride & Family Proxy (AppLovin IPO Era)
+
+| Element | Detail |
+|---------|--------|
+| **Vehicle** | Angel Pride Holdings Limited (BVI) |
+| **Director** | Ling Tang (SEC filings showed as "sole director") |
+| **Key Finding** | Form ND2A proves this "singularity" can swap between Ling/Hao at any moment |
+
+#### Phase 3: Trustification & Depersonalization (2024-2025)
+
+| Element | Detail |
+|---------|--------|
+| **New Structure** | Prominence Trust Limited replaces natural persons |
+| **Disclosed in** | SEC Schedule 13G amendments |
+| **Purpose 1** | Asset isolation - trust provides legal firewall against external recourse |
+| **Purpose 2** | Information blocking - public sees only "Prominence Trust," not beneficiaries |
+
+---
+
+### 19.7 Regulatory Evasion Diagram
+
+```
+Natural Persons (Hao Tang / Ling Tang)
+            ↓
+    [HIDDEN BY TRUST STRUCTURE]
+            ↓
+    Prominence Trust Limited (HK)
+            ↓
+    Angel Pride Holdings Limited (BVI)
+            ↓
+    AP Investment Capital Company Limited (HK)
+            ↓
+    AppLovin Corporation (NASDAQ: APP)
+```
+
+**CapitalWatch Assessment:**
+> "AppLovin investors must clearly recognize: although the company is listed in the United States, the shareholders wielding massive voting power are an opaque force hidden behind layers of offshore companies, Hong Kong trusts, and corporate secretarial firms. Ling Tang and Hao Tang are merely two masks presented to the world by this force—and behind the masks, there may be only one voice."
+
+---
+
+### 19.8 Preview: Chen Wei Jie & AGK/FCD Fraud Case
+
+CapitalWatch teases upcoming revelations:
+
+**Director Identified:** Chen Wei Jie (appeared in ND2A filing, director in 2021)
+
+**Linked To:** AGK/FCD game-based financial investment & trading platform fraud
+
+| Metric | Scale |
+|--------|-------|
+| **Victims** | 3 million people |
+| **Missing Funds** | RMB 6 billion (~$830M USD) |
+| **Jurisdiction** | Singapore |
+
+**Upcoming Disclosures:**
+- Cross-jurisdictional tracing documentation
+- Hao Tang and Ling Tang's "central roles" in cross-border capital network
+- Pathways to illegal gambling and illegal fundraising operations
+
+---
+
+### 19.9 Whistleblower Materials Submitted to Regulators
+
+**Materials Obtained:**
+- Identity verification documents for Hao Tang and Ling Tang
+- Government-issued ID images (passports, national ID cards)
+- Key data elements
+
+**Status:**
+- Preserved as evidence with unique reference numbers
+- **Submitted to SEC and DOJ** to support:
+  - Identity verification
+  - Tracing related financial flows
+  - Subsequent asset seizure efforts
+
+---
+
+### 19.10 Corroboration with Prior Research
+
+| Topic | Prior Finding | CapitalWatch Addition |
+|-------|--------------|----------------------|
+| **Tang relationship** | Part 14 (Discovery Key), Part 17 (Culper) | Form ND2A proving same-day director swap |
+| **BVI structures** | Part 17 (Culper - margin loans) | Three-phase evolution to trust structure |
+| **Prominence Trust** | Part 17 (Culper - Lewis Ho connection) | Confirmed as current holding vehicle replacing natural persons |
+| **Vistra connection** | Not previously documented | Hao Tang using Vistra since Amaya/2017 |
+| **Regulatory submissions** | N/A | Whistleblower materials now with SEC/DOJ |
+
+---
+
+### 19.11 Significance for Investors
+
+**Key Takeaways:**
+
+1. **First documentary proof** that Ling Tang and Hao Tang operate as a single entity
+2. **Same-day director swap** demonstrates coordinated family control
+3. **Three-layer concealment** (BVI → HK Trust → Corporate Secretary) designed to evade look-through regulation
+4. **AGK/FCD fraud connection** pending - links to RMB 6 billion financial fraud case
+5. **SEC/DOJ engagement** - regulators now have identity documents for potential enforcement
+
+**CapitalWatch Conclusion:**
+> "The signature change on November 12, 2024, was not merely an administrative formality; it is ironclad proof of the internal circulation within the Tang family's capital map."
+
+
+---
+
+## Part 20: Bordeaux Court Ruling - Hao Tang Arrested on Interpol Red Notice BEFORE AppLovin IPO (March 2021)
+
+### 20.1 Document Overview
+
+**Source:** Bordeaux Court of Appeal, Investigating Chamber  
+**Case Number:** 2021/00243  
+**Ruling Date:** July 15, 2021  
+**Subject:** Chinese extradition request for Hao Tang  
+**Outcome:** NEGATIVE OPINION on extradition
+
+---
+
+### 20.2 CRITICAL TIMELINE - Pre-IPO Arrest
+
+| Date | Event |
+|------|-------|
+| **July 7, 2020** | Dongguan Public Security Bureau issues international arrest warrant (Interpol Red Notice) |
+| **March 22, 2021** | **Hao Tang ARRESTED by French border police at Bordeaux-Mérignac airport** |
+| **March 24, 2021** | Brought before French magistrate, placed under judicial supervision |
+| **April 15, 2021** | **AppLovin IPO on NASDAQ** |
+| **May 17, 2021** | Chinese Embassy transmits formal extradition request |
+| **June 22, 2021** | Tang declares refusal to be extradited |
+| **July 15, 2021** | Bordeaux Court issues NEGATIVE opinion on extradition |
+
+### 20.3 ⚠️ KEY DISCLOSURE FAILURE
+
+**AppLovin's IPO occurred on April 15, 2021 - while Hao Tang (major shareholder via Angel Pride) was:**
+- Under arrest on an Interpol Red Notice
+- Subject to Chinese extradition proceedings
+- Under French judicial supervision
+- Prohibited from leaving Gironde department
+- Required to surrender his Singaporean passport
+
+**This material fact was NOT disclosed in AppLovin's S-1 filing.**
+
+---
+
+### 20.4 The Arrest
+
+**Location:** Bordeaux-Mérignac Airport, France  
+**Date:** March 22, 2021  
+**Circumstances:** Disembarking from a **private aircraft arriving from Iceland**
+
+**Judicial Supervision Conditions:**
+- Report once per week to Saint-Émilion gendarmerie
+- Prohibition on leaving Gironde department
+- Surrender Singaporean passport
+
+---
+
+### 20.5 Chinese Criminal Allegations Against Tang
+
+**Charge:** Money Laundering  
+**Period:** February 2018 to March 2019  
+**Amount:** 632.89 million CNY (~$98 million USD)  
+**Penalty:** Up to 10 years imprisonment
+
+#### The Underlying Fraud: Tuandai P2P Platform
+
+| Metric | Amount |
+|--------|--------|
+| **Total Funds Collected** | 253.5 billion RMB (~$39 billion) |
+| **Number of Victims** | 1,126,200 persons |
+| **Unpaid Amounts** | 34.8 billion RMB (~$5.4 billion) |
+| **Funds Linked to Tang** | 632.89 million RMB (~$98 million) |
+
+**Principal Fraudster:** Jun Tang (legal representative of Paishen Technology, operator of Tuandai.com)
+
+#### Allegations Against Hao Tang:
+
+1. **Received illegal funds** - 632.89 million RMB under pretext of "investments and loans"
+2. **International transfer** - Converted funds to foreign currency, transferred abroad via underground banks
+3. **Underground banking** - Used networks operated by Meixian Su and Kanghong Zheng
+4. **Family involvement** - 5.3 million RMB paid to accounts controlled by Tang's sister
+5. **Partial admission** - Through lawyer Yang Sang, allegedly acknowledged receiving ~585 million RMB from Jun Tang
+6. **Illegal transfer abroad** - 170 million RMB through underground currency exchangers
+
+---
+
+### 20.6 Political Dimension - Sun Lijun Connection
+
+The French Court found evidence the extradition had **political motivations**:
+
+**Sun Lijun:** Former Vice-Minister of Public Security (China's top law enforcement official)
+- Arrested April 2020 for "serious violations of discipline and law"
+- Later sentenced to death (suspended) for corruption
+
+**Tang's Connection to Sun Lijun:**
+
+From Court ruling:
+> "The proceedings appear to be motivated by the past links between [Tang] and Sun Lijun, former Vice-Minister of Public Security, arrested in April 2020."
+
+**Coercion Evidence:**
+> "Recorded telephone conversations indicate that the requested person was promised immunity and threatened with reprisals against family members in order to compel cooperation and testimony against Sun Lijun."
+
+**Court Finding:**
+> "These elements tend to demonstrate that the extradition request was not based on the prosecution of a criminal offense personally attributable to [Tang], but rather on the objective of obtaining incriminating testimony against a fallen political figure."
+
+---
+
+### 20.7 French Court's Grounds for Refusing Extradition
+
+The Court issued a **NEGATIVE OPINION** on three independent grounds:
+
+#### Ground 1: Lack of Double Criminality
+
+> "The Court notes that the description of the facts does not establish that [Tang] participated in the offense of illegal absorption of public funds... Nothing in the file establishes that [Tang] was aware of the fraudulent nature of the transactions."
+
+#### Ground 2: Political Motivation (Mandatory Refusal)
+
+Article 3 of Franco-Chinese Extradition Convention:
+> "The extradition request may have a political motive... motivated by the past links between [Tang] and Sun Lijun."
+
+#### Ground 3: Human Rights Concerns
+
+> "Numerous reports produced by the defense describe serious and repeated violations of human rights by the People's Republic of China."
+
+Specific concerns:
+- "Residential surveillance at a designated location" detention
+- LIUZHI procedures - detention without lawyer, family access, or judicial oversight
+- Risk of treatment contrary to ECHR Articles 3 (torture) and 6 (fair trial)
+
+---
+
+### 20.8 Key Personal Details Confirmed
+
+| Detail | Information |
+|--------|-------------|
+| **Full Name** | Tang Hao |
+| **Birth Date** | September 18, 1976 |
+| **Birthplace** | Hunan, China |
+| **Citizenship** | Singaporean passport (surrendered) |
+| **Legal Representation** | Maître BOERNER, Maître SUR, Maître GERARD-RODRIGUEZ |
+
+---
+
+### 20.9 Implications for AppLovin Investors
+
+#### SEC Disclosure Violations
+
+**Material Facts NOT Disclosed in S-1:**
+
+1. **Major shareholder under arrest** - Angel Pride's beneficial owner was in French custody during IPO
+2. **Interpol Red Notice** - International arrest warrant from Chinese authorities
+3. **Money laundering allegations** - $98 million in alleged laundered funds
+4. **Extradition proceedings** - Active legal process during IPO period
+5. **Travel restrictions** - Unable to leave France, passport confiscated
+6. **Connection to massive fraud** - Tuandai platform ($39 billion collected, $5.4 billion unpaid)
+7. **Political connections** - Links to purged Vice-Minister Sun Lijun
+
+#### Regulatory Questions
+
+1. Did AppLovin's legal team know about Tang's arrest?
+2. Was this disclosed to underwriters (Morgan Stanley, JPMorgan, KKR)?
+3. Why was this material information omitted from IPO filings?
+4. Does this constitute securities fraud under Rule 10b-5?
+
+---
+
+### 20.10 Corroboration with Prior Research
+
+| Topic | Prior Finding | Bordeaux Court Addition |
+|-------|--------------|------------------------|
+| **Tang identity** | Part 19 (HK ID R909***) | Birth date September 18, 1976, Hunan |
+| **Interpol Red Notice** | Part 13 (ICIJ investigation) | Actual arrest occurred March 22, 2021 |
+| **Money laundering** | Part 17 (Culper - Goldenway) | 632.89 million RMB specific allegation |
+| **Underground banking** | Part 17 (Culper - GWFX) | Named operators: Meixian Su, Kanghong Zheng |
+| **Pre-IPO timing** | Not previously documented | **Arrest was 24 days BEFORE AppLovin IPO** |
+| **Sister involvement** | Part 19 (Ling Tang) | 5.3 million RMB to sister's accounts |
+| **Singaporean citizenship** | Part 14 (Discovery Key) | Passport confiscated by French court |
+
+---
+
+### 20.11 Summary: The Undisclosed Pre-IPO Crisis
+
+**On March 22, 2021, Hao Tang - beneficial owner of ~14% of AppLovin through Angel Pride Holdings - was arrested by French police on a Chinese Interpol Red Notice for money laundering $98 million connected to a $39 billion Ponzi scheme.**
+
+**Twenty-four days later, AppLovin went public on NASDAQ without disclosing this material fact.**
+
+The Bordeaux Court ultimately refused extradition, but the arrest and proceedings were ongoing during:
+- The IPO roadshow
+- SEC S-1 effectiveness
+- First day of trading
+
+**This represents potentially the most serious undisclosed material fact in AppLovin's history as a public company.**
+
+
+---
+
